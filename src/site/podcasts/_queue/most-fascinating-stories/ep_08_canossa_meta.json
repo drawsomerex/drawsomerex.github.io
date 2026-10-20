@@ -1,0 +1,12 @@
+{
+  "episode": 8,
+  "season": 1,
+  "title": "Episode 8: The Walk to Canossa: When an Emperor Knelt in the Snow",
+  "description": "In the dead of winter in 1077, Holy Roman Emperor Henry IV crossed the frozen Alps to reach Canossa Castle in northern Italy. To save his crown from excommunication by Pope Gregory VII, the most powerful secular ruler in Europe stood barefoot in the snow wearing a coarse haircloth for three days, begging for forgiveness.",
+  "audio": "ep_08_canossa.mp3",
+  "chapters": "ep_08_canossa_chapters.json",
+  "transcript": "ep_08_canossa.vtt",
+  "duration": 726,
+  "size_bytes": 22409738,
+  "scheduled_date": "2026-11-24T15:00:00Z"
+}
