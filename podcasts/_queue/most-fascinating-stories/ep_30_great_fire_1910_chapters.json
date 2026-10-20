@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 48.1,
+      "title": "Act I: The Summer of Smoke"
+    },
+    {
+      "startTime": 147.1,
+      "title": "Act II: The Big Blowup Arrives"
+    },
+    {
+      "startTime": 235.2,
+      "title": "Act III: Trapped in the Placer Creek Canyon"
+    },
+    {
+      "startTime": 316.7,
+      "title": "Act IV: The Nicholson Adit at Gunpoint"
+    },
+    {
+      "startTime": 397.9,
+      "title": "Act V: The Ordeal in the Mud"
+    },
+    {
+      "startTime": 478.8,
+      "title": "Act VI: The Invention of the Pulaski Tool"
+    },
+    {
+      "startTime": 561.8,
+      "title": "Act VII: The Legacy of Gifford Pinchot's Rangers"
+    },
+    {
+      "startTime": 640.4,
+      "title": "Conclusion"
+    }
+  ]
+}
