@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://drawsomerex.github.io/podcasts/most-fascinating-stories/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Most Fascinating Stories</title>
+    <link>https://drawsomerex.github.io/podcasts/most-fascinating-stories</link>
+    <description>History isn’t defined only by great treaties and epic battles—it turns on the bizarre, the terrifying, and the almost-forgotten coincidences that textbooks left behind. In every episode of Most Fascinating Stories, host Rebecca sets the stage before handing the microphone to a new master storyteller to uncover a true, thoroughly sourced, and dramatized historical event you were never taught in school. Concise 10-to-20 minute deep dives into the unbelievable truths behind humanity’s most famous names and darkest moments.</description>
+    <language>en-us</language>
+    <copyright>Creative Commons Attribution 4.0 International (CC-BY-4.0)</copyright>
+    <lastBuildDate>Tue, 20 Oct 2026 19:51:30 +0000</lastBuildDate>
+    <itunes:author>Autonomous Media Lab</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://drawsomerex.github.io/podcasts/most-fascinating-stories/cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>Autonomous Media Lab</itunes:name>
+      <itunes:email>broadcast@synthetic.media</itunes:email>
+    </itunes:owner>
+    <itunes:category text="History">
+      <itunes:category text="Documentary"/>
+    </itunes:category>
+    <podcast:guid>9c5d0f36-0b65-4a0e-cba4-5f4062ef3303</podcast:guid>
+    <podcast:medium>podcast</podcast:medium>
+    <podcast:locked owner="broadcast@synthetic.media">no</podcast:locked>
+    <podcast:license>CC-BY-4.0</podcast:license>
+    <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+    <item>
+      <title>Episode 1: FDR and the Friendly Torpedo That Almost Killed Him</title>
+      <guid isPermaLink="false">e9489ef0-e8b7-49f0-aac5-ed558241f7a7</guid>
+      <pubDate>Tue, 20 Oct 2026 19:48:06 +0000</pubDate>
+      <description>In November 1943, President Franklin D. Roosevelt embarked on a top-secret transatlantic voyage aboard the battleship USS Iowa to meet Churchill and Stalin in Tehran. During live combat exercises, an escort destroyer accidentally launched an armed torpedo directly at the President's ship. Hosted by Rebecca, with story narration by George.</description>
+      <enclosure url="https://drawsomerex.github.io/podcasts/most-fascinating-stories/ep_01_fdr.mp3" length="24898262" type="audio/mpeg"/>
+      <itunes:duration>830</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+      <podcast:chapters url="https://drawsomerex.github.io/podcasts/most-fascinating-stories/ep_01_fdr_chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://drawsomerex.github.io/podcasts/most-fascinating-stories/ep_01_fdr.vtt" type="text/vtt" language="en-us"/>
+    </item>
+  </channel>
+</rss>
