@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 59.1,
+      "title": "Act I: The Cattle King and the Sheep Deadlines"
+    },
+    {
+      "startTime": 164.4,
+      "title": "Act II: Enter Diamondfield Jack"
+    },
+    {
+      "startTime": 248.5,
+      "title": "Act III: Double Murder at Deep Creek"
+    },
+    {
+      "startTime": 335.1,
+      "title": "Act IV: The Trial of the Century in Albion"
+    },
+    {
+      "startTime": 442.8,
+      "title": "Act V: The Scaffold and the Real Killers Confess"
+    },
+    {
+      "startTime": 544.4,
+      "title": "Act VI: From Death Row to Gold Millionaire"
+    },
+    {
+      "startTime": 606.1,
+      "title": "Act VII: The Fremont Street Taxi and the Legend"
+    },
+    {
+      "startTime": 671.2,
+      "title": "Conclusion"
+    }
+  ]
+}
