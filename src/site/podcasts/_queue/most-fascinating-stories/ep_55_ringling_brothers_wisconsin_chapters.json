@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 49.1,
+      "title": "Act I: Five Boys on the Riverbank"
+    },
+    {
+      "startTime": 163.0,
+      "title": "Act II: The Hall Show and the First Wagon"
+    },
+    {
+      "startTime": 272.5,
+      "title": "Act III: Taking to the Canvas"
+    },
+    {
+      "startTime": 400.7,
+      "title": "Act IV: The Winter Quarters in Baraboo"
+    },
+    {
+      "startTime": 503.9,
+      "title": "Act V: The Iron Rails and the Golden Age"
+    },
+    {
+      "startTime": 604.9,
+      "title": "Act VI: The Barnum & Bailey Coup"
+    },
+    {
+      "startTime": 692.4,
+      "title": "Act VII: The Ringling Legacy and Circus World"
+    },
+    {
+      "startTime": 764.1,
+      "title": "Conclusion"
+    }
+  ]
+}
