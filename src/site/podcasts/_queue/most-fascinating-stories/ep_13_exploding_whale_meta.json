@@ -1,0 +1,12 @@
+{
+  "episode": 13,
+  "season": 1,
+  "title": "Episode 13: The Exploding Whale of Oregon: A Highway Division's Blubber Blast",
+  "description": "In November 1970, an eight-ton beached sperm whale washed ashore near Florence, Oregon. Because Oregon beaches were classified as state highways, the Oregon State Highway Division was tasked with disposal. Their solution\u2014detonating half a ton of dynamite to disintegrate the whale\u2014rained massive chunks of blubber over spectators and flattened cars.",
+  "audio": "ep_13_exploding_whale.mp3",
+  "chapters": "ep_13_exploding_whale_chapters.json",
+  "transcript": "ep_13_exploding_whale.vtt",
+  "duration": 656,
+  "size_bytes": 20728915,
+  "scheduled_date": "2026-12-29T15:00:00Z"
+}
