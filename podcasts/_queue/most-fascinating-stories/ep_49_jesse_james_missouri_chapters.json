@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 64.5,
+      "title": "Act I: Born in the Guerrilla Crucible"
+    },
+    {
+      "startTime": 152.7,
+      "title": "Act II: The Birth of the James-Younger Gang"
+    },
+    {
+      "startTime": 237.1,
+      "title": "Act III: The Robin Hood Mythmaker: John Newman Edwards"
+    },
+    {
+      "startTime": 311.8,
+      "title": "Act IV: The Pinkerton Bombing of the Family Farm"
+    },
+    {
+      "startTime": 397.7,
+      "title": "Act V: Disaster at Northfield, Minnesota"
+    },
+    {
+      "startTime": 482.7,
+      "title": "Act VI: The Coward Robert Ford"
+    },
+    {
+      "startTime": 575.0,
+      "title": "Act VII: The Immortal Legend of an American Outlaw"
+    },
+    {
+      "startTime": 647.3,
+      "title": "Conclusion"
+    }
+  ]
+}
