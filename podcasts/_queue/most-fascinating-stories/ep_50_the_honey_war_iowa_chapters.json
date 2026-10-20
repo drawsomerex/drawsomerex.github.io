@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 48.9,
+      "title": "Act I: The Rapids of the River Des Moines"
+    },
+    {
+      "startTime": 140.1,
+      "title": "Act II: The Sheriff and the Bee Trees"
+    },
+    {
+      "startTime": 234.9,
+      "title": "Act III: The Arrest of Sandy Gregory"
+    },
+    {
+      "startTime": 338.4,
+      "title": "Act IV: The Armies Gather in the Snow"
+    },
+    {
+      "startTime": 429.2,
+      "title": "Act V: The Ballad of the Honey War"
+    },
+    {
+      "startTime": 504.1,
+      "title": "Act VI: The Peace Delegates and the Tavern"
+    },
+    {
+      "startTime": 579.6,
+      "title": "Act VII: The Supreme Court and the Granite Markers"
+    },
+    {
+      "startTime": 645.7,
+      "title": "Conclusion"
+    }
+  ]
+}
