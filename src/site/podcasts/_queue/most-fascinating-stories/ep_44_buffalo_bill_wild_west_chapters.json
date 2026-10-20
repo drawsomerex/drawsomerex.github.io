@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 67.0,
+      "title": "Act I: The Real Frontier Scout"
+    },
+    {
+      "startTime": 177.2,
+      "title": "Act II: The Old Glory Blowout in North Platte"
+    },
+    {
+      "startTime": 286.3,
+      "title": "Act III: The Birth of the Traveling Wild West"
+    },
+    {
+      "startTime": 368.3,
+      "title": "Act IV: Little Sure Shot: Annie Oakley"
+    },
+    {
+      "startTime": 440.6,
+      "title": "Act V: Chief Sitting Bull Joins the Troupe"
+    },
+    {
+      "startTime": 514.5,
+      "title": "Act VI: Conquering European Royalty"
+    },
+    {
+      "startTime": 593.2,
+      "title": "Act VII: The Immortal Mythmaker"
+    },
+    {
+      "startTime": 645.5,
+      "title": "Conclusion"
+    }
+  ]
+}
