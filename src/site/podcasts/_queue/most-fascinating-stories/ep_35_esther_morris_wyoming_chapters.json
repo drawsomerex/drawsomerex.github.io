@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 50.0,
+      "title": "Act I: Gold and Revolution in South Pass"
+    },
+    {
+      "startTime": 167.1,
+      "title": "Act II: The Tea Party and the Pact with William Bright"
+    },
+    {
+      "startTime": 266.8,
+      "title": "Act III: Taking the Bench in South Pass"
+    },
+    {
+      "startTime": 367.7,
+      "title": "Act IV: Justice in Calico"
+    },
+    {
+      "startTime": 452.7,
+      "title": "Act V: A Record Unbroken on Appeal"
+    },
+    {
+      "startTime": 526.4,
+      "title": "Act VI: The Suffrage Triumph and the Defiance of Congress"
+    },
+    {
+      "startTime": 584.7,
+      "title": "Act VII: The Equality State and the Bronze in Statuary Hall"
+    },
+    {
+      "startTime": 646.3,
+      "title": "Conclusion"
+    }
+  ]
+}
