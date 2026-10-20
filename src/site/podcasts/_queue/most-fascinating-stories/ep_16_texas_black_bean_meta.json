@@ -1,0 +1,12 @@
+{
+  "episode": 16,
+  "season": 1,
+  "title": "Episode 16: The Black Bean Lottery of 1843: Texas Soldiers and the Jar of Death",
+  "description": "In 1843, following the ill-fated Mier Expedition into Mexico, 176 Texian soldiers were captured and marched toward Mexico City. Mexican dictator Santa Anna ordered every tenth man executed. The condemned were chosen through the infamous Black Bean Lottery: an earthen clay jar containing 159 white beans and 17 black beans.",
+  "audio": "ep_16_texas_black_bean.mp3",
+  "chapters": "ep_16_texas_black_bean_chapters.json",
+  "transcript": "ep_16_texas_black_bean.vtt",
+  "duration": 687,
+  "size_bytes": 21474345,
+  "scheduled_date": "2027-01-19T15:00:00Z"
+}
