@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 65.2,
+      "title": "Act I: The Silver Crash and Leadville's Despair"
+    },
+    {
+      "startTime": 143.6,
+      "title": "Act II: The Audacious Dream of Tingley Wood"
+    },
+    {
+      "startTime": 242.6,
+      "title": "Act III: Engineering a Citadel of Ice"
+    },
+    {
+      "startTime": 346.9,
+      "title": "Act IV: The Grand Opening in the Clouds"
+    },
+    {
+      "startTime": 443.3,
+      "title": "Act V: The Tragic Chinook Thaw"
+    },
+    {
+      "startTime": 515.9,
+      "title": "Act VI: The Meltdown and the Legacy"
+    },
+    {
+      "startTime": 569.2,
+      "title": "Act VII: The Labor War in the Clouds"
+    },
+    {
+      "startTime": 653.4,
+      "title": "Conclusion"
+    }
+  ]
+}
