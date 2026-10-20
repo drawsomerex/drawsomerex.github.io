@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 70.5,
+      "title": "Act I: Gold in the Sacred Black Hills"
+    },
+    {
+      "startTime": 170.5,
+      "title": "Act II: The Living Legend: Wild Bill Hickok"
+    },
+    {
+      "startTime": 271.8,
+      "title": "Act III: The Shadow of Failing Sight"
+    },
+    {
+      "startTime": 344.1,
+      "title": "Act IV: The Fatal Hand in Saloon No. 10"
+    },
+    {
+      "startTime": 438.5,
+      "title": "Act V: The Dead Man's Hand"
+    },
+    {
+      "startTime": 500.5,
+      "title": "Act VI: The Miners' Court and the True Hanging"
+    },
+    {
+      "startTime": 578.7,
+      "title": "Act VII: Mount Moriah and the Legend of Wild Bill"
+    },
+    {
+      "startTime": 630.9,
+      "title": "Conclusion"
+    }
+  ]
+}
