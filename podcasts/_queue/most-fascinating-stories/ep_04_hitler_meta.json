@@ -1,0 +1,12 @@
+{
+  "episode": 4,
+  "season": 1,
+  "title": "Episode 4: Thirteen Minutes: The Lone Clockmaker Who Almost Killed Hitler",
+  "description": "On November 8, 1939, a quiet German carpenter named Georg Elser detonated a precision clockwork bomb inside the Munich B\u00fcrgerbr\u00e4ukeller beer hall. Working in total secrecy for thirty consecutive nights, Elser designed a mechanical masterpiece that brought down the hall's stone pillar. Hitler missed the lethal blast by exactly thirteen minutes due to unexpected autumn fog.",
+  "audio": "ep_04_hitler.mp3",
+  "chapters": "ep_04_hitler_chapters.json",
+  "transcript": "ep_04_hitler.vtt",
+  "duration": 863,
+  "size_bytes": 25688628,
+  "scheduled_date": "2026-10-27T15:00:00Z"
+}
