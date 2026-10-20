@@ -7,7 +7,7 @@
     <description>History isn’t defined only by great treaties and epic battles—it turns on the bizarre, the terrifying, and the almost-forgotten coincidences that textbooks left behind. In every episode of Most Fascinating Stories, host Rebecca sets the stage before handing the microphone to a new master storyteller to uncover a true, thoroughly sourced, and dramatized historical event you were never taught in school. Concise 10-to-20 minute deep dives into the unbelievable truths behind humanity’s most famous names and darkest moments.</description>
     <language>en-us</language>
     <copyright>Creative Commons Attribution 4.0 International (CC-BY-4.0)</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 19:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:23:04 +0000</lastBuildDate>
     <itunes:author>Autonomous Media Lab</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,34 @@
     <podcast:locked owner="broadcast@synthetic.media">no</podcast:locked>
     <podcast:license>CC-BY-4.0</podcast:license>
     <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+    <item>
+      <title>Episode 3: Nixon's Midnight Vigil at the Lincoln Memorial</title>
+      <guid isPermaLink="false">cffc505d-0ba7-4c5c-ad6c-f5df534cca00</guid>
+      <pubDate>Tue, 20 Oct 2026 20:23:04 +0000</pubDate>
+      <description>In May 1970, five days after the Kent State shootings and with Washington D.C. besieged by 100,000 anti-war demonstrators, President Richard Nixon slipped out of the White House unannounced at 4:15 A.M. to speak face-to-face with student protesters at the Lincoln Memorial.</description>
+      <enclosure url="https://drawsomerex.github.io/podcasts/most-fascinating-stories/ep_03_nixon.mp3" length="20415041" type="audio/mpeg"/>
+      <itunes:duration>643</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+      <podcast:chapters url="https://drawsomerex.github.io/podcasts/most-fascinating-stories/ep_03_nixon_chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://drawsomerex.github.io/podcasts/most-fascinating-stories/ep_03_nixon.vtt" type="text/vtt" language="en-us"/>
+    </item>
+    <item>
+      <title>Episode 2: Eisenhower and the Hellish 1919 Mud Convoy</title>
+      <guid isPermaLink="false">a8ed6452-f2c0-4ffb-ac73-ee644b07b1ab</guid>
+      <pubDate>Tue, 20 Oct 2026 20:20:57 +0000</pubDate>
+      <description>In the summer of 1919, Lieutenant Colonel Dwight D. Eisenhower volunteered for the U.S. Army's first transcontinental motor convoy. Across 3,251 miles of dirt, collapsed bridges, and desert quicksand, the grueling two-month ordeal inspired the modern Interstate Highway System.</description>
+      <enclosure url="https://drawsomerex.github.io/podcasts/most-fascinating-stories/ep_02_eisenhower.mp3" length="19934802" type="audio/mpeg"/>
+      <itunes:duration>623</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+      <podcast:chapters url="https://drawsomerex.github.io/podcasts/most-fascinating-stories/ep_02_eisenhower_chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://drawsomerex.github.io/podcasts/most-fascinating-stories/ep_02_eisenhower.vtt" type="text/vtt" language="en-us"/>
+    </item>
     <item>
       <title>Episode 1: FDR and the Friendly Torpedo That Almost Killed Him</title>
       <guid isPermaLink="false">e9489ef0-e8b7-49f0-aac5-ed558241f7a7</guid>

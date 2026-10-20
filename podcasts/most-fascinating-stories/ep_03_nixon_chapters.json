@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 60.0,
+      "title": "Story: Nixon's Midnight Vigil at the Lincoln Memorial"
+    },
+    {
+      "startTime": 604.0,
+      "title": "Conclusion"
+    }
+  ]
+}
