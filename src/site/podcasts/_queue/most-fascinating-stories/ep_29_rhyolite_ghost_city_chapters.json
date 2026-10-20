@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 61.4,
+      "title": "Act I: Shorty Harris and the Green Bullfrog"
+    },
+    {
+      "startTime": 159.6,
+      "title": "Act II: The Concrete Wonder in the Sand"
+    },
+    {
+      "startTime": 257.0,
+      "title": "Act III: Tom Kelly and the Bottle House"
+    },
+    {
+      "startTime": 331.0,
+      "title": "Act IV: Three Rival Railroads and the Italian Villa Depot"
+    },
+    {
+      "startTime": 404.6,
+      "title": "Act V: The Crushing Panic and the Phantom Veins"
+    },
+    {
+      "startTime": 510.3,
+      "title": "Act VI: The Rapid Exodus and the Scavenger Trains"
+    },
+    {
+      "startTime": 584.2,
+      "title": "Act VII: Hollow Skeletons in the Creosote: The Art and Legend"
+    },
+    {
+      "startTime": 656.4,
+      "title": "Conclusion"
+    }
+  ]
+}
