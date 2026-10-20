@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 62.0,
+      "title": "Act I: Doane Robinson's Dream and the Arrival of Borglum"
+    },
+    {
+      "startTime": 179.4,
+      "title": "Act II: The Four Faces of the Republic"
+    },
+    {
+      "startTime": 283.1,
+      "title": "Act III: Sculpting with Dynamite"
+    },
+    {
+      "startTime": 369.7,
+      "title": "Act IV: The Jefferson Disaster and the Shifting Mountain"
+    },
+    {
+      "startTime": 441.2,
+      "title": "Act V: Honeycombing and the Bumper Finish"
+    },
+    {
+      "startTime": 515.9,
+      "title": "Act VI: The Secret Hall of Records"
+    },
+    {
+      "startTime": 588.1,
+      "title": "Act VII: Completion and the Zero-Fatality Miracle"
+    },
+    {
+      "startTime": 653.6,
+      "title": "Conclusion"
+    }
+  ]
+}
