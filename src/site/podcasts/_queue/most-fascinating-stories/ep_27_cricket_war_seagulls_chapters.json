@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.0,
+      "title": "Act I: The Promised Valley and the Green Shoots"
+    },
+    {
+      "startTime": 163.6,
+      "title": "Act II: The Black Army Descends"
+    },
+    {
+      "startTime": 261.8,
+      "title": "Act III: The Desperate Battle in the Fields"
+    },
+    {
+      "startTime": 336.5,
+      "title": "Act IV: The Breaking Point and the Fast on the Frontier"
+    },
+    {
+      "startTime": 408.6,
+      "title": "Act V: The Winged Cloud from the Great Salt Lake"
+    },
+    {
+      "startTime": 462.5,
+      "title": "Act VI: The Feast of the Gulls"
+    },
+    {
+      "startTime": 534.7,
+      "title": "Act VII: The Sacred Bird of Utah"
+    },
+    {
+      "startTime": 603.1,
+      "title": "Conclusion"
+    }
+  ]
+}
