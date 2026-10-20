@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 50.6,
+      "title": "Act I: The City of Pine and Pitch"
+    },
+    {
+      "startTime": 187.5,
+      "title": "Act II: The Spark on DeKoven Street"
+    },
+    {
+      "startTime": 296.0,
+      "title": "Act III: The Fatal Chain of Errors"
+    },
+    {
+      "startTime": 398.8,
+      "title": "Act IV: The Firestorm Leaps the River"
+    },
+    {
+      "startTime": 494.9,
+      "title": "Act V: The Destruction of the Waterworks"
+    },
+    {
+      "startTime": 582.6,
+      "title": "Act VI: The Rain and the Ashes"
+    },
+    {
+      "startTime": 664.8,
+      "title": "Act VII: The Myth and the Rebirth"
+    },
+    {
+      "startTime": 760.4,
+      "title": "Conclusion"
+    }
+  ]
+}
