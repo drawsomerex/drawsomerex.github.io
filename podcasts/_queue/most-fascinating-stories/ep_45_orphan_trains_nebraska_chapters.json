@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 59.4,
+      "title": "Act I: The Street Arabs of Lower Manhattan"
+    },
+    {
+      "startTime": 164.0,
+      "title": "Act II: The Iron Rails Westward"
+    },
+    {
+      "startTime": 256.7,
+      "title": "Act III: The Town Hall Inspections"
+    },
+    {
+      "startTime": 345.7,
+      "title": "Act IV: Hardship and Harmony on the Farm"
+    },
+    {
+      "startTime": 431.4,
+      "title": "Act V: The Catholic Reaction and the New York Foundling Hospital"
+    },
+    {
+      "startTime": 515.6,
+      "title": "Act VI: From Ragged Orphans to State Governors"
+    },
+    {
+      "startTime": 596.4,
+      "title": "Act VII: The End of an Era and the Living Legacy"
+    },
+    {
+      "startTime": 670.9,
+      "title": "Conclusion"
+    }
+  ]
+}

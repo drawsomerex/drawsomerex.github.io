@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 70.9,
+      "title": "Act I: The Firestorm of Popular Sovereignty"
+    },
+    {
+      "startTime": 161.3,
+      "title": "Act II: Border Ruffians and Beecher's Bibles"
+    },
+    {
+      "startTime": 249.8,
+      "title": "Act III: The Sacking of Lawrence"
+    },
+    {
+      "startTime": 326.6,
+      "title": "Act IV: Enter John Brown"
+    },
+    {
+      "startTime": 408.7,
+      "title": "Act V: The Pottawatomie Massacre"
+    },
+    {
+      "startTime": 507.6,
+      "title": "Act VI: The Guerrilla War of 1856"
+    },
+    {
+      "startTime": 588.5,
+      "title": "Act VII: The Path to Harpers Ferry and the Union"
+    },
+    {
+      "startTime": 660.3,
+      "title": "Conclusion"
+    }
+  ]
+}
