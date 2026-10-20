@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 64.2,
+      "title": "Act I: Midnight Treaty with the Czar"
+    },
+    {
+      "startTime": 157.7,
+      "title": "Act II: The Chorus of Press Ridicule and Sumner's Stand"
+    },
+    {
+      "startTime": 254.6,
+      "title": "Act III: Thirty Years in the Dark and the Death of Seward"
+    },
+    {
+      "startTime": 340.3,
+      "title": "Act IV: The Golden Stairs of the Chilkoot Pass"
+    },
+    {
+      "startTime": 427.3,
+      "title": "Act V: Dawson City: The Paris of the Frozen Permafrost"
+    },
+    {
+      "startTime": 511.2,
+      "title": "Act VI: The Nome Gold Rush and Industrial Mining"
+    },
+    {
+      "startTime": 571.9,
+      "title": "Act VII: The Greatest Bargain in History"
+    },
+    {
+      "startTime": 638.2,
+      "title": "Conclusion"
+    }
+  ]
+}
