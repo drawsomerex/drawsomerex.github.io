@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 62.2,
+      "title": "Act I: The Mesa on the Pajarito Plateau"
+    },
+    {
+      "startTime": 164.0,
+      "title": "Act II: Construction in the Mud and Secrecy"
+    },
+    {
+      "startTime": 259.2,
+      "title": "Act III: The Phantom Address: P.O. Box 1663"
+    },
+    {
+      "startTime": 359.5,
+      "title": "Act IV: The Implosion Challenge and the Gadget"
+    },
+    {
+      "startTime": 446.9,
+      "title": "Act V: Trinity: The Day the Sun Rose Twice"
+    },
+    {
+      "startTime": 527.7,
+      "title": "Act VI: The Veil is Lifted"
+    },
+    {
+      "startTime": 599.0,
+      "title": "Act VII: The Legacy of the Atomic City"
+    },
+    {
+      "startTime": 679.0,
+      "title": "Conclusion"
+    }
+  ]
+}
