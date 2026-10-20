@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 50.0,
+      "title": "Act I: Queen of the Great Lakes"
+    },
+    {
+      "startTime": 162.6,
+      "title": "Act II: Loading at Superior and the Approaching Low"
+    },
+    {
+      "startTime": 265.2,
+      "title": "Act III: The White Hurricane Unleashed"
+    },
+    {
+      "startTime": 362.2,
+      "title": "Act IV: The Shoals of Caribou Island"
+    },
+    {
+      "startTime": 454.8,
+      "title": "Act V: The Three Sisters and the Final Call"
+    },
+    {
+      "startTime": 548.9,
+      "title": "Act VI: The Search in the Gale"
+    },
+    {
+      "startTime": 628.7,
+      "title": "Act VII: The Bell of the Mariners Church"
+    },
+    {
+      "startTime": 722.6,
+      "title": "Conclusion"
+    }
+  ]
+}

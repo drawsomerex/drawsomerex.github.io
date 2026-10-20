@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 51.4,
+      "title": "Act I: The Village of Bath and the Consolidated School"
+    },
+    {
+      "startTime": 152.8,
+      "title": "Act II: The Resentful Mind of Andrew Kehoe"
+    },
+    {
+      "startTime": 253.7,
+      "title": "Act III: The Secret Wiring of Death"
+    },
+    {
+      "startTime": 352.9,
+      "title": "Act IV: The Morning of May 18, 1927"
+    },
+    {
+      "startTime": 443.1,
+      "title": "Act V: The Shrapnel Truck"
+    },
+    {
+      "startTime": 539.0,
+      "title": "Act VI: The Miraculous Unexploded South Wing"
+    },
+    {
+      "startTime": 627.4,
+      "title": "Act VII: The Broken Heart of Bath"
+    },
+    {
+      "startTime": 734.6,
+      "title": "Conclusion"
+    }
+  ]
+}

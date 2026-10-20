@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 55.2,
+      "title": "Act I: The Welsh Titan and New Lanark"
+    },
+    {
+      "startTime": 165.0,
+      "title": "Act II: The Purchase of Harmonie on the Wabash"
+    },
+    {
+      "startTime": 287.8,
+      "title": "Act III: The Boatload of Knowledge"
+    },
+    {
+      "startTime": 401.0,
+      "title": "Act IV: The Declaration of Mental Independence"
+    },
+    {
+      "startTime": 512.8,
+      "title": "Act V: The Cracks in the Communal Hearth"
+    },
+    {
+      "startTime": 621.8,
+      "title": "Act VI: The Collapse of the Cooperative Dream"
+    },
+    {
+      "startTime": 713.9,
+      "title": "Act VII: The Immortal Legacy on the Wabash"
+    },
+    {
+      "startTime": 815.0,
+      "title": "Conclusion"
+    }
+  ]
+}
