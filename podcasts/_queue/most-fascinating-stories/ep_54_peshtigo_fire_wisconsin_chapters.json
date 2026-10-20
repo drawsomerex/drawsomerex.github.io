@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 42.3,
+      "title": "Act I: The Boom Town in the Pine"
+    },
+    {
+      "startTime": 134.2,
+      "title": "Act II: The Cyclonic Firestorm"
+    },
+    {
+      "startTime": 226.6,
+      "title": "Act III: The Midnight Tornado of Flame"
+    },
+    {
+      "startTime": 317.2,
+      "title": "Act IV: The Refuge in the River"
+    },
+    {
+      "startTime": 403.2,
+      "title": "Act V: The Destruction of the Sugar Bush"
+    },
+    {
+      "startTime": 498.7,
+      "title": "Act VI: The Dawn in the Ruins"
+    },
+    {
+      "startTime": 573.7,
+      "title": "Act VII: The Forgotten Catastrophe and its Lessons"
+    },
+    {
+      "startTime": 639.3,
+      "title": "Conclusion"
+    }
+  ]
+}
