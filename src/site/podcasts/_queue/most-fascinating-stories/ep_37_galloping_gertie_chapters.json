@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 61.5,
+      "title": "Act I: The Slender Jewel of the Sound"
+    },
+    {
+      "startTime": 163.5,
+      "title": "Act II: The Birth of Galloping Gertie"
+    },
+    {
+      "startTime": 259.6,
+      "title": "Act III: The Fatal Morning of November 7"
+    },
+    {
+      "startTime": 348.6,
+      "title": "Act IV: The Twisting Monster"
+    },
+    {
+      "startTime": 429.9,
+      "title": "Act V: The Plunge of the Main Span"
+    },
+    {
+      "startTime": 513.2,
+      "title": "Act VI: Theodore von K\u00e1rm\u00e1n and Aeroelastic Flutter"
+    },
+    {
+      "startTime": 578.0,
+      "title": "Act VII: Sturdy Gertie and the Underwater Octopus Reef"
+    },
+    {
+      "startTime": 651.5,
+      "title": "Conclusion"
+    }
+  ]
+}
