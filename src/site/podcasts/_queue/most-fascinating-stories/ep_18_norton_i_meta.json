@@ -1,0 +1,12 @@
+{
+  "episode": 18,
+  "season": 1,
+  "title": "Episode 18: Emperor Norton I: The Sovereign of San Francisco",
+  "description": "In 1859, ruined San Francisco merchant Joshua Abraham Norton walked into a newspaper office and proclaimed himself 'Norton I, Emperor of the United States and Protector of Mexico.' Over the next twenty-one years, the citizens and city of San Francisco enthusiastically embraced his eccentric reign, honoring his imperial currency, giving him theater seats, and mourning his death by the tens of thousands.",
+  "audio": "ep_18_norton_i.mp3",
+  "chapters": "ep_18_norton_i_chapters.json",
+  "transcript": "ep_18_norton_i.vtt",
+  "duration": 716,
+  "size_bytes": 22168993,
+  "scheduled_date": "2027-02-02T15:00:00Z"
+}
