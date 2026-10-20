@@ -1,0 +1,12 @@
+{
+  "episode": 9,
+  "season": 1,
+  "title": "Episode 9: The Defenestration of Prague: The Seventy-Foot Fall That Ignited a Continent",
+  "description": "On May 23, 1618, enraged Protestant Bohemian nobles stormed Prague Castle and hurled two royal imperial governors and their secretary out of a high chancery window. Falling seventy feet, all three survived by landing in a massive pile of stable waste\u2014triggering the Thirty Years' War.",
+  "audio": "ep_09_defenestration.mp3",
+  "chapters": "ep_09_defenestration_chapters.json",
+  "transcript": "ep_09_defenestration.vtt",
+  "duration": 872,
+  "size_bytes": 25922476,
+  "scheduled_date": "2026-12-01T15:00:00Z"
+}
