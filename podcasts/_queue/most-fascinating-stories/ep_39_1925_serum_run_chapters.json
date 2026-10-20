@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 71.3,
+      "title": "Act I: The Strangling Angel in Nome"
+    },
+    {
+      "startTime": 178.9,
+      "title": "Act II: The Great Arctic Dilemma"
+    },
+    {
+      "startTime": 265.5,
+      "title": "Act III: The Relay Begins at Nenana"
+    },
+    {
+      "startTime": 354.1,
+      "title": "Act IV: Leonhard Seppala and Togo"
+    },
+    {
+      "startTime": 448.4,
+      "title": "Act V: Balto and the Final Push in the Dark"
+    },
+    {
+      "startTime": 532.4,
+      "title": "Act VI: Salvation in Nome at Dawn"
+    },
+    {
+      "startTime": 600.6,
+      "title": "Act VII: Central Park, Togo's Justice, and the Iditarod"
+    },
+    {
+      "startTime": 680.6,
+      "title": "Conclusion"
+    }
+  ]
+}
