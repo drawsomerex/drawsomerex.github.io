@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 61.6,
+      "title": "Act I: The False Spring on the Prairie"
+    },
+    {
+      "startTime": 168.5,
+      "title": "Act II: The Black Wall and the Temperature Plunge"
+    },
+    {
+      "startTime": 267.8,
+      "title": "Act III: The Agony of the Schoolteachers"
+    },
+    {
+      "startTime": 352.7,
+      "title": "Act IV: The Heroism of Minnie Freeman"
+    },
+    {
+      "startTime": 436.8,
+      "title": "Act V: The Tragic March of May Hunt"
+    },
+    {
+      "startTime": 504.1,
+      "title": "Act VI: The Dawn of Horror"
+    },
+    {
+      "startTime": 566.8,
+      "title": "Act VII: The Birth of Modern Weather Forecasting"
+    },
+    {
+      "startTime": 639.8,
+      "title": "Conclusion"
+    }
+  ]
+}
