@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 60.6,
+      "title": "Act I: Jefferson Davis and the Desert Ship"
+    },
+    {
+      "startTime": 165.0,
+      "title": "Act II: The Voyage of the USS Supply"
+    },
+    {
+      "startTime": 249.3,
+      "title": "Act III: The Beale Expedition Across Arizona"
+    },
+    {
+      "startTime": 345.6,
+      "title": "Act IV: The Civil War Abandons the Corps"
+    },
+    {
+      "startTime": 421.9,
+      "title": "Act V: The Legend of the Red Ghost"
+    },
+    {
+      "startTime": 501.1,
+      "title": "Act VI: Hi Jolly's Final Trail"
+    },
+    {
+      "startTime": 583.3,
+      "title": "Act VII: The Living Ships of the West"
+    },
+    {
+      "startTime": 663.4,
+      "title": "Conclusion"
+    }
+  ]
+}
