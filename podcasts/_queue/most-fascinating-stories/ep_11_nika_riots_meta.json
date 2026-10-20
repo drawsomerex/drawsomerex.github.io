@@ -1,0 +1,12 @@
+{
+  "episode": 11,
+  "season": 1,
+  "title": "Episode 11: The Nika Riots: The Empress Who Saved an Empire",
+  "description": "In 532 AD, rival chariot racing factions in Constantinople united to overthrow Emperor Justinian, burning half the capital to the ground in the Nika Riots. As Justinian prepared to flee into exile, his wife Empress Theodora famously declared that royal purple made the finest burial shroud, turning the tide of imperial history.",
+  "audio": "ep_11_nika_riots.mp3",
+  "chapters": "ep_11_nika_riots_chapters.json",
+  "transcript": "ep_11_nika_riots.vtt",
+  "duration": 797,
+  "size_bytes": 24123162,
+  "scheduled_date": "2026-12-15T15:00:00Z"
+}
