@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 64.3,
+      "title": "Act I: The Muddy Timber Metropolis"
+    },
+    {
+      "startTime": 163.3,
+      "title": "Act II: The Spilled Glue Pot"
+    },
+    {
+      "startTime": 253.7,
+      "title": "Act III: Thirty-Two Blocks in Fire and Roaring Dynamite"
+    },
+    {
+      "startTime": 356.9,
+      "title": "Act IV: Mayor Moran's Decree: Brick, Stone, and Elevated Streets"
+    },
+    {
+      "startTime": 437.7,
+      "title": "Act V: The Sunken Sidewalks and the Ladders of Pioneer Square"
+    },
+    {
+      "startTime": 524.3,
+      "title": "Act VI: The Sealed Labyrinth and the Bubonic Plague"
+    },
+    {
+      "startTime": 581.9,
+      "title": "Act VII: Bill Speidel and the Resurrected City Beneath the Streets"
+    },
+    {
+      "startTime": 643.6,
+      "title": "Conclusion"
+    }
+  ]
+}
