@@ -1,0 +1,12 @@
+{
+  "episode": 10,
+  "season": 1,
+  "title": "Episode 10: Greek Fire: The Ancient Byzantine Superweapon",
+  "description": "In 674 AD, the Byzantine Empire faced annihilation when a massive Arab fleet besieged Constantinople. The empire was saved by a mysterious liquid incendiary called Greek Fire, shot through pressurized bronze siphons that burned atop the sea and could not be put out with water. Its secret formula was guarded on pain of eternal damnation.",
+  "audio": "ep_10_greek_fire.mp3",
+  "chapters": "ep_10_greek_fire_chapters.json",
+  "transcript": "ep_10_greek_fire.vtt",
+  "duration": 730,
+  "size_bytes": 22510048,
+  "scheduled_date": "2026-12-08T15:00:00Z"
+}
