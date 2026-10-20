@@ -1,0 +1,12 @@
+{
+  "episode": 15,
+  "season": 1,
+  "title": "Episode 15: The Red River Bridge War: When Oklahoma and Texas Drew Guns",
+  "description": "In July 1931, a legal battle over a new toll-free bridge across the Red River triggered an armed confrontation between Oklahoma and Texas. Oklahoma Governor 'Alfalfa Bill' Murray declared martial law, deployed the Oklahoma National Guard with rifles and bayonets to face off against the Texas Rangers, and successfully forced the bridge open to the public.",
+  "audio": "ep_15_red_river_war.mp3",
+  "chapters": "ep_15_red_river_war_chapters.json",
+  "transcript": "ep_15_red_river_war.vtt",
+  "duration": 650,
+  "size_bytes": 20588481,
+  "scheduled_date": "2027-01-12T15:00:00Z"
+}
