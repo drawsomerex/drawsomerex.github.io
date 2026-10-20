@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 64.0,
+      "title": "Act I: Virginia City and the Subterranean Hell"
+    },
+    {
+      "startTime": 152.4,
+      "title": "Act II: Adolph Sutro's Audacious Vision"
+    },
+    {
+      "startTime": 230.7,
+      "title": "Act III: The Bank Ring Declares War"
+    },
+    {
+      "startTime": 309.8,
+      "title": "Act IV: The Yellow Jacket Mine Disaster and the Opera House Rally"
+    },
+    {
+      "startTime": 399.9,
+      "title": "Act V: The Technological Revolution in the Rock"
+    },
+    {
+      "startTime": 477.4,
+      "title": "Act VI: Nine Brutal Years in the Boiling Dark"
+    },
+    {
+      "startTime": 544.7,
+      "title": "Act VII: The Breakthrough and the Legacy of Adolph Sutro"
+    },
+    {
+      "startTime": 638.7,
+      "title": "Conclusion"
+    }
+  ]
+}
