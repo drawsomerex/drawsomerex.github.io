@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 64.5,
+      "title": "Story: Caesar's Impossible Bridge Across the Rhine"
+    },
+    {
+      "startTime": 570.8,
+      "title": "Conclusion"
+    }
+  ]
+}
