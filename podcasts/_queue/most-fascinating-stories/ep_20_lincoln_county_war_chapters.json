@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.3,
+      "title": "Act I: The House of Dolan"
+    },
+    {
+      "startTime": 147.0,
+      "title": "Act II: The English Challenger"
+    },
+    {
+      "startTime": 246.6,
+      "title": "Act III: Murder on the Trail"
+    },
+    {
+      "startTime": 339.4,
+      "title": "Act IV: The Regulators and the Blood Feud"
+    },
+    {
+      "startTime": 429.5,
+      "title": "Act V: The Five-Day Battle of Lincoln"
+    },
+    {
+      "startTime": 515.6,
+      "title": "Act VI: The Legend, Lew Wallace, and Fort Sumner"
+    },
+    {
+      "startTime": 602.5,
+      "title": "Act VII: The Verdict of the Frontier"
+    },
+    {
+      "startTime": 670.6,
+      "title": "Conclusion"
+    }
+  ]
+}
