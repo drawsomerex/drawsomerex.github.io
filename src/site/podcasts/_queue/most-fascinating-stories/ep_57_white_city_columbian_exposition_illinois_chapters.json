@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 51.0,
+      "title": "Act I: Answering the Eiffel Tower"
+    },
+    {
+      "startTime": 171.0,
+      "title": "Act II: Dredging Jackson Park and Olmsted Dream"
+    },
+    {
+      "startTime": 284.3,
+      "title": "Act III: The Court of Honor and the White City"
+    },
+    {
+      "startTime": 386.9,
+      "title": "Act IV: Tesla, Westinghouse, and the War of the Currents"
+    },
+    {
+      "startTime": 487.1,
+      "title": "Act V: George Ferris and His Colossal Wheel"
+    },
+    {
+      "startTime": 584.6,
+      "title": "Act VI: The Midway Plaisance and Pop Culture Wonders"
+    },
+    {
+      "startTime": 678.1,
+      "title": "Act VII: The Legacy of a Gilded Dream"
+    },
+    {
+      "startTime": 770.4,
+      "title": "Conclusion"
+    }
+  ]
+}
