@@ -1,0 +1,12 @@
+{
+  "episode": 17,
+  "season": 1,
+  "title": "Episode 17: The Texas Archives War: How Mrs. Eberly Fired a Six-Pound Cannon in Austin",
+  "description": "In December 1842, Texas President Sam Houston sent a secret military detachment to sneak the national archives out of Austin at midnight. Boarding house owner Angelina Eberly spotted the wagons, ran to Congress Avenue, and fired a loaded six-pound town defense cannon directly into the Land Office, mobilizing the citizens to preserve Austin as the permanent capital of Texas.",
+  "audio": "ep_17_texas_archives_war.mp3",
+  "chapters": "ep_17_texas_archives_war_chapters.json",
+  "transcript": "ep_17_texas_archives_war.vtt",
+  "duration": 668,
+  "size_bytes": 21024830,
+  "scheduled_date": "2027-01-26T15:00:00Z"
+}
