@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 57.6,
+      "title": "Act I: The Richest Hill on Earth"
+    },
+    {
+      "startTime": 168.9,
+      "title": "Act II: The Feud Ignites: The Capital Fight"
+    },
+    {
+      "startTime": 262.6,
+      "title": "Act III: Clark Buys the United States Senate"
+    },
+    {
+      "startTime": 364.8,
+      "title": "Act IV: Daly's Revenge in Washington"
+    },
+    {
+      "startTime": 457.9,
+      "title": "Act V: The Subterranean Dynamite Wars"
+    },
+    {
+      "startTime": 540.6,
+      "title": "Act VI: The End of an Era in Butte"
+    },
+    {
+      "startTime": 598.9,
+      "title": "Act VII: The Birth of the Seventeenth Amendment"
+    },
+    {
+      "startTime": 669.0,
+      "title": "Conclusion"
+    }
+  ]
+}
