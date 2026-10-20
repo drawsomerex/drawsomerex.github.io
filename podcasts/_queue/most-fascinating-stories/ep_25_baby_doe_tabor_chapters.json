@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 51.4,
+      "title": "Act I: The Silver King of Leadville"
+    },
+    {
+      "startTime": 134.9,
+      "title": "Act II: Augusta and the Scandal of the Decade"
+    },
+    {
+      "startTime": 220.3,
+      "title": "Act III: The Gilded Zenith in Washington and Denver"
+    },
+    {
+      "startTime": 309.2,
+      "title": "Act IV: The Catastrophic Silver Crash of 1893"
+    },
+    {
+      "startTime": 388.0,
+      "title": "Act V: The Dying Command: Hang On to the Matchless"
+    },
+    {
+      "startTime": 462.7,
+      "title": "Act VI: The Thirty-Five-Year Frozen Vigil at Fryer Hill"
+    },
+    {
+      "startTime": 553.4,
+      "title": "Act VII: The Cross in the Snow and the Eternal Legend"
+    },
+    {
+      "startTime": 638.3,
+      "title": "Conclusion"
+    }
+  ]
+}
