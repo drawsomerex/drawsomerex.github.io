@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 57.1,
+      "title": "Act I: Tombstone's Silver Powder Keg"
+    },
+    {
+      "startTime": 156.3,
+      "title": "Act II: Thirty Seconds in the Alley"
+    },
+    {
+      "startTime": 252.0,
+      "title": "Act III: The Ambush of the Brothers"
+    },
+    {
+      "startTime": 339.9,
+      "title": "Act IV: The Vendetta Begins: Tucson Rail Depot"
+    },
+    {
+      "startTime": 426.5,
+      "title": "Act V: Firefight at Iron Springs"
+    },
+    {
+      "startTime": 508.1,
+      "title": "Act VI: The Immortal Western Icon"
+    },
+    {
+      "startTime": 585.4,
+      "title": "Act VII: The Verdict of History"
+    },
+    {
+      "startTime": 657.2,
+      "title": "Conclusion"
+    }
+  ]
+}
