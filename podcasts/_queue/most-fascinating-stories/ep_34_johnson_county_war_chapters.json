@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 58.5,
+      "title": "Act I: The Cheyenne Club Oligarchy"
+    },
+    {
+      "startTime": 169.0,
+      "title": "Act II: The Lynchings and the Red Neckties"
+    },
+    {
+      "startTime": 259.0,
+      "title": "Act III: The Secret Death Train"
+    },
+    {
+      "startTime": 350.1,
+      "title": "Act IV: The Last Stand of Nate Champion"
+    },
+    {
+      "startTime": 450.3,
+      "title": "Act V: The Siege of the TA Ranch"
+    },
+    {
+      "startTime": 532.8,
+      "title": "Act VI: Rescue by the Cavalry"
+    },
+    {
+      "startTime": 596.8,
+      "title": "Act VII: The Legacy of the Homesteader Triumph"
+    },
+    {
+      "startTime": 661.7,
+      "title": "Conclusion"
+    }
+  ]
+}
