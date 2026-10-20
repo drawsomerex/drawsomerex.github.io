@@ -1,0 +1,12 @@
+{
+  "episode": 6,
+  "season": 1,
+  "title": "Episode 6: Caesar and the Pirates Who Underpriced Him",
+  "description": "In 75 BC, twenty-five-year-old Julius Caesar was captured in the Aegean Sea by Cilician pirates. Insulted by their modest twenty-talent ransom demand, Caesar demanded they more than double it to fifty talents, treated his captors as his personal servants, and promised to return and crucify every one of them\u2014a promise he ruthlessly kept.",
+  "audio": "ep_06_caesar_pirates.mp3",
+  "chapters": "ep_06_caesar_pirates_chapters.json",
+  "transcript": "ep_06_caesar_pirates.vtt",
+  "duration": 611,
+  "size_bytes": 19656223,
+  "scheduled_date": "2026-11-10T15:00:00Z"
+}

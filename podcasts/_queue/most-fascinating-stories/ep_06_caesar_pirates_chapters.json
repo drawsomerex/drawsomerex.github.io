@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 66.1,
+      "title": "Story: Caesar and the Pirates Who Underpriced Him"
+    },
+    {
+      "startTime": 581.2,
+      "title": "Conclusion"
+    }
+  ]
+}
