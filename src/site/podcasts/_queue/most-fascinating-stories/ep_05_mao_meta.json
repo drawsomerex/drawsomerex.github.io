@@ -1,0 +1,12 @@
+{
+  "episode": 5,
+  "season": 1,
+  "title": "Episode 5: The Mango Fever of 1968: When Mao's Fruit Became Sacred",
+  "description": "In August 1968, Chairman Mao Zedong received a diplomatic basket of Pakistani mangoes and re-gifted them to factory workers in Beijing. What followed was one of the most surreal episodes in modern history: a nationwide frenzy of mango veneration, glass shrines, formaldehyde preservation, and wax fruit processions.",
+  "audio": "ep_05_mao.mp3",
+  "chapters": "ep_05_mao_chapters.json",
+  "transcript": "ep_05_mao.vtt",
+  "duration": 685,
+  "size_bytes": 21427952,
+  "scheduled_date": "2026-11-03T15:00:00Z"
+}
