@@ -1,0 +1,12 @@
+{
+  "episode": 7,
+  "season": 1,
+  "title": "Episode 7: Caesar's Impossible Bridge Across the Rhine",
+  "description": "In 55 BC, faced with elusive Germanic tribes who retreated beyond the torrential Rhine river, Julius Caesar rejected using boats as beneath Roman dignity. Instead, his legionary engineers designed and constructed a massive, 400-meter wooden bridge across the deep, rushing waters in just ten days\u2014purely as psychological warfare.",
+  "audio": "ep_07_caesar_rhine.mp3",
+  "chapters": "ep_07_caesar_rhine_chapters.json",
+  "transcript": "ep_07_caesar_rhine.vtt",
+  "duration": 602,
+  "size_bytes": 19442437,
+  "scheduled_date": "2026-11-17T15:00:00Z"
+}
