@@ -1,0 +1,12 @@
+{
+  "episode": 14,
+  "season": 1,
+  "title": "Episode 14: The Oklahoma Land Rush of 1889: High Noon in the Unassigned Lands",
+  "description": "At precisely high noon on April 22, 1889, federal cavalry bugles sounded, unleashing fifty thousand settlers in a furious cross-country race across the Oklahoma prairie to claim two million acres of free homestead land. By nightfall, empty grass had transformed into booming tent cities of ten thousand people.",
+  "audio": "ep_14_land_rush.mp3",
+  "chapters": "ep_14_land_rush_chapters.json",
+  "transcript": "ep_14_land_rush.vtt",
+  "duration": 644,
+  "size_bytes": 20454316,
+  "scheduled_date": "2027-01-05T15:00:00Z"
+}
