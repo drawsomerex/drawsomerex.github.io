@@ -1,0 +1,12 @@
+{
+  "episode": 12,
+  "season": 1,
+  "title": "Episode 12: The Pig War of 1859: The Standoff Over a Rooting Hog",
+  "description": "In June 1859, on San Juan Island in the Pacific Northwest borderlands of the Oregon Territory, an American settler shot a British Berkshire pig rooting in his potato patch. The dispute escalated into a military standoff with five British warships, 167 guns, and Captain George Pickett's American troops, nearly sparking war between global superpowers.",
+  "audio": "ep_12_pig_war.mp3",
+  "chapters": "ep_12_pig_war_chapters.json",
+  "transcript": "ep_12_pig_war.vtt",
+  "duration": 745,
+  "size_bytes": 22878061,
+  "scheduled_date": "2026-12-22T15:00:00Z"
+}
