@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 67.3,
+      "title": "Act I: The Salt Marshes of Dorchester County"
+    },
+    {
+      "startTime": 171.0,
+      "title": "Act II: The Flight to Philadelphia and the Taste of Freedom"
+    },
+    {
+      "startTime": 277.0,
+      "title": "Act III: The Moses of Her People"
+    },
+    {
+      "startTime": 374.2,
+      "title": "Act IV: The Tactics of the Master Conductor"
+    },
+    {
+      "startTime": 469.9,
+      "title": "Act V: Defying the Fugitive Slave Law to Canada"
+    },
+    {
+      "startTime": 577.5,
+      "title": "Act VI: The Raid on the Combahee Ferry"
+    },
+    {
+      "startTime": 671.2,
+      "title": "Act VII: The Eternal Torch of Freedom"
+    },
+    {
+      "startTime": 769.6,
+      "title": "Conclusion"
+    }
+  ]
+}

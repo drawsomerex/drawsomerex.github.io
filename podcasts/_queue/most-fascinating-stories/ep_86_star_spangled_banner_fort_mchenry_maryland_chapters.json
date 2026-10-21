@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 63.0,
+      "title": "Act I: The Burning of the Capital and the Menace on Baltimore"
+    },
+    {
+      "startTime": 156.6,
+      "title": "Act II: Major Armistead and the Great Garrison Flag"
+    },
+    {
+      "startTime": 259.2,
+      "title": "Act III: Francis Scott Key and the Truce Vessel"
+    },
+    {
+      "startTime": 356.9,
+      "title": "Act IV: The Inferno of the Bomb Vessels"
+    },
+    {
+      "startTime": 454.2,
+      "title": "Act V: The Midnight Crisis and the Sneak Attack"
+    },
+    {
+      "startTime": 557.5,
+      "title": "Act VI: The Dawn's Early Light"
+    },
+    {
+      "startTime": 654.9,
+      "title": "Act VII: The Anthem of a Free People"
+    },
+    {
+      "startTime": 758.0,
+      "title": "Conclusion"
+    }
+  ]
+}
