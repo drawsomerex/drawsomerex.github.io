@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.5,
+      "title": "Act I: The Holy Boy on the Grand River: 1831"
+    },
+    {
+      "startTime": 123.4,
+      "title": "Act II: The Iron Horse and the Black Hills: Defying the Treaties"
+    },
+    {
+      "startTime": 232.6,
+      "title": "Act III: The Sun Dance Vision: Soldiers Falling Like Grasshoppers"
+    },
+    {
+      "startTime": 321.2,
+      "title": "Act IV: The Battle of the Little Bighorn: June 25, 1876"
+    },
+    {
+      "startTime": 424.0,
+      "title": "Act V: The Bitter Flight to Canada: The Grandmother's Land"
+    },
+    {
+      "startTime": 527.5,
+      "title": "Act VI: The Wild West Show and the Ghost Dance: 1885 to 1890"
+    },
+    {
+      "startTime": 612.4,
+      "title": "Act VII: The Tragic Martyrdom at Standing Rock: December 15, 1890"
+    },
+    {
+      "startTime": 703.1,
+      "title": "Conclusion"
+    }
+  ]
+}
