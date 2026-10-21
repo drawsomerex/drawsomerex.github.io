@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 54.0,
+      "title": "Act I: The Deer Hunter and the Yellow Pebble"
+    },
+    {
+      "startTime": 141.1,
+      "title": "Act II: The Great Intrusion on Cherokee Lands"
+    },
+    {
+      "startTime": 235.2,
+      "title": "Act III: The Cherokee Resistance and the Law"
+    },
+    {
+      "startTime": 344.9,
+      "title": "Act IV: The Gold Lottery and the Fall of New Echota"
+    },
+    {
+      "startTime": 439.8,
+      "title": "Act V: The Town of Dahlonega and the Federal Mint"
+    },
+    {
+      "startTime": 534.7,
+      "title": "Act VI: The Trail of Tears and the California Exodus"
+    },
+    {
+      "startTime": 640.5,
+      "title": "Act VII: The Golden Dome and Historical Remembrance"
+    },
+    {
+      "startTime": 729.9,
+      "title": "Conclusion"
+    }
+  ]
+}
