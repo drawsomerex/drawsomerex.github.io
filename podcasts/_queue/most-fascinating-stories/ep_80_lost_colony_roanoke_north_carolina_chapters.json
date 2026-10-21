@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 54.6,
+      "title": "Act I: Sir Walter Raleigh and the Island of Roanoke"
+    },
+    {
+      "startTime": 155.6,
+      "title": "Act II: The City of Ralegh in Virginia"
+    },
+    {
+      "startTime": 249.9,
+      "title": "Act III: Virginia Dare and the Looming Crisis"
+    },
+    {
+      "startTime": 344.8,
+      "title": "Act IV: The Spanish Armada and Three Years of Torment"
+    },
+    {
+      "startTime": 433.3,
+      "title": "Act V: The Silent Island and the Cryptic Post"
+    },
+    {
+      "startTime": 531.7,
+      "title": "Act VI: The Buried Chests and the Rising Gale"
+    },
+    {
+      "startTime": 631.7,
+      "title": "Act VII: The Legacy and the Lumbee People"
+    },
+    {
+      "startTime": 738.5,
+      "title": "Conclusion"
+    }
+  ]
+}
