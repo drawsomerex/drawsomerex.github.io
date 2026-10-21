@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.9,
+      "title": "Act I: Obama's Crucible: The Recovery and the ACA"
+    },
+    {
+      "startTime": 136.3,
+      "title": "Act II: The Abbottabad Raid: May 1, 2011"
+    },
+    {
+      "startTime": 235.4,
+      "title": "Act III: The Song in Charleston: 'Amazing Grace'"
+    },
+    {
+      "startTime": 327.7,
+      "title": "Act IV: The 2016 Political Earthquake: Donald J. Trump"
+    },
+    {
+      "startTime": 427.9,
+      "title": "Act V: The 45th President and the Judicial Transformation"
+    },
+    {
+      "startTime": 526.1,
+      "title": "Act VI: The 2020 Transition and the Biden Presidency"
+    },
+    {
+      "startTime": 627.7,
+      "title": "Act VII: The Tapestry of the Republic: Two Centuries of Freedom"
+    },
+    {
+      "startTime": 728.9,
+      "title": "Conclusion"
+    }
+  ]
+}
