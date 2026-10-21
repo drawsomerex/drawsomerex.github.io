@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 22.7,
+      "title": "Act I: Black Dan of New Hampshire and Dartmouth College"
+    },
+    {
+      "startTime": 130.8,
+      "title": "Act II: Plymouth Rock and Bunker Hill: The Voice of the Republic"
+    },
+    {
+      "startTime": 224.7,
+      "title": "Act III: The Webster-Hayne Debate: January 1830"
+    },
+    {
+      "startTime": 306.5,
+      "title": "Act IV: 'Liberty and Union, Now and Forever, One and Inseparable!'"
+    },
+    {
+      "startTime": 403.9,
+      "title": "Act V: Secretary of State: The Webster-Ashburton Treaty of 1842"
+    },
+    {
+      "startTime": 488.5,
+      "title": "Act VI: The Seventh of March Speech: The Sacrifice of Reputation: 1850"
+    },
+    {
+      "startTime": 600.1,
+      "title": "Act VII: Marshfield by the Sea and the Legend of Daniel Webster"
+    },
+    {
+      "startTime": 684.9,
+      "title": "Conclusion"
+    }
+  ]
+}

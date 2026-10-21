@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 24.2,
+      "title": "Act I: The Frontier Scots-Irish of the Long Canes"
+    },
+    {
+      "startTime": 125.2,
+      "title": "Act II: The Young Nationalist and the War Hawk: 1811\u20131817"
+    },
+    {
+      "startTime": 224.7,
+      "title": "Act III: The Metamorphosis: The Tariff of Abominations: 1828"
+    },
+    {
+      "startTime": 317.1,
+      "title": "Act IV: The South Carolina Exposition and Protest: The Philosophy of Nullification"
+    },
+    {
+      "startTime": 413.9,
+      "title": "Act V: The Jefferson Birthday Dinner and the Break with Jackson: 1830"
+    },
+    {
+      "startTime": 513.8,
+      "title": "Act VI: The Concurrent Majority and 'Slavery: A Positive Good'"
+    },
+    {
+      "startTime": 617.1,
+      "title": "Act VII: The Dying Prophet of the Lost Cause: 1850"
+    },
+    {
+      "startTime": 727.1,
+      "title": "Conclusion"
+    }
+  ]
+}
