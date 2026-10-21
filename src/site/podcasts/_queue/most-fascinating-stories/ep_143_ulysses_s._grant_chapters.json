@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 34.0,
+      "title": "Act I: The Man from Point Pleasant"
+    },
+    {
+      "startTime": 153.2,
+      "title": "Act II: The Overland Grind and the Siege of Petersburg"
+    },
+    {
+      "startTime": 273.8,
+      "title": "Act III: The Parlor of Wilmer McLean"
+    },
+    {
+      "startTime": 371.3,
+      "title": "Act IV: Mud-Spattered Blue and Immaculate Gray"
+    },
+    {
+      "startTime": 460.9,
+      "title": "Act V: Written in a Field Desk: The Genius of Magnanimity"
+    },
+    {
+      "startTime": 556.6,
+      "title": "Act VI: Let the Men Keep Their Horses for the Spring Plowing"
+    },
+    {
+      "startTime": 637.7,
+      "title": "Act VII: Silencing the Victory Guns"
+    },
+    {
+      "startTime": 729.8,
+      "title": "Conclusion"
+    }
+  ]
+}
