@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 38.0,
+      "title": "Act I: The Trap: The Tenure of Office Act"
+    },
+    {
+      "startTime": 135.6,
+      "title": "Act II: The Siege of the War Department"
+    },
+    {
+      "startTime": 231.5,
+      "title": "Act III: High Crimes and Misdemeanors"
+    },
+    {
+      "startTime": 317.9,
+      "title": "Act IV: The Court of Impeachment and Chief Justice Chase"
+    },
+    {
+      "startTime": 423.1,
+      "title": "Act V: The High Stakes of Edmund Ross"
+    },
+    {
+      "startTime": 518.2,
+      "title": "Act VI: The Roll Call of May 16, 1868"
+    },
+    {
+      "startTime": 622.7,
+      "title": "Act VII: The Constitutional Precedent and the Long Shadow"
+    },
+    {
+      "startTime": 723.0,
+      "title": "Conclusion"
+    }
+  ]
+}

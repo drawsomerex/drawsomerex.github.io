@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 38.6,
+      "title": "Act I: The Tailor from Greeneville"
+    },
+    {
+      "startTime": 147.8,
+      "title": "Act II: The Lone Southern Senator and the Kirkwood House"
+    },
+    {
+      "startTime": 251.7,
+      "title": "Act III: The Illusion of Retribution and the Rise of the Black Codes"
+    },
+    {
+      "startTime": 368.0,
+      "title": "Act IV: The Veto of the Freedmen's Bureau"
+    },
+    {
+      "startTime": 463.6,
+      "title": "Act V: The Civil Rights Act of 1866: A Constitutional Watershed"
+    },
+    {
+      "startTime": 561.8,
+      "title": "Act VI: The Swing Around the Circle"
+    },
+    {
+      "startTime": 658.8,
+      "title": "Act VII: The Reconstruction Acts and the Path to Confrontation"
+    },
+    {
+      "startTime": 747.4,
+      "title": "Conclusion"
+    }
+  ]
+}
