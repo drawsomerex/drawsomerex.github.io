@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.5,
+      "title": "Act I: A Kingdom in Ruins: The Hundred Years' War"
+    },
+    {
+      "startTime": 123.2,
+      "title": "Act II: The Heavenly Voices of Domremy"
+    },
+    {
+      "startTime": 207.9,
+      "title": "Act III: The Recognition at Chinon: March 1429"
+    },
+    {
+      "startTime": 295.5,
+      "title": "Act IV: The White Banner of Orl\u00e9ans: May 1429"
+    },
+    {
+      "startTime": 397.3,
+      "title": "Act V: The Coronation at Reims: July 1429"
+    },
+    {
+      "startTime": 489.0,
+      "title": "Act VI: Betrayal at Compi\u00e8gne and the Trial at Rouen"
+    },
+    {
+      "startTime": 586.3,
+      "title": "Act VII: The Stake at the Old Market: May 30, 1431"
+    },
+    {
+      "startTime": 683.9,
+      "title": "Conclusion"
+    }
+  ]
+}
