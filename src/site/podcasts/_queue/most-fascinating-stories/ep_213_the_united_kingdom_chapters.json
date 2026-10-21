@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.0,
+      "title": "Act I: The Empty Throne of Edward the Confessor"
+    },
+    {
+      "startTime": 127.2,
+      "title": "Act II: Stamford Bridge: The Viking Thunderbolt"
+    },
+    {
+      "startTime": 217.9,
+      "title": "Act III: The Forced March to Hastings"
+    },
+    {
+      "startTime": 311.4,
+      "title": "Act IV: The Shield Wall on Senlac Hill: October 14, 1066"
+    },
+    {
+      "startTime": 405.6,
+      "title": "Act V: The Feigned Retreat and the Fateful Arrow"
+    },
+    {
+      "startTime": 509.0,
+      "title": "Act VI: The Christmas Coronation at Westminster"
+    },
+    {
+      "startTime": 598.7,
+      "title": "Act VII: The Harrying of the North and the Domesday Book"
+    },
+    {
+      "startTime": 702.3,
+      "title": "Conclusion"
+    }
+  ]
+}
