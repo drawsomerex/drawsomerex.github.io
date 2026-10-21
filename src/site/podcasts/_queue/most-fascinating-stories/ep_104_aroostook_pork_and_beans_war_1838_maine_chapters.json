@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 63.4,
+      "title": "Act I: The Ambiguous Treaty of Paris"
+    },
+    {
+      "startTime": 171.3,
+      "title": "Act II: The White Pine Fever and the Timber Pirates"
+    },
+    {
+      "startTime": 279.2,
+      "title": "Act III: The Midnight Kidnapping of the Land Agent"
+    },
+    {
+      "startTime": 378.9,
+      "title": "Act IV: Maine Mobilizes: The Call to Arms"
+    },
+    {
+      "startTime": 479.7,
+      "title": "Act V: Congress Rallies and General Winfield Scott Arrives"
+    },
+    {
+      "startTime": 579.4,
+      "title": "Act VI: The Truce over Wine and Whist"
+    },
+    {
+      "startTime": 670.1,
+      "title": "Act VII: The Webster-Ashburton Treaty and the Pig Casualty"
+    },
+    {
+      "startTime": 780.0,
+      "title": "Conclusion"
+    }
+  ]
+}
