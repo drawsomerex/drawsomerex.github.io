@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.1,
+      "title": "Act I: The Cairo Cabin and the Four-Sport Phenom of UCLA: 1919 to 1941"
+    },
+    {
+      "startTime": 147.3,
+      "title": "Act II: Court-Martial and Courage at Fort Hood: 1942 to 1944"
+    },
+    {
+      "startTime": 260.8,
+      "title": "Act III: The Kansas City Monarchs and Branch Rickey's Noble Experiment: 1945"
+    },
+    {
+      "startTime": 383.9,
+      "title": "Act IV: The Crucible of Montreal: 1946"
+    },
+    {
+      "startTime": 496.8,
+      "title": "Act V: April 15, 1947: Ebbets Field and the Crucible of Fire"
+    },
+    {
+      "startTime": 611.6,
+      "title": "Act VI: The Wizard on the Basepaths and the 1955 World Championship"
+    },
+    {
+      "startTime": 719.3,
+      "title": "Act VII: The Civil Rights Champion and Number 42 Retired Forever"
+    },
+    {
+      "startTime": 841.7,
+      "title": "Conclusion"
+    }
+  ]
+}
