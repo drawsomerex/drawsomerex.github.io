@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.0,
+      "title": "Act I: Fire in Omaha and the Streets of Harlem: 1925 to 1946"
+    },
+    {
+      "startTime": 178.6,
+      "title": "Act II: The Transformation in Charlestown Prison: 1946 to 1952"
+    },
+    {
+      "startTime": 298.5,
+      "title": "Act III: The Fiery Voice of the Nation: Harlem Temple No. 7: 1953 to 1963"
+    },
+    {
+      "startTime": 410.2,
+      "title": "Act IV: The Break with Elijah Muhammad: 1963 to 1964"
+    },
+    {
+      "startTime": 527.8,
+      "title": "Act V: The Hajj to Mecca and the Epiphany of Brotherhood: April 1964"
+    },
+    {
+      "startTime": 647.2,
+      "title": "Act VI: The Ballot or the Bullet and the Gathering Shadows: 1964 to 1965"
+    },
+    {
+      "startTime": 747.2,
+      "title": "Act VII: The Audubon Ballroom and the Immortal Martyr: February 21, 1965"
+    },
+    {
+      "startTime": 886.6,
+      "title": "Conclusion"
+    }
+  ]
+}
