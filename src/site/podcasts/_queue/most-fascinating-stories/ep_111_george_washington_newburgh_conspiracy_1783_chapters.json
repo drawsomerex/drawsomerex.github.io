@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 65.9,
+      "title": "Act I: The Bitter Winter at Newburgh"
+    },
+    {
+      "startTime": 162.2,
+      "title": "Act II: The Shadows of Philadelphia and the Nationalist Plot"
+    },
+    {
+      "startTime": 252.0,
+      "title": "Act III: The Anonymous Call to Mutiny"
+    },
+    {
+      "startTime": 341.2,
+      "title": "Act IV: Washington's Tactical Masterstroke"
+    },
+    {
+      "startTime": 430.0,
+      "title": "Act V: Confrontation in the Temple of Virtue"
+    },
+    {
+      "startTime": 510.4,
+      "title": "Act VI: The Spectacles and the Broken Heart"
+    },
+    {
+      "startTime": 637.9,
+      "title": "Act VII: The Triumph of Civilian Democracy"
+    },
+    {
+      "startTime": 738.8,
+      "title": "Conclusion"
+    }
+  ]
+}
