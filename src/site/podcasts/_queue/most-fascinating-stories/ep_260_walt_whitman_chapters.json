@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.5,
+      "title": "Act I: Child of Paumanok and the Brooklyn Ferries: 1819 to 1848"
+    },
+    {
+      "startTime": 134.3,
+      "title": "Act II: The Thunderbolt of 1855: Leaves of Grass"
+    },
+    {
+      "startTime": 246.2,
+      "title": "Act III: The Search for George and the Fredericksburg Battlefield: 1862"
+    },
+    {
+      "startTime": 339.9,
+      "title": "Act IV: The Wound Dresser: The Washington Military Hospitals: 1863 to 1865"
+    },
+    {
+      "startTime": 441.3,
+      "title": "Act V: Abraham Lincoln and the Elegy of the Fallen Captain: 1865"
+    },
+    {
+      "startTime": 538.0,
+      "title": "Act VI: The Paralytic Stroke and the Mickle Street Cottage in Camden: 1873 to 1888"
+    },
+    {
+      "startTime": 636.0,
+      "title": "Act VII: The Good Gray Poet and the Fellowship of Humankind"
+    },
+    {
+      "startTime": 728.6,
+      "title": "Conclusion"
+    }
+  ]
+}
