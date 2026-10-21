@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.5,
+      "title": "Act I: The Renaissance Prince: The Golden Youth: 1509 to 1520"
+    },
+    {
+      "startTime": 148.9,
+      "title": "Act II: The Great Matter: Catherine of Aragon and Anne Boleyn: 1527"
+    },
+    {
+      "startTime": 276.8,
+      "title": "Act III: The Break with Rome and the Royal Supremacy: 1533 to 1534"
+    },
+    {
+      "startTime": 393.0,
+      "title": "Act IV: The Fall of Anne Boleyn and the Sword of Calais: May 1536"
+    },
+    {
+      "startTime": 511.7,
+      "title": "Act V: The Dissolution of the Monasteries and the Pilgrimage of Grace: 1536 to 1540"
+    },
+    {
+      "startTime": 629.7,
+      "title": "Act VI: Three More Wives and the Fall of Cromwell: 1540 to 1543"
+    },
+    {
+      "startTime": 750.7,
+      "title": "Act VII: The Mary Rose, the Royal Navy, and the Colossus of Whitehall: 1547"
+    },
+    {
+      "startTime": 871.5,
+      "title": "Conclusion"
+    }
+  ]
+}

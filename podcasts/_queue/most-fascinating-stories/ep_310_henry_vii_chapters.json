@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.4,
+      "title": "Act I: The Welsh Exile: Pembroke to Brittany: 1457 to 1483"
+    },
+    {
+      "startTime": 149.6,
+      "title": "Act II: The Vow at Rennes and the Bosworth Triumph: 1483 to 1485"
+    },
+    {
+      "startTime": 264.8,
+      "title": "Act III: The Tudor Rose and the Battle of Stoke Field: 1486 to 1487"
+    },
+    {
+      "startTime": 397.8,
+      "title": "Act IV: The Ghost of Richard of York: The Saga of Perkin Warbeck: 1491 to 1499"
+    },
+    {
+      "startTime": 518.2,
+      "title": "Act V: The Royal Balance Sheet: Dudley, Empson, and the Fiscal Throne"
+    },
+    {
+      "startTime": 637.9,
+      "title": "Act VI: The Spanish Match and the Tragedy of Prince Arthur: 1501 to 1502"
+    },
+    {
+      "startTime": 754.6,
+      "title": "Act VII: The Legacy of Richmond and the Chapel of Kings: 1509"
+    },
+    {
+      "startTime": 867.9,
+      "title": "Conclusion"
+    }
+  ]
+}
