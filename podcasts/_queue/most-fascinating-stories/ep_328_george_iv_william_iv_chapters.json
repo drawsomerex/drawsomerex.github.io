@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.9,
+      "title": "Act I: Prinny and Beau Brummell: The Regency Dandy: 1762 to 1820"
+    },
+    {
+      "startTime": 156.1,
+      "title": "Act II: The Queen Caroline Trial and the Barred Abbey Doors: 1820 to 1821"
+    },
+    {
+      "startTime": 281.6,
+      "title": "Act III: Windsor Seclusion and the Passing of George IV: 1821 to 1830"
+    },
+    {
+      "startTime": 402.2,
+      "title": "Act IV: The Sailor King: William IV and the Royal Navy: 1765 to 1830"
+    },
+    {
+      "startTime": 529.2,
+      "title": "Act V: The Crisis of the Century: The Great Reform Act of 1832"
+    },
+    {
+      "startTime": 644.6,
+      "title": "Act VI: The King and the Creation of Peers: May 1832"
+    },
+    {
+      "startTime": 761.9,
+      "title": "Act VII: The Sunset of the Sailor King and the Promise of Victoria: 1837"
+    },
+    {
+      "startTime": 894.8,
+      "title": "Conclusion"
+    }
+  ]
+}
