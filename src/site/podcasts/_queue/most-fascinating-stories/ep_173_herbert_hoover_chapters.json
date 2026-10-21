@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 37.9,
+      "title": "Act I: Black Tuesday and the Financial Deluge"
+    },
+    {
+      "startTime": 140.9,
+      "title": "Act II: The Spiral into the Great Depression"
+    },
+    {
+      "startTime": 234.5,
+      "title": "Act III: Hoover's Interventions and Philosophic Limits"
+    },
+    {
+      "startTime": 346.8,
+      "title": "Act IV: The Hawley-Smoot Blunder and Global Collapse"
+    },
+    {
+      "startTime": 449.0,
+      "title": "Act V: The Bonus Expeditionary Force of 1932"
+    },
+    {
+      "startTime": 556.7,
+      "title": "Act VI: The Battle of Anacostia Flats"
+    },
+    {
+      "startTime": 669.8,
+      "title": "Act VII: The Verdict of 1932 and the Long Twilight"
+    },
+    {
+      "startTime": 768.2,
+      "title": "Conclusion"
+    }
+  ]
+}
