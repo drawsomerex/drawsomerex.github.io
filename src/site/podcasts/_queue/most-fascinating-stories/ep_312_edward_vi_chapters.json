@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.8,
+      "title": "Act I: The Long-Awaited Prince: Birth and Education: 1537 to 1547"
+    },
+    {
+      "startTime": 145.0,
+      "title": "Act II: The Protectorate of Somerset and Pinkie Cleugh: 1547"
+    },
+    {
+      "startTime": 261.0,
+      "title": "Act III: The Religious Revolution: Smashed Altars and Whitewashed Walls"
+    },
+    {
+      "startTime": 376.1,
+      "title": "Act IV: The Crisis of 1549: The Prayer Book Rebellion and Kett's Uprising"
+    },
+    {
+      "startTime": 481.0,
+      "title": "Act V: The Coup of Northumberland and Somerset's Execution: 1549 to 1552"
+    },
+    {
+      "startTime": 605.8,
+      "title": "Act VI: The Fatal Consumption and the 'Devise for the Succession': 1553"
+    },
+    {
+      "startTime": 720.0,
+      "title": "Act VII: The Boy King's Dying Breath and the Nine Days Queen: July 1553"
+    },
+    {
+      "startTime": 844.3,
+      "title": "Conclusion"
+    }
+  ]
+}
