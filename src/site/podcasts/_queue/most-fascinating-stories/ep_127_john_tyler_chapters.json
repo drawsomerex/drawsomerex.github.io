@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 45.5,
+      "title": "Act I: The Messenger at Dawn"
+    },
+    {
+      "startTime": 131.3,
+      "title": "Act II: The Precedent of 'His Accidency'"
+    },
+    {
+      "startTime": 234.9,
+      "title": "Act III: The Tyler Precedent"
+    },
+    {
+      "startTime": 329.9,
+      "title": "Act IV: The Clash with the Great Compromiser"
+    },
+    {
+      "startTime": 465.1,
+      "title": "Act V: The Cabinet Mutiny and White House Siege"
+    },
+    {
+      "startTime": 568.3,
+      "title": "Act VI: The Man Without a Party"
+    },
+    {
+      "startTime": 663.7,
+      "title": "Act VII: The Legacy of Independence"
+    },
+    {
+      "startTime": 735.6,
+      "title": "Conclusion"
+    }
+  ]
+}
