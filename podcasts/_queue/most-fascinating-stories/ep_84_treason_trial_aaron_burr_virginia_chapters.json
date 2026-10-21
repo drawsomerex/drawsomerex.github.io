@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.8,
+      "title": "Act I: The Prodigy, the Duel, and the Wilderness"
+    },
+    {
+      "startTime": 154.6,
+      "title": "Act II: The Island on the Ohio and the Cipher Letter"
+    },
+    {
+      "startTime": 261.6,
+      "title": "Act III: The Betrayal of General Wilkinson"
+    },
+    {
+      "startTime": 368.0,
+      "title": "Act IV: The Clash of the Titans in Richmond"
+    },
+    {
+      "startTime": 454.7,
+      "title": "Act V: The Subpoena of the President"
+    },
+    {
+      "startTime": 552.1,
+      "title": "Act VI: The Constitutional Definition of Treason"
+    },
+    {
+      "startTime": 658.6,
+      "title": "Act VII: The Verdict and the Safeguard of Liberty"
+    },
+    {
+      "startTime": 752.9,
+      "title": "Conclusion"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 61.5,
+      "title": "Act I: The Enslaved Helmsman of the Lowcountry"
+    },
+    {
+      "startTime": 162.9,
+      "title": "Act II: The Plan in the Shadows"
+    },
+    {
+      "startTime": 271.3,
+      "title": "Act III: Casting Off Under the Southern Cross"
+    },
+    {
+      "startTime": 359.9,
+      "title": "Act IV: The Test of Fort Sumter"
+    },
+    {
+      "startTime": 453.9,
+      "title": "Act V: The White Sheet of Surrender"
+    },
+    {
+      "startTime": 549.2,
+      "title": "Act VI: Delivering an Empire's Secrets"
+    },
+    {
+      "startTime": 648.1,
+      "title": "Act VII: The Statesman of Beaufort"
+    },
+    {
+      "startTime": 742.5,
+      "title": "Conclusion"
+    }
+  ]
+}
