@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.8,
+      "title": "Act I: The All-American Center from Grand Rapids"
+    },
+    {
+      "startTime": 141.8,
+      "title": "Act II: The 25th Amendment Miracle"
+    },
+    {
+      "startTime": 231.7,
+      "title": "Act III: 'A Ford, Not a Lincoln': August 9, 1974"
+    },
+    {
+      "startTime": 323.7,
+      "title": "Act IV: The Great Nixon Pardon Shockwave"
+    },
+    {
+      "startTime": 431.6,
+      "title": "Act V: The Klutz Myth and the Chevy Chase Spoof"
+    },
+    {
+      "startTime": 529.7,
+      "title": "Act VI: Two Assassination Attempts in Seventeen Days"
+    },
+    {
+      "startTime": 628.0,
+      "title": "Act VII: The Bicentennial Summer and Healing the Republic"
+    },
+    {
+      "startTime": 724.9,
+      "title": "Conclusion"
+    }
+  ]
+}

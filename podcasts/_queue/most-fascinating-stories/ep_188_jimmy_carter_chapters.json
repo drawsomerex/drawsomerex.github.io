@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.2,
+      "title": "Act I: The Red Dirt of Plains and Naval Discipline"
+    },
+    {
+      "startTime": 134.3,
+      "title": "Act II: Admiral Rickover and the Meltdown at Chalk River"
+    },
+    {
+      "startTime": 239.4,
+      "title": "Act III: Returning to Plains and the Governor's Mansion"
+    },
+    {
+      "startTime": 332.8,
+      "title": "Act IV: 'Jimmy Who?' and the 1976 Presidential Miracle"
+    },
+    {
+      "startTime": 426.7,
+      "title": "Act V: The Walk Down Pennsylvania Avenue: January 1977"
+    },
+    {
+      "startTime": 513.9,
+      "title": "Act VI: Cardigans, Solar Panels, and Human Rights"
+    },
+    {
+      "startTime": 607.6,
+      "title": "Act VII: The Miracle of the Camp David Accords: 1978"
+    },
+    {
+      "startTime": 702.8,
+      "title": "Conclusion"
+    }
+  ]
+}

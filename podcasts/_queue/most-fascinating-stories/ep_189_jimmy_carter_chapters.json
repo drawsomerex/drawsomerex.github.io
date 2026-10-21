@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.2,
+      "title": "Act I: The Infamous 'Killer Rabbit' Folklore"
+    },
+    {
+      "startTime": 128.4,
+      "title": "Act II: The 'Malaise' Speech: July 1979"
+    },
+    {
+      "startTime": 227.4,
+      "title": "Act III: Four Hundred and Forty-Four Days: The Iran Hostages"
+    },
+    {
+      "startTime": 318.9,
+      "title": "Act IV: The Tragedy of Desert One: April 1980"
+    },
+    {
+      "startTime": 415.8,
+      "title": "Act V: The Miracle Release on Inauguration Day: 1981"
+    },
+    {
+      "startTime": 513.3,
+      "title": "Act VI: Habitat for Humanity and the Carter Center"
+    },
+    {
+      "startTime": 605.9,
+      "title": "Act VII: The Eradication of Guinea Worm and the Nobel Legacy"
+    },
+    {
+      "startTime": 702.9,
+      "title": "Conclusion"
+    }
+  ]
+}
