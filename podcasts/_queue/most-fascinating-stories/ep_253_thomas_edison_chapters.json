@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.1,
+      "title": "Act I: The Inquisitive Boy of Milan, Ohio: 1847 to 1868"
+    },
+    {
+      "startTime": 144.8,
+      "title": "Act II: The Quadruplex Telegraph and Menlo Park: 1869 to 1876"
+    },
+    {
+      "startTime": 255.2,
+      "title": "Act III: Mary Had a Little Lamb: The Phonograph of 1877"
+    },
+    {
+      "startTime": 377.6,
+      "title": "Act IV: The Incandescent Lamp: The Search for the Filament: 1878 to 1879"
+    },
+    {
+      "startTime": 504.4,
+      "title": "Act V: Pearl Street and the Birth of the Electric Grid: 1882"
+    },
+    {
+      "startTime": 613.1,
+      "title": "Act VI: The War of the Currents: Direct vs. Alternating: 1886 to 1893"
+    },
+    {
+      "startTime": 732.1,
+      "title": "Act VII: The Kinetoscope, West Orange, and the Legacy of Sweat"
+    },
+    {
+      "startTime": 838.6,
+      "title": "Conclusion"
+    }
+  ]
+}

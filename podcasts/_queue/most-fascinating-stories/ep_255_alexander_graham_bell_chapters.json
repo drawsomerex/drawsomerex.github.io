@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.1,
+      "title": "Act I: The Sound of Silence in Edinburgh: 1847 to 1870"
+    },
+    {
+      "startTime": 137.8,
+      "title": "Act II: Teaching the Deaf and the Boston Laboratory: 1871 to 1874"
+    },
+    {
+      "startTime": 234.8,
+      "title": "Act III: The Plucked Reed and the Liquid Transmitter: 1875 to 1876"
+    },
+    {
+      "startTime": 351.5,
+      "title": "Act IV: The Philadelphia Centennial and the Emperor of Brazil: June 1876"
+    },
+    {
+      "startTime": 449.0,
+      "title": "Act V: The Bell Telephone Company and the Patent Wars: 1877 to 1888"
+    },
+    {
+      "startTime": 542.0,
+      "title": "Act VI: The Metal Detector and the Tragedy of President Garfield: 1881"
+    },
+    {
+      "startTime": 635.9,
+      "title": "Act VII: Baddeck, Tetrahedral Kites, Hydrofoils, and the Enduring Legacy"
+    },
+    {
+      "startTime": 745.7,
+      "title": "Conclusion"
+    }
+  ]
+}
