@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.1,
+      "title": "Act I: The Elector of Hanover: Herrenhausen to Greenwich: 1660 to 1714"
+    },
+    {
+      "startTime": 146.9,
+      "title": "Act II: The Act of Settlement and the Voyage to Britain: September 1714"
+    },
+    {
+      "startTime": 262.0,
+      "title": "Act III: The 'Fifteen': The Jacobite Rising of 1715"
+    },
+    {
+      "startTime": 381.4,
+      "title": "Act IV: The South Sea Bubble: Financial Cataclysm: 1720"
+    },
+    {
+      "startTime": 491.2,
+      "title": "Act V: Sir Robert Walpole and the Birth of the Prime Minister"
+    },
+    {
+      "startTime": 603.7,
+      "title": "Act VI: The Family Feud: Father and Son at Leicester House"
+    },
+    {
+      "startTime": 704.3,
+      "title": "Act VII: The Final Journey: Osnabr\u00fcck and the Hanoverian Foundation: 1727"
+    },
+    {
+      "startTime": 803.3,
+      "title": "Conclusion"
+    }
+  ]
+}
