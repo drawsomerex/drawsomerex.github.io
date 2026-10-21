@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 52.9,
+      "title": "Act I: Johnstown and the Cambria Iron Works"
+    },
+    {
+      "startTime": 178.4,
+      "title": "Act II: The Sins of the South Fork Dam"
+    },
+    {
+      "startTime": 281.7,
+      "title": "Act III: The Unprecedented Deluge of May 1889"
+    },
+    {
+      "startTime": 397.8,
+      "title": "Act IV: The Wall of Water"
+    },
+    {
+      "startTime": 504.1,
+      "title": "Act V: The Destruction of Johnstown and the Stone Bridge Inferno"
+    },
+    {
+      "startTime": 609.6,
+      "title": "Act VI: The Aftermath and Clara Barton's Red Cross"
+    },
+    {
+      "startTime": 713.9,
+      "title": "Act VII: The Legacy of Corporate Immunity and Dam Safety"
+    },
+    {
+      "startTime": 822.8,
+      "title": "Conclusion"
+    }
+  ]
+}
