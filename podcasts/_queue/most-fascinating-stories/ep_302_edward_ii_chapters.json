@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.9,
+      "title": "Act I: In the Shadow of Longshanks: 1284 to 1307"
+    },
+    {
+      "startTime": 145.2,
+      "title": "Act II: The Coronation and the Insolence of Piers Gaveston: 1307 to 1311"
+    },
+    {
+      "startTime": 265.1,
+      "title": "Act III: The Murder of Gaveston at Blacklow Hill: June 1312"
+    },
+    {
+      "startTime": 371.6,
+      "title": "Act IV: The Catastrophe of Bannockburn: June 23\u201324, 1314"
+    },
+    {
+      "startTime": 487.7,
+      "title": "Act V: The Tyranny of the Despensers and Lancaster's Fall: 1318 to 1322"
+    },
+    {
+      "startTime": 595.8,
+      "title": "Act VI: The She-Wolf of France and the Invasion of 1326"
+    },
+    {
+      "startTime": 710.2,
+      "title": "Act VII: The Deposition and the Dark Secret of Berkeley Castle: 1327"
+    },
+    {
+      "startTime": 851.5,
+      "title": "Conclusion"
+    }
+  ]
+}

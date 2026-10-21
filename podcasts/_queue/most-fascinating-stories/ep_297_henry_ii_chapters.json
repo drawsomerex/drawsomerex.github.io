@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.7,
+      "title": "Act I: The Youthful Dynamo and Eleanor of Aquitaine: 1133 to 1154"
+    },
+    {
+      "startTime": 142.8,
+      "title": "Act II: Demolishing Adulterine Castles and Restoring Order: 1154 to 1160"
+    },
+    {
+      "startTime": 230.3,
+      "title": "Act III: The Birth of the Common Law and Trial by Jury: 1166"
+    },
+    {
+      "startTime": 336.6,
+      "title": "Act IV: The Chancellor, the Archbishop, and the Constitutions of Clarendon: 1155 to 1164"
+    },
+    {
+      "startTime": 454.8,
+      "title": "Act V: 'Will No One Rid Me of This Turbulent Priest?': December 1170"
+    },
+    {
+      "startTime": 559.2,
+      "title": "Act VI: The Murder in Canterbury Cathedral: December 29, 1170"
+    },
+    {
+      "startTime": 681.2,
+      "title": "Act VII: The Rebellion of the Sons and the Bitter End at Chinon: 1189 and Legacy"
+    },
+    {
+      "startTime": 811.9,
+      "title": "Conclusion"
+    }
+  ]
+}

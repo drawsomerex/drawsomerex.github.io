@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.4,
+      "title": "Act I: Longshanks: The Tall Prince and the Crusade of Acre: 1239 to 1274"
+    },
+    {
+      "startTime": 142.4,
+      "title": "Act II: The Conquest of Wales and the Death of Llywelyn: 1277 to 1283"
+    },
+    {
+      "startTime": 252.5,
+      "title": "Act III: The Iron Ring: Conwy, Caernarfon, and Harlech: 1283 to 1290"
+    },
+    {
+      "startTime": 363.6,
+      "title": "Act IV: The Eleanor Crosses and the Expulsion of the Jews: 1290"
+    },
+    {
+      "startTime": 477.7,
+      "title": "Act V: The Great Cause and the Stone of Scone: 1291 to 1296"
+    },
+    {
+      "startTime": 590.7,
+      "title": "Act VI: The Model Parliament: 1295"
+    },
+    {
+      "startTime": 690.6,
+      "title": "Act VII: The Hammer of the Scots and the Burgh by Sands: 1297 to 1307"
+    },
+    {
+      "startTime": 819.5,
+      "title": "Conclusion"
+    }
+  ]
+}
