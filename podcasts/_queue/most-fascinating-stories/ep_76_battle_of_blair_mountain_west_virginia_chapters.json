@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 55.1,
+      "title": "Act I: The Dark Feudalism of the Coal Towns"
+    },
+    {
+      "startTime": 154.4,
+      "title": "Act II: Sid Hatfield and the Matewan Massacre"
+    },
+    {
+      "startTime": 255.5,
+      "title": "Act III: The Gathering of the Red Necks"
+    },
+    {
+      "startTime": 363.4,
+      "title": "Act IV: Don Chafin and the Mountain Fortress"
+    },
+    {
+      "startTime": 453.1,
+      "title": "Act V: The Ridge Erupts in Gunfire"
+    },
+    {
+      "startTime": 556.0,
+      "title": "Act VI: The Bombs from the Sky"
+    },
+    {
+      "startTime": 639.4,
+      "title": "Act VII: The Federal Troops and the Long Road to Freedom"
+    },
+    {
+      "startTime": 747.8,
+      "title": "Conclusion"
+    }
+  ]
+}

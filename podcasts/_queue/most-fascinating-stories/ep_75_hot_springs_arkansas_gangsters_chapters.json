@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 54.9,
+      "title": "Act I: The Thermal Valley of Peace"
+    },
+    {
+      "startTime": 185.0,
+      "title": "Act II: The Political Machine of Leo McLaughlin"
+    },
+    {
+      "startTime": 292.3,
+      "title": "Act III: Al Capone and the Arlington Hotel"
+    },
+    {
+      "startTime": 388.1,
+      "title": "Act IV: The Duke of the West: Owney Madden"
+    },
+    {
+      "startTime": 494.6,
+      "title": "Act V: The Trap for Lucky Luciano"
+    },
+    {
+      "startTime": 594.6,
+      "title": "Act VI: The GI Revolt and Sid McMath"
+    },
+    {
+      "startTime": 685.9,
+      "title": "Act VII: The Burning of the Green and the Enduring Springs"
+    },
+    {
+      "startTime": 785.6,
+      "title": "Conclusion"
+    }
+  ]
+}
