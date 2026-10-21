@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 58.0,
+      "title": "Act I: The Fireball Over the Deep South"
+    },
+    {
+      "startTime": 159.0,
+      "title": "Act II: The Nap on the Oak Grove Sofa"
+    },
+    {
+      "startTime": 263.2,
+      "title": "Act III: The Pineapple Bruise and the Media Stampede"
+    },
+    {
+      "startTime": 351.9,
+      "title": "Act IV: The Seizure by Uncle Sam"
+    },
+    {
+      "startTime": 443.6,
+      "title": "Act V: The Landlady's Lawsuit"
+    },
+    {
+      "startTime": 536.8,
+      "title": "Act VI: The Settlement and the Cursed Stone"
+    },
+    {
+      "startTime": 636.9,
+      "title": "Act VII: The Cosmic Shadow over Ann Hodges"
+    },
+    {
+      "startTime": 736.6,
+      "title": "Conclusion"
+    }
+  ]
+}
