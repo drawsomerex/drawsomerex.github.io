@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.8,
+      "title": "Act I: The Golden Liberty: Europe's First Noble Republic"
+    },
+    {
+      "startTime": 136.5,
+      "title": "Act II: The Fatal Curse of the Liberum Veto"
+    },
+    {
+      "startTime": 245.6,
+      "title": "Act III: The First Partition: 1772"
+    },
+    {
+      "startTime": 353.3,
+      "title": "Act IV: The Constitution of May 3, 1791: A Beacon of Liberty"
+    },
+    {
+      "startTime": 464.1,
+      "title": "Act V: The Second Partition and the Betrayal of Targowica"
+    },
+    {
+      "startTime": 552.9,
+      "title": "Act VI: The Ko\u015bciuszko Uprising: The Scythemen of Rac\u0142awice"
+    },
+    {
+      "startTime": 657.2,
+      "title": "Act VII: The Third Partition and the Nation that Refused to Die"
+    },
+    {
+      "startTime": 771.1,
+      "title": "Conclusion"
+    }
+  ]
+}
