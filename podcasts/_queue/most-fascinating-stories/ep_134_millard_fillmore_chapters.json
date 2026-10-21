@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 47.2,
+      "title": "Act I: The Closed Kingdom of Sakoku"
+    },
+    {
+      "startTime": 143.9,
+      "title": "Act II: The Pacific Frontier: Why America Needed Japan"
+    },
+    {
+      "startTime": 244.2,
+      "title": "Act III: Fillmore's Mission: Matthew Calbraith Perry"
+    },
+    {
+      "startTime": 342.2,
+      "title": "Act IV: The Kurofune Arrive: July 1853"
+    },
+    {
+      "startTime": 467.8,
+      "title": "Act V: The Landing at Kurihama"
+    },
+    {
+      "startTime": 557.5,
+      "title": "Act VI: The Return and the Technological Marvels"
+    },
+    {
+      "startTime": 655.4,
+      "title": "Act VII: The Treaty of Kanagawa and a New World"
+    },
+    {
+      "startTime": 787.7,
+      "title": "Conclusion"
+    }
+  ]
+}
