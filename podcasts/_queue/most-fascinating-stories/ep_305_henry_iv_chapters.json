@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.7,
+      "title": "Act I: The Heir of Gaunt: From Bolingbroke to Exiled Champion: 1367 to 1399"
+    },
+    {
+      "startTime": 140.0,
+      "title": "Act II: The Lancastrian Coup: Claiming the Crown at Westminster"
+    },
+    {
+      "startTime": 257.8,
+      "title": "Act III: Uneasy Lies the Head: The Epiphany Rising and Religious Persecution"
+    },
+    {
+      "startTime": 364.1,
+      "title": "Act IV: Owain Glynd\u0175r and the Welsh War of Independence: 1400 to 1405"
+    },
+    {
+      "startTime": 471.5,
+      "title": "Act V: The Percy Rebellion and Harry Hotspur: 1403"
+    },
+    {
+      "startTime": 580.1,
+      "title": "Act VI: The Bloody Clash at Shrewsbury: July 21, 1403"
+    },
+    {
+      "startTime": 692.4,
+      "title": "Act VII: The Broken Monarch and the Jerusalem Chamber: 1406 to 1413"
+    },
+    {
+      "startTime": 806.4,
+      "title": "Conclusion"
+    }
+  ]
+}

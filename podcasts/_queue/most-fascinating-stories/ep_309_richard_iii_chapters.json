@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.2,
+      "title": "Act I: Loyalty Binds Me: The Northern Lordship: 1452 to 1483"
+    },
+    {
+      "startTime": 146.8,
+      "title": "Act II: The Stony Stratford Coup: April 1483"
+    },
+    {
+      "startTime": 265.5,
+      "title": "Act III: The Tower, Hastings' Execution, and Titulus Regius: June 1483"
+    },
+    {
+      "startTime": 392.2,
+      "title": "Act IV: The Princes in the Tower: Mystery and Disappearance: 1483"
+    },
+    {
+      "startTime": 514.3,
+      "title": "Act V: Buckingham's Rebellion and Personal Tragedy: 1483 to 1484"
+    },
+    {
+      "startTime": 640.8,
+      "title": "Act VI: The Battle of Bosworth Field: August 22, 1485"
+    },
+    {
+      "startTime": 774.1,
+      "title": "Act VII: The King Beneath the Car Park: Leicester 2012"
+    },
+    {
+      "startTime": 902.6,
+      "title": "Conclusion"
+    }
+  ]
+}
