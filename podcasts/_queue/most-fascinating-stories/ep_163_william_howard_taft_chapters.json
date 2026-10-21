@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.0,
+      "title": "Act I: Two Men, One Vision, Different Methods"
+    },
+    {
+      "startTime": 137.4,
+      "title": "Act II: The Cunningham Coal Claims in Alaska"
+    },
+    {
+      "startTime": 242.6,
+      "title": "Act III: Louis Glavis and the Whistleblower's Dossier"
+    },
+    {
+      "startTime": 352.8,
+      "title": "Act IV: The Muckrakers and Pinchot's Defiance"
+    },
+    {
+      "startTime": 463.9,
+      "title": "Act V: The Great Congressional Inquiry and Louis Brandeis"
+    },
+    {
+      "startTime": 568.4,
+      "title": "Act VI: The Pilgrimage to Porto Maurizio"
+    },
+    {
+      "startTime": 660.2,
+      "title": "Act VII: The Verdict of History"
+    },
+    {
+      "startTime": 774.7,
+      "title": "Conclusion"
+    }
+  ]
+}
