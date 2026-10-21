@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.1,
+      "title": "Act I: The Watergate Break-In: June 17, 1972"
+    },
+    {
+      "startTime": 129.3,
+      "title": "Act II: Woodward, Bernstein, and 'Deep Throat'"
+    },
+    {
+      "startTime": 222.7,
+      "title": "Act III: The Revelation of the Secret Tapes"
+    },
+    {
+      "startTime": 317.5,
+      "title": "Act IV: The Saturday Night Massacre: October 1973"
+    },
+    {
+      "startTime": 420.1,
+      "title": "Act V: 'I Am Not a Crook' and the 18\u00bd-Minute Gap"
+    },
+    {
+      "startTime": 518.7,
+      "title": "Act VI: The 'Smoking Gun' and the Unanimous Court"
+    },
+    {
+      "startTime": 611.6,
+      "title": "Act VII: Resignation and the Final Helicopter Salute"
+    },
+    {
+      "startTime": 705.0,
+      "title": "Conclusion"
+    }
+  ]
+}
