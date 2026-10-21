@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.1,
+      "title": "Act I: Henry Cabot Lodge and the Senate Ambush"
+    },
+    {
+      "startTime": 141.1,
+      "title": "Act II: The Whistle-Stop Pilgrimage to the West"
+    },
+    {
+      "startTime": 242.8,
+      "title": "Act III: The Tears at Pueblo: September 25, 1919"
+    },
+    {
+      "startTime": 332.8,
+      "title": "Act IV: The Collapse in the Night"
+    },
+    {
+      "startTime": 416.7,
+      "title": "Act V: The Stroke in the Bathroom: October 2, 1919"
+    },
+    {
+      "startTime": 515.1,
+      "title": "Act VI: The Regency of Edith Bolling Wilson"
+    },
+    {
+      "startTime": 617.0,
+      "title": "Act VII: The Rejection and the Broken Prophet"
+    },
+    {
+      "startTime": 728.6,
+      "title": "Conclusion"
+    }
+  ]
+}
