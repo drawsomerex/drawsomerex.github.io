@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 34.2,
+      "title": "Act I: The Secret Leases of Teapot Dome"
+    },
+    {
+      "startTime": 151.6,
+      "title": "Act II: Thomas J. Walsh and the Black Bag"
+    },
+    {
+      "startTime": 249.2,
+      "title": "Act III: The Voyage of Understanding"
+    },
+    {
+      "startTime": 341.5,
+      "title": "Act IV: The Golden Spike in the Alaskan Wilderness"
+    },
+    {
+      "startTime": 439.3,
+      "title": "Act V: The Coded Telegram on the High Seas"
+    },
+    {
+      "startTime": 526.2,
+      "title": "Act VI: The Palace Hotel: Room 806"
+    },
+    {
+      "startTime": 627.7,
+      "title": "Act VII: The Midnight Telegram and the Historic Verdict"
+    },
+    {
+      "startTime": 744.0,
+      "title": "Conclusion"
+    }
+  ]
+}
