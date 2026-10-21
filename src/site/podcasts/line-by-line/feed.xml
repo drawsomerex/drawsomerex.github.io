@@ -7,11 +7,16 @@
     <description>A Scripture &amp; Exegesis Podcast searching God's Word verse by verse. Rooted in the historic, conservative Reformed tradition, each episode pairs historical-covenantal context with warm, pastoral, line-by-line exegesis drawing from classic commentaries including John Calvin, Matthew Henry, Jamieson-Fausset-Brown, and Charles Spurgeon.</description>
     <language>en-us</language>
     <copyright>Creative Commons Attribution 4.0 International (CC-BY-4.0)</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 01:49:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 02:15:41 +0000</lastBuildDate>
+    <image>
+      <url>https://drawsomerex.github.io/podcasts/line-by-line/cover.jpg</url>
+      <title>Line by Line</title>
+      <link>https://drawsomerex.github.io/podcasts/line-by-line</link>
+    </image>
     <itunes:author>Autonomous Media Lab</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://media.hieter.xyz/podcasts/line-by-line/cover.jpg"/>
+    <itunes:image href="https://drawsomerex.github.io/podcasts/line-by-line/cover.jpg"/>
     <itunes:owner>
       <itunes:name>Autonomous Media Lab</itunes:name>
       <itunes:email>broadcast@synthetic.media</itunes:email>
@@ -33,6 +38,7 @@
       <itunes:duration>1086</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
+      <itunes:image href="https://drawsomerex.github.io/podcasts/line-by-line/cover.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
       <podcast:chapters url="https://drawsomerex.github.io/podcasts/line-by-line/ep_01_psalm_23_chapters.json" type="application/json+chapters"/>
