@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.4,
+      "title": "Act I: Ledger A and the Bookkeeper of Cleveland: 1839 to 1859"
+    },
+    {
+      "startTime": 155.1,
+      "title": "Act II: The Black Gold Rush and the Standard Oil Company: 1863 to 1870"
+    },
+    {
+      "startTime": 268.6,
+      "title": "Act III: The Cleveland Massacre and Secret Railroad Rebates: 1871 to 1872"
+    },
+    {
+      "startTime": 378.7,
+      "title": "Act IV: The Pipeline Monopoly and the Trust of 1882"
+    },
+    {
+      "startTime": 492.7,
+      "title": "Act V: Ida Tarbell and the Public Fury: 1902 to 1906"
+    },
+    {
+      "startTime": 595.7,
+      "title": "Act VI: The Supreme Court Dismantling of 1911"
+    },
+    {
+      "startTime": 704.4,
+      "title": "Act VII: The Science of Philanthropy and the Shilling Dime: 1911 to 1937"
+    },
+    {
+      "startTime": 824.3,
+      "title": "Conclusion"
+    }
+  ]
+}
