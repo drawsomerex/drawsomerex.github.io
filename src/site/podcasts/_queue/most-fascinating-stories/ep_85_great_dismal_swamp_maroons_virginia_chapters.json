@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.0,
+      "title": "Act I: The Impenetrable Blackwater Wilderness"
+    },
+    {
+      "startTime": 178.9,
+      "title": "Act II: The Flight into the Morass"
+    },
+    {
+      "startTime": 284.8,
+      "title": "Act III: The Architecture of Maroon Settlements"
+    },
+    {
+      "startTime": 397.2,
+      "title": "Act IV: The Generations of the Unseen"
+    },
+    {
+      "startTime": 497.3,
+      "title": "Act V: The Shingle Trade and the Clandestine Economy"
+    },
+    {
+      "startTime": 610.9,
+      "title": "Act VI: The Shadow of Nat Turner and Civil War Spies"
+    },
+    {
+      "startTime": 716.2,
+      "title": "Act VII: The Legacy of America's Maroon Fortress"
+    },
+    {
+      "startTime": 814.4,
+      "title": "Conclusion"
+    }
+  ]
+}
