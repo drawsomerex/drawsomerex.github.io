@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.0,
+      "title": "Act I: Under the Oak Tree at Hatfield: Accession and Survival: 1533 to 1558"
+    },
+    {
+      "startTime": 164.4,
+      "title": "Act II: The Middle Way: The Elizabethan Religious Settlement: 1559"
+    },
+    {
+      "startTime": 286.2,
+      "title": "Act III: The Virgin Queen and Robert Dudley: The Politics of Marriage"
+    },
+    {
+      "startTime": 405.3,
+      "title": "Act IV: The Sea Dogs and the Cold War with Spain: Drake and Hawkins"
+    },
+    {
+      "startTime": 519.4,
+      "title": "Act V: The Gathering Storm: The Invincible Armada: July 1588"
+    },
+    {
+      "startTime": 634.0,
+      "title": "Act VI: The Speech at Tilbury: 'The Heart and Stomach of a King': August 1588"
+    },
+    {
+      "startTime": 745.6,
+      "title": "Act VII: The Fireships of Calais and the Protestant Wind: August 1588"
+    },
+    {
+      "startTime": 865.8,
+      "title": "Conclusion"
+    }
+  ]
+}
