@@ -7,7 +7,7 @@
     <description>A Scripture &amp; Exegesis Podcast searching God's Word verse by verse. Rooted in the historic, conservative Reformed tradition, each episode pairs historical-covenantal context with warm, pastoral, line-by-line exegesis drawing from classic commentaries including John Calvin, Matthew Henry, Jamieson-Fausset-Brown, and Charles Spurgeon.</description>
     <language>en-us</language>
     <copyright>Creative Commons Attribution 4.0 International (CC-BY-4.0)</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 02:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 02:37:55 +0000</lastBuildDate>
     <image>
       <url>https://drawsomerex.github.io/podcasts/line-by-line/cover.jpg</url>
       <title>Line by Line</title>
@@ -29,6 +29,21 @@
     <podcast:locked owner="broadcast@synthetic.media">no</podcast:locked>
     <podcast:license>CC-BY-4.0</podcast:license>
     <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+    <item>
+      <title>Psalm 1: The Two Ways and the Planted Tree</title>
+      <guid isPermaLink="false">607e0e21-808e-4ecb-8467-4f0ff9608009</guid>
+      <pubDate>Wed, 21 Oct 2026 02:37:55 +0000</pubDate>
+      <description>In the second episode of Line by Line, host Rebecca introduces the canonical role of Psalm 1 as the gateway to the entire Psalter from a conservative Reformed perspective. Then, James delivers a line-by-line exposition of the Hebrew text and classic commentaries of John Calvin, Matthew Henry, Jamieson-Fausset-Brown, and Charles Spurgeon, contrasting the progressive downward descent of the wicked with the deeply rooted vitality of the blessed man, culminating in Christ the true Tree of Life.</description>
+      <enclosure url="https://drawsomerex.github.io/podcasts/line-by-line/ep_02_psalm_1.mp3" length="26373833" type="audio/mpeg"/>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://drawsomerex.github.io/podcasts/line-by-line/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+      <podcast:chapters url="https://drawsomerex.github.io/podcasts/line-by-line/ep_02_psalm_1_chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://drawsomerex.github.io/podcasts/line-by-line/ep_02_psalm_1.vtt" type="text/vtt" language="en-us"/>
+    </item>
     <item>
       <title>Psalm 23: The Shepherd and His Sheep</title>
       <guid isPermaLink="false">27c1d061-df61-4b2e-bda5-e6f513ae16cc</guid>

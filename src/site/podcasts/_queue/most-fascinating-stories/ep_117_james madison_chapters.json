@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 53.1,
+      "title": "Act I: A Republic in Dissolution"
+    },
+    {
+      "startTime": 161.9,
+      "title": "Act II: The Sweltering Assembly of Philadelphia"
+    },
+    {
+      "startTime": 284.8,
+      "title": "Act III: The Virginia Plan: Madison's Radical Blueprint"
+    },
+    {
+      "startTime": 396.2,
+      "title": "Act IV: The Great Crucible of Compromise"
+    },
+    {
+      "startTime": 496.1,
+      "title": "Act V: The Clandestine Notes of James Madison"
+    },
+    {
+      "startTime": 591.9,
+      "title": "Act VI: The Federalist Papers: Defending the Framework"
+    },
+    {
+      "startTime": 701.1,
+      "title": "Act VII: The Bill of Rights and a Living Legacy"
+    },
+    {
+      "startTime": 800.8,
+      "title": "Conclusion"
+    }
+  ]
+}
