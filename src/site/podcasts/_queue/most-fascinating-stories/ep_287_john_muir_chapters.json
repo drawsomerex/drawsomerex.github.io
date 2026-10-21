@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 24.1,
+      "title": "Act I: The Strict Kirk and the Mechanical Genius: 1838 to 1867"
+    },
+    {
+      "startTime": 156.6,
+      "title": "Act II: The Thousand-Mile Walk to the Gulf: 1867 to 1868"
+    },
+    {
+      "startTime": 269.2,
+      "title": "Act III: The Range of Light and the Yosemite Cabin: 1868 to 1871"
+    },
+    {
+      "startTime": 368.2,
+      "title": "Act IV: The Glacial Heresy and the Scientific Vindication"
+    },
+    {
+      "startTime": 472.1,
+      "title": "Act V: The Founding of the Sierra Club and Yosemite National Park: 1890 to 1892"
+    },
+    {
+      "startTime": 587.7,
+      "title": "Act VI: Camping with Teddy Roosevelt Under the Sequoias: May 1903"
+    },
+    {
+      "startTime": 698.8,
+      "title": "Act VII: The Battle of Hetch Hetchy and the Eternal Mountain Spirit: 1914 and Legacy"
+    },
+    {
+      "startTime": 815.8,
+      "title": "Conclusion"
+    }
+  ]
+}
