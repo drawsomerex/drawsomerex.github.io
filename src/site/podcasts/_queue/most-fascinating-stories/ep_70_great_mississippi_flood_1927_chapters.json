@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.9,
+      "title": "Act I: The Levees-Only Dogma"
+    },
+    {
+      "startTime": 167.3,
+      "title": "Act II: The Great Crevasse at Mounds Landing"
+    },
+    {
+      "startTime": 266.9,
+      "title": "Act III: The Plight on the Levee Top"
+    },
+    {
+      "startTime": 360.4,
+      "title": "Act IV: The Dynamiting of Caernarvon"
+    },
+    {
+      "startTime": 466.9,
+      "title": "Act V: Herbert Hoover and the National Spotlight"
+    },
+    {
+      "startTime": 560.5,
+      "title": "Act VI: The Great Northern Exodus and the Delta Blues"
+    },
+    {
+      "startTime": 659.6,
+      "title": "Act VII: The Flood Control Act of 1928"
+    },
+    {
+      "startTime": 768.7,
+      "title": "Conclusion"
+    }
+  ]
+}
