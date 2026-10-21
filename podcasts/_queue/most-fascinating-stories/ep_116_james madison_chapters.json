@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 47.8,
+      "title": "Act I: The Chesapeake Menace"
+    },
+    {
+      "startTime": 160.7,
+      "title": "Act II: The Debacle at Bladensburg"
+    },
+    {
+      "startTime": 276.8,
+      "title": "Act III: Dolley Madison's Defiance"
+    },
+    {
+      "startTime": 374.7,
+      "title": "Act IV: Saving the Father of His Country"
+    },
+    {
+      "startTime": 468.7,
+      "title": "Act V: Washington in Ashes"
+    },
+    {
+      "startTime": 574.7,
+      "title": "Act VI: The Hurricane and the Miracle Tornado"
+    },
+    {
+      "startTime": 687.0,
+      "title": "Act VII: The Phoenix and the Sovereign Will"
+    },
+    {
+      "startTime": 773.5,
+      "title": "Conclusion"
+    }
+  ]
+}
