@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.3,
+      "title": "Act I: The Island Boy: Hawaii and Indonesia"
+    },
+    {
+      "startTime": 134.3,
+      "title": "Act II: The South Side of Chicago and Harvard Law"
+    },
+    {
+      "startTime": 237.7,
+      "title": "Act III: The 2004 Keynote Speech in Boston"
+    },
+    {
+      "startTime": 337.0,
+      "title": "Act IV: The Audacity of Hope and the 2008 Primary"
+    },
+    {
+      "startTime": 438.6,
+      "title": "Act V: The Speech on Race in Philadelphia"
+    },
+    {
+      "startTime": 539.7,
+      "title": "Act VI: The Historic Election of November 4, 2008"
+    },
+    {
+      "startTime": 627.0,
+      "title": "Act VII: The Night in Grant Park: 'Yes We Can'"
+    },
+    {
+      "startTime": 732.5,
+      "title": "Conclusion"
+    }
+  ]
+}

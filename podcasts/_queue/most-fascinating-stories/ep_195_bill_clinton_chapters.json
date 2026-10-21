@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.6,
+      "title": "Act I: The 1993 Deficit Reduction Gamble"
+    },
+    {
+      "startTime": 136.2,
+      "title": "Act II: The Republican Revolution and Government Shutdowns"
+    },
+    {
+      "startTime": 238.6,
+      "title": "Act III: Triangulation and the Era of Surpluses"
+    },
+    {
+      "startTime": 341.6,
+      "title": "Act IV: Socks the Cat and Buddy the Labrador"
+    },
+    {
+      "startTime": 436.2,
+      "title": "Act V: The Dayton Accords and the Good Friday Agreement"
+    },
+    {
+      "startTime": 531.2,
+      "title": "Act VI: Impeachment and the Battle of Survival: 1998\u20131999"
+    },
+    {
+      "startTime": 632.7,
+      "title": "Act VII: The Prosperous Horizon of 2001"
+    },
+    {
+      "startTime": 727.8,
+      "title": "Conclusion"
+    }
+  ]
+}
