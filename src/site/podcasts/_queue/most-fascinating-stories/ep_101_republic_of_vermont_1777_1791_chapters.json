@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 67.3,
+      "title": "Act I: Caught Between New York and New Hampshire"
+    },
+    {
+      "startTime": 179.7,
+      "title": "Act II: The Declaration of Windsor: A Nation is Born"
+    },
+    {
+      "startTime": 286.8,
+      "title": "Act III: The Radical Constitution of 1777"
+    },
+    {
+      "startTime": 389.2,
+      "title": "Act IV: The Battle of Bennington: Saving the Revolution"
+    },
+    {
+      "startTime": 498.1,
+      "title": "Act V: The Haldimand Negotiations: The Secret Game of Poker"
+    },
+    {
+      "startTime": 601.8,
+      "title": "Act VI: The Sovereign Republic in Full Bloom"
+    },
+    {
+      "startTime": 698.4,
+      "title": "Act VII: Statehood and the Fourteenth Star"
+    },
+    {
+      "startTime": 816.3,
+      "title": "Conclusion"
+    }
+  ]
+}
