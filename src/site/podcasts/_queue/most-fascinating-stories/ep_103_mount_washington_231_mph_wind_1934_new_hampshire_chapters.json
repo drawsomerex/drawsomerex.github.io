@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 62.9,
+      "title": "Act I: The Home of the World's Worst Weather"
+    },
+    {
+      "startTime": 175.7,
+      "title": "Act II: The Great Depression and the Mount Washington Observatory"
+    },
+    {
+      "startTime": 284.3,
+      "title": "Act III: The Genesis of the Super-Anemometer"
+    },
+    {
+      "startTime": 386.6,
+      "title": "Act IV: The Storm of April 11\u201312, 1934"
+    },
+    {
+      "startTime": 488.0,
+      "title": "Act V: The Great Gust: 231 Miles Per Hour"
+    },
+    {
+      "startTime": 611.5,
+      "title": "Act VI: Verification and Scientific Triumph"
+    },
+    {
+      "startTime": 708.1,
+      "title": "Act VII: The Legacy of Mount Washington"
+    },
+    {
+      "startTime": 804.4,
+      "title": "Conclusion"
+    }
+  ]
+}
