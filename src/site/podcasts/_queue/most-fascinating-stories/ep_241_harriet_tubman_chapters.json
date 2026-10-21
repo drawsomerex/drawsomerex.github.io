@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 19.9,
+      "title": "Act I: Araminta Ross and the Bucktown Dry Goods Store"
+    },
+    {
+      "startTime": 122.4,
+      "title": "Act II: The Flight to Freedom: 1849"
+    },
+    {
+      "startTime": 226.4,
+      "title": "Act III: Moses of Her People: The Underground Railroad"
+    },
+    {
+      "startTime": 338.8,
+      "title": "Act IV: John Brown, 'General Tubman', and the Gathering Storm"
+    },
+    {
+      "startTime": 425.9,
+      "title": "Act V: Union Scout, Spy, and Nurse: The Civil War"
+    },
+    {
+      "startTime": 511.8,
+      "title": "Act VI: The Combahee River Raid: June 2, 1863"
+    },
+    {
+      "startTime": 614.2,
+      "title": "Act VII: The Auburn Hearth and the Eternal Legacy of Moses"
+    },
+    {
+      "startTime": 714.3,
+      "title": "Conclusion"
+    }
+  ]
+}
