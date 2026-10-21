@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 65.0,
+      "title": "Act I: An Occupied City on the Edge"
+    },
+    {
+      "startTime": 170.4,
+      "title": "Act II: The Bloodshed on King Street"
+    },
+    {
+      "startTime": 268.5,
+      "title": "Act III: The Fatal Volley and the Knock on Adams's Door"
+    },
+    {
+      "startTime": 376.8,
+      "title": "Act IV: The Trial of Captain Preston"
+    },
+    {
+      "startTime": 474.7,
+      "title": "Act V: The Trial of the Eight Soldiers"
+    },
+    {
+      "startTime": 562.8,
+      "title": "Act VI: 'Facts Are Stubborn Things'"
+    },
+    {
+      "startTime": 651.7,
+      "title": "Act VII: The Verdict and the Torch of Justice"
+    },
+    {
+      "startTime": 765.3,
+      "title": "Conclusion"
+    }
+  ]
+}
