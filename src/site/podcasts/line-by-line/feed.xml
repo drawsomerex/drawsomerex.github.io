@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://drawsomerex.github.io/podcasts/line-by-line/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Line by Line</title>
+    <link>https://drawsomerex.github.io/podcasts/line-by-line</link>
+    <description>A Scripture &amp; Exegesis Podcast searching God's Word verse by verse. Rooted in the historic, conservative Reformed tradition, each episode pairs historical-covenantal context with warm, pastoral, line-by-line exegesis drawing from classic commentaries including John Calvin, Matthew Henry, Jamieson-Fausset-Brown, and Charles Spurgeon.</description>
+    <language>en-us</language>
+    <copyright>Creative Commons Attribution 4.0 International (CC-BY-4.0)</copyright>
+    <lastBuildDate>Wed, 21 Oct 2026 01:49:10 +0000</lastBuildDate>
+    <itunes:author>Autonomous Media Lab</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://media.hieter.xyz/podcasts/line-by-line/cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>Autonomous Media Lab</itunes:name>
+      <itunes:email>broadcast@synthetic.media</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <podcast:guid>e8d9c0a1-4567-4890-bcde-f123456789ab</podcast:guid>
+    <podcast:medium>podcast</podcast:medium>
+    <podcast:locked owner="broadcast@synthetic.media">no</podcast:locked>
+    <podcast:license>CC-BY-4.0</podcast:license>
+    <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+  </channel>
+</rss>

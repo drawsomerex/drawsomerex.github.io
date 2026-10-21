@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 62.9,
+      "title": "Act I: Industrial Molasses and the North End"
+    },
+    {
+      "startTime": 173.7,
+      "title": "Act II: The Sins of the Steel Monster"
+    },
+    {
+      "startTime": 278.5,
+      "title": "Act III: The Unseasonable Thaw and the Rupture"
+    },
+    {
+      "startTime": 380.9,
+      "title": "Act IV: The Twenty-Five-Foot Tsunami"
+    },
+    {
+      "startTime": 475.2,
+      "title": "Act V: The Suffocating Nightmare"
+    },
+    {
+      "startTime": 580.8,
+      "title": "Act VI: The Clean-Up and the Bitter Stench"
+    },
+    {
+      "startTime": 675.4,
+      "title": "Act VII: The Landmark Trial and Corporate Accountability"
+    },
+    {
+      "startTime": 810.5,
+      "title": "Conclusion"
+    }
+  ]
+}
