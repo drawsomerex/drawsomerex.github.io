@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 23.0,
+      "title": "Act I: The Alpine Valleys and the Habsburg Yoke"
+    },
+    {
+      "startTime": 112.9,
+      "title": "Act II: The Oath of the R\u00fctli: August 1, 1291"
+    },
+    {
+      "startTime": 204.9,
+      "title": "Act III: The Tyrant Gessler and the Hat on the Pole"
+    },
+    {
+      "startTime": 280.7,
+      "title": "Act IV: The Apple Shot at Altdorf: November 18, 1307"
+    },
+    {
+      "startTime": 381.2,
+      "title": "Act V: The Second Bolt: Tell's Defiant Confession"
+    },
+    {
+      "startTime": 463.7,
+      "title": "Act VI: The F\u00f6hn Storm and the Leap at the Axen"
+    },
+    {
+      "startTime": 545.1,
+      "title": "Act VII: The Hollow Way and the Spark of Swiss Freedom"
+    },
+    {
+      "startTime": 640.5,
+      "title": "Conclusion"
+    }
+  ]
+}
