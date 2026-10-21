@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 44.0,
+      "title": "Act I: The Tariff of Abominations"
+    },
+    {
+      "startTime": 156.3,
+      "title": "Act II: Calhoun's Dangerous Theory"
+    },
+    {
+      "startTime": 259.5,
+      "title": "Act III: The Toast That Shook the Republic"
+    },
+    {
+      "startTime": 376.4,
+      "title": "Act IV: South Carolina Defies the Nation"
+    },
+    {
+      "startTime": 480.3,
+      "title": "Act V: Jackson's Nullification Proclamation"
+    },
+    {
+      "startTime": 588.7,
+      "title": "Act VI: The Sword and the Olive Branch"
+    },
+    {
+      "startTime": 703.9,
+      "title": "Act VII: The Verdict of History: The Union Preserved"
+    },
+    {
+      "startTime": 806.5,
+      "title": "Conclusion"
+    }
+  ]
+}

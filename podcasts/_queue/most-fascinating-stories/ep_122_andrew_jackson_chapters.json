@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 46.2,
+      "title": "Act I: The Prize on the Mississippi"
+    },
+    {
+      "startTime": 162.9,
+      "title": "Act II: An Unlikely Brotherhood of Arms"
+    },
+    {
+      "startTime": 271.7,
+      "title": "Act III: The Night Attack and Line Jackson"
+    },
+    {
+      "startTime": 372.7,
+      "title": "Act IV: Sir Edward Pakenham's Grand Plan"
+    },
+    {
+      "startTime": 471.2,
+      "title": "Act V: The Fog Lifts on the Plains of Chalmette"
+    },
+    {
+      "startTime": 582.3,
+      "title": "Act VI: Thirty Minutes of Destruction"
+    },
+    {
+      "startTime": 692.8,
+      "title": "Act VII: The Myth of Old Hickory and a Nation's Rebirth"
+    },
+    {
+      "startTime": 793.5,
+      "title": "Conclusion"
+    }
+  ]
+}
