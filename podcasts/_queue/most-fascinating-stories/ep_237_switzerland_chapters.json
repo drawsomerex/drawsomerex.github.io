@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.8,
+      "title": "Act I: The Shock of Marignano: 1515 and the Birth of Neutrality"
+    },
+    {
+      "startTime": 130.1,
+      "title": "Act II: The Congress of Vienna and Perpetual Neutrality: 1815"
+    },
+    {
+      "startTime": 224.7,
+      "title": "Act III: Henri Dunant and the Carnage of Solferino: 1859"
+    },
+    {
+      "startTime": 317.1,
+      "title": "Act IV: The Red Cross and the First Geneva Convention: 1864"
+    },
+    {
+      "startTime": 415.4,
+      "title": "Act V: The Gathering Storm of 1939: Switzerland Surrounded"
+    },
+    {
+      "startTime": 507.5,
+      "title": "Act VI: General Guisan and the National Redoubt: The Alpine Fortress"
+    },
+    {
+      "startTime": 634.2,
+      "title": "Act VII: The Global Crossroads of Peace: The Swiss Miracle"
+    },
+    {
+      "startTime": 728.3,
+      "title": "Conclusion"
+    }
+  ]
+}
