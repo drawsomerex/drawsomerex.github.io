@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.8,
+      "title": "Act I: Princess Lilibet and the Wartime ATS Driver: 1926 to 1945"
+    },
+    {
+      "startTime": 160.7,
+      "title": "Act II: Philip Mountbatten and the Royal Wedding: 1947"
+    },
+    {
+      "startTime": 262.1,
+      "title": "Act III: Tree Tops, Kenya, and the Midnight Accession: February 1952"
+    },
+    {
+      "startTime": 375.7,
+      "title": "Act IV: The Coronation of 1953 and the Television Revolution"
+    },
+    {
+      "startTime": 501.5,
+      "title": "Act V: The Global Commonwealth Tour and the Suez Crisis: 1953 to 1956"
+    },
+    {
+      "startTime": 594.5,
+      "title": "Act VI: The Winds of Change: Decolonization and the New Commonwealth: 1960 to 1970"
+    },
+    {
+      "startTime": 679.4,
+      "title": "Act VII: The Silver Jubilee and the Modern Royal Family: 1977"
+    },
+    {
+      "startTime": 771.8,
+      "title": "Conclusion"
+    }
+  ]
+}
