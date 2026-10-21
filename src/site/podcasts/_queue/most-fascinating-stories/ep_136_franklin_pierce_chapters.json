@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 42.1,
+      "title": "Act I: The Dream of 'Young America'"
+    },
+    {
+      "startTime": 138.4,
+      "title": "Act II: James Gadsden and the Iron Trail"
+    },
+    {
+      "startTime": 241.2,
+      "title": "Act III: Completing the Contiguous Map"
+    },
+    {
+      "startTime": 321.8,
+      "title": "Act IV: The Pearl of the Antilles"
+    },
+    {
+      "startTime": 415.4,
+      "title": "Act V: The Black Warrior Affair"
+    },
+    {
+      "startTime": 504.1,
+      "title": "Act VI: The Secret Summit at Ostend"
+    },
+    {
+      "startTime": 608.7,
+      "title": "Act VII: The Leak and the Death of the Caribbean Dream"
+    },
+    {
+      "startTime": 717.7,
+      "title": "Conclusion"
+    }
+  ]
+}
