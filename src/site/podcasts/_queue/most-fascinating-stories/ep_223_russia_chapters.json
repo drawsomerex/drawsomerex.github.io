@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 21.9,
+      "title": "Act I: Sophie of Anhalt-Zerbst: A German Princess at the Russian Court"
+    },
+    {
+      "startTime": 122.6,
+      "title": "Act II: The Coup of 1762: The Empress Takes the Throne"
+    },
+    {
+      "startTime": 230.1,
+      "title": "Act III: The Philosophe Empress and the Winter Palace"
+    },
+    {
+      "startTime": 334.8,
+      "title": "Act IV: The Pugachev Rebellion: The Ghost of the Tsar along the Volga"
+    },
+    {
+      "startTime": 442.9,
+      "title": "Act V: Prince Potemkin, the Conquest of Crimea, and Novorossiya"
+    },
+    {
+      "startTime": 543.3,
+      "title": "Act VI: The Smallpox Inoculation: An Act of Imperial Bravery"
+    },
+    {
+      "startTime": 644.5,
+      "title": "Act VII: The Bronze Horseman and the Imperial Horizon"
+    },
+    {
+      "startTime": 740.1,
+      "title": "Conclusion"
+    }
+  ]
+}
