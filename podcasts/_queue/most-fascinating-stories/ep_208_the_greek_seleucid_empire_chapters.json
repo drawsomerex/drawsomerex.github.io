@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.9,
+      "title": "Act I: Philip II and the Sarissa Phalanx"
+    },
+    {
+      "startTime": 128.4,
+      "title": "Act II: Aristotle's Pupil and Bucephalus"
+    },
+    {
+      "startTime": 225.9,
+      "title": "Act III: The Hammer of Granicus and Issus"
+    },
+    {
+      "startTime": 318.8,
+      "title": "Act IV: The Engineering Miracle at Island Tyre"
+    },
+    {
+      "startTime": 411.9,
+      "title": "Act V: The March to Jerusalem: Jaddua the High Priest"
+    },
+    {
+      "startTime": 520.6,
+      "title": "Act VI: The Foundation of Alexandria and Siwa"
+    },
+    {
+      "startTime": 605.8,
+      "title": "Act VII: The Global Vision of Hellenism"
+    },
+    {
+      "startTime": 704.1,
+      "title": "Conclusion"
+    }
+  ]
+}

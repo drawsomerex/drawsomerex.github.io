@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.1,
+      "title": "Act I: The Partition of Alexander's Empire"
+    },
+    {
+      "startTime": 118.6,
+      "title": "Act II: Antiochus IV: The God Manifest"
+    },
+    {
+      "startTime": 206.1,
+      "title": "Act III: The Abomination of Desolation: 167 BC"
+    },
+    {
+      "startTime": 293.2,
+      "title": "Act IV: The Spark at Modi'in: Mattathias's Cry"
+    },
+    {
+      "startTime": 386.0,
+      "title": "Act V: Judah Maccabee: The Hammer in the Hills"
+    },
+    {
+      "startTime": 474.8,
+      "title": "Act VI: The Cleansing of the Sanctuary and Hanukkah"
+    },
+    {
+      "startTime": 580.6,
+      "title": "Act VII: The Hasmonean Kingdom and the Shadow of Rome"
+    },
+    {
+      "startTime": 672.3,
+      "title": "Conclusion"
+    }
+  ]
+}
