@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 24.5,
+      "title": "Act I: The Cherokee Brother: The Raven of Hiwassee Island"
+    },
+    {
+      "startTime": 129.8,
+      "title": "Act II: The Governor's Scandal and the Return to the Blanket"
+    },
+    {
+      "startTime": 248.8,
+      "title": "Act III: The Alamo and the Runaway Scrape: March 1836"
+    },
+    {
+      "startTime": 346.9,
+      "title": "Act IV: The Battle of San Jacinto: Eighteen Minutes of Destiny: April 21, 1836"
+    },
+    {
+      "startTime": 457.3,
+      "title": "Act V: Capturing Santa Anna and the Birth of the Lone Star Republic"
+    },
+    {
+      "startTime": 549.0,
+      "title": "Act VI: The President and the Annexation of Texas: 1845"
+    },
+    {
+      "startTime": 634.2,
+      "title": "Act VII: The Union Defiant: The Refusal of the Confederate Oath: 1861"
+    },
+    {
+      "startTime": 766.1,
+      "title": "Conclusion"
+    }
+  ]
+}
