@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.9,
+      "title": "Act I: The Election That Shook the World"
+    },
+    {
+      "startTime": 136.6,
+      "title": "Act II: The Doctrine of Paralysis"
+    },
+    {
+      "startTime": 228.5,
+      "title": "Act III: Treason in the Cabinet Room"
+    },
+    {
+      "startTime": 318.4,
+      "title": "Act IV: Major Anderson at Fort Sumter"
+    },
+    {
+      "startTime": 410.1,
+      "title": "Act V: The Star of the West"
+    },
+    {
+      "startTime": 535.8,
+      "title": "Act VI: Counting the Days to Deliverance"
+    },
+    {
+      "startTime": 628.9,
+      "title": "Act VII: The Ride to the Inauguration"
+    },
+    {
+      "startTime": 750.6,
+      "title": "Conclusion"
+    }
+  ]
+}
