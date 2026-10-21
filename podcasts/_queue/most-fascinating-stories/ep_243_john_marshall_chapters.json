@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 24.8,
+      "title": "Act I: The Frontier Boy of the Blue Ridge and Valley Forge"
+    },
+    {
+      "startTime": 130.3,
+      "title": "Act II: The XYZ Affair: 'Millions for Defense, Not One Cent for Tribute'"
+    },
+    {
+      "startTime": 233.4,
+      "title": "Act III: The Midnight Judges and the Robe of the Chief Justice: 1801"
+    },
+    {
+      "startTime": 329.3,
+      "title": "Act IV: Marbury v. Madison: The Masterstroke of Judicial Review: 1803"
+    },
+    {
+      "startTime": 449.4,
+      "title": "Act V: The Treason Trial of Aaron Burr: Defining Treason in a Republic"
+    },
+    {
+      "startTime": 548.6,
+      "title": "Act VI: McCulloch v. Maryland and Gibbons v. Ogden: The National Fabric"
+    },
+    {
+      "startTime": 638.0,
+      "title": "Act VII: The Liberty Bell and the Eternal Chief Justice"
+    },
+    {
+      "startTime": 736.4,
+      "title": "Conclusion"
+    }
+  ]
+}
