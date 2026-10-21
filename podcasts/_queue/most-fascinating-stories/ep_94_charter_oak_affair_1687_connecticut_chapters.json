@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 54.9,
+      "title": "Act I: The Golden Charter of 1662"
+    },
+    {
+      "startTime": 168.4,
+      "title": "Act II: The Iron Fist of the Dominion of New England"
+    },
+    {
+      "startTime": 280.4,
+      "title": "Act III: The Royal March on Hartford"
+    },
+    {
+      "startTime": 382.2,
+      "title": "Act IV: The Candlelit Confrontation"
+    },
+    {
+      "startTime": 476.0,
+      "title": "Act V: Darkness and the Great Vanishing"
+    },
+    {
+      "startTime": 570.2,
+      "title": "Act VI: The Hollow Heart of the White Oak"
+    },
+    {
+      "startTime": 668.4,
+      "title": "Act VII: The Glorious Revolution and the Charter's Return"
+    },
+    {
+      "startTime": 804.0,
+      "title": "Conclusion"
+    }
+  ]
+}
