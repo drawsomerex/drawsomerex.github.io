@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 24.2,
+      "title": "Act I: The Mill Boy of the Slashes: From Virginia to Ashland"
+    },
+    {
+      "startTime": 119.0,
+      "title": "Act II: The War Hawk Speaker: Transforming the House of Representatives"
+    },
+    {
+      "startTime": 213.5,
+      "title": "Act III: The Missouri Compromise: 1820"
+    },
+    {
+      "startTime": 309.3,
+      "title": "Act IV: The American System: The Economic Vision of a Continental Nation"
+    },
+    {
+      "startTime": 406.0,
+      "title": "Act V: The Corrupt Bargain and the Senate Triumvirate"
+    },
+    {
+      "startTime": 499.8,
+      "title": "Act VI: The Nullification Crisis of 1833: Staving Off Bloodshed"
+    },
+    {
+      "startTime": 592.4,
+      "title": "Act VII: The Compromise of 1850 and the Final Farewell to the Senate"
+    },
+    {
+      "startTime": 704.6,
+      "title": "Conclusion"
+    }
+  ]
+}
