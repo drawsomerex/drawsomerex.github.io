@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 32.4,
+      "title": "Act I: The Texas Hill Country and Cotulla Roots"
+    },
+    {
+      "startTime": 137.6,
+      "title": "Act II: 'Landslide Lyndon' and the 1948 Senate Election"
+    },
+    {
+      "startTime": 239.5,
+      "title": "Act III: The Legendary 'Johnson Treatment'"
+    },
+    {
+      "startTime": 340.8,
+      "title": "Act IV: The Youngest Senate Majority Leader"
+    },
+    {
+      "startTime": 439.9,
+      "title": "Act V: The Amphibious Car and Texas Ranch Antics"
+    },
+    {
+      "startTime": 533.5,
+      "title": "Act VI: The 1960 Ticket and the Vice Presidential Exile"
+    },
+    {
+      "startTime": 626.0,
+      "title": "Act VII: The Oath on Air Force One: November 22, 1963"
+    },
+    {
+      "startTime": 720.7,
+      "title": "Conclusion"
+    }
+  ]
+}

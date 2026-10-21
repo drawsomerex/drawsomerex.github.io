@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.4,
+      "title": "Act I: 'Ask Not What Your Country Can Do For You'"
+    },
+    {
+      "startTime": 129.1,
+      "title": "Act II: The Wit of Jack Kennedy in the White House"
+    },
+    {
+      "startTime": 222.8,
+      "title": "Act III: Jackie's Restoration and the Cultural Renaissance"
+    },
+    {
+      "startTime": 315.7,
+      "title": "Act IV: 'We Choose to Go to the Moon'"
+    },
+    {
+      "startTime": 417.0,
+      "title": "Act V: Thirteen Days on the Brink: October 1962"
+    },
+    {
+      "startTime": 540.6,
+      "title": "Act VI: 'Ich bin ein Berliner' and the Peace Speech"
+    },
+    {
+      "startTime": 643.8,
+      "title": "Act VII: The Myth and Tragedy of Camelot"
+    },
+    {
+      "startTime": 735.4,
+      "title": "Conclusion"
+    }
+  ]
+}
