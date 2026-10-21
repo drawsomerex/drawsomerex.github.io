@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 75.2,
+      "title": "Act I: Caught in the Crossfire of Empires"
+    },
+    {
+      "startTime": 184.8,
+      "title": "Act II: The Insult of the XYZ Affair"
+    },
+    {
+      "startTime": 278.3,
+      "title": "Act III: The Fever of War Sweeps America"
+    },
+    {
+      "startTime": 380.2,
+      "title": "Act IV: The Treason in Adams's Cabinet"
+    },
+    {
+      "startTime": 481.8,
+      "title": "Act V: The Sedition Acts and the Threat of Tyranny"
+    },
+    {
+      "startTime": 583.7,
+      "title": "Act VI: The Thunderbolt from Quincy"
+    },
+    {
+      "startTime": 705.5,
+      "title": "Act VII: The Peace of Mortefontaine and the Martyrdom of Adams"
+    },
+    {
+      "startTime": 838.3,
+      "title": "Conclusion"
+    }
+  ]
+}
