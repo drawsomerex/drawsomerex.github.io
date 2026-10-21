@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 23.4,
+      "title": "Act I: The Low Countries and the Tyranny of Philip II"
+    },
+    {
+      "startTime": 136.6,
+      "title": "Act II: William of Orange: The Prince Who Chose His People"
+    },
+    {
+      "startTime": 242.2,
+      "title": "Act III: The Sea Beggars and the Capture of Brielle: 1572"
+    },
+    {
+      "startTime": 345.0,
+      "title": "Act IV: The Spanish Furies and the Heroic Siege of Haarlem"
+    },
+    {
+      "startTime": 441.2,
+      "title": "Act V: The Relief of Leiden: 'Better a Drowned Land than a Lost Land'"
+    },
+    {
+      "startTime": 554.3,
+      "title": "Act VI: The Union of Utrecht and the Abjuration of Philip: 1581"
+    },
+    {
+      "startTime": 658.0,
+      "title": "Act VII: The Assassination of William and the Birth of a Republic"
+    },
+    {
+      "startTime": 772.3,
+      "title": "Conclusion"
+    }
+  ]
+}

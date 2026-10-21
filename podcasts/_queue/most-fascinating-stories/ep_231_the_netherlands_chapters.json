@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 23.0,
+      "title": "Act I: Amsterdam: The Commercial Capital of the World"
+    },
+    {
+      "startTime": 124.2,
+      "title": "Act II: The VOC: The First Global Mega-Corporation"
+    },
+    {
+      "startTime": 225.3,
+      "title": "Act III: The Fluyt: The Secret of Dutch Maritime Hegemony"
+    },
+    {
+      "startTime": 314.6,
+      "title": "Act IV: Tulip Mania: The World's First Speculative Bubble: 1636\u20131637"
+    },
+    {
+      "startTime": 433.3,
+      "title": "Act V: The Master of Light: Rembrandt van Rijn"
+    },
+    {
+      "startTime": 530.3,
+      "title": "Act VI: The Golden Age of Science, Philosophy, and Law"
+    },
+    {
+      "startTime": 625.3,
+      "title": "Act VII: The Rampjaar of 1672: The Republic Preserved"
+    },
+    {
+      "startTime": 724.9,
+      "title": "Conclusion"
+    }
+  ]
+}
