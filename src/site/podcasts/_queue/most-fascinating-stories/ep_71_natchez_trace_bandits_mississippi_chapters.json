@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 54.1,
+      "title": "Act I: The Ancient Sunken Path"
+    },
+    {
+      "startTime": 151.8,
+      "title": "Act II: The Kaintucks and the Spanish Silver"
+    },
+    {
+      "startTime": 256.6,
+      "title": "Act III: The Devil's Backbone and the Under-the-Hill"
+    },
+    {
+      "startTime": 341.4,
+      "title": "Act IV: The Harpe Brothers: Terror on the Trail"
+    },
+    {
+      "startTime": 439.4,
+      "title": "Act V: Samuel Mason and the Pirate's Lair"
+    },
+    {
+      "startTime": 529.6,
+      "title": "Act VI: The Severed Head in the Blue Clay"
+    },
+    {
+      "startTime": 627.3,
+      "title": "Act VII: The Steamboat and the Parkway"
+    },
+    {
+      "startTime": 728.2,
+      "title": "Conclusion"
+    }
+  ]
+}
