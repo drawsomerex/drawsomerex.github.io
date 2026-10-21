@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.3,
+      "title": "Act I: A Man of Quiet Principle"
+    },
+    {
+      "startTime": 125.6,
+      "title": "Act II: The Leviathan of the New York Custom House"
+    },
+    {
+      "startTime": 217.3,
+      "title": "Act III: The Executive Order of 1877 and the Battle with Conkling"
+    },
+    {
+      "startTime": 319.3,
+      "title": "Act IV: The Fall of the Machine and the Triumph of Executive Power"
+    },
+    {
+      "startTime": 404.0,
+      "title": "Act V: 'Lemonade Lucy' and the First Lady of the Centennial"
+    },
+    {
+      "startTime": 502.6,
+      "title": "Act VI: The Warmth of the Executive Mansion"
+    },
+    {
+      "startTime": 582.7,
+      "title": "Act VII: The Legacy of a Clean Departure"
+    },
+    {
+      "startTime": 659.3,
+      "title": "Conclusion"
+    }
+  ]
+}
