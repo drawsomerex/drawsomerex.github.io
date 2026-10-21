@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.7,
+      "title": "Act I: The Vision of the Three Suns: Mortimer's Cross: February 1461"
+    },
+    {
+      "startTime": 158.3,
+      "title": "Act II: The Secret Marriage: Elizabeth Woodville: May 1464"
+    },
+    {
+      "startTime": 288.3,
+      "title": "Act III: The Kingmaker's Treason and the Flight to Flanders: 1469 to 1470"
+    },
+    {
+      "startTime": 413.0,
+      "title": "Act IV: The Return at Ravenspur and Reconciliation with Clarence: March 1471"
+    },
+    {
+      "startTime": 535.9,
+      "title": "Act V: The Fog of Barnet and the Slaughter of Tewkesbury: April to May 1471"
+    },
+    {
+      "startTime": 660.6,
+      "title": "Act VI: The Butt of Malmsey: The Execution of Clarence: 1478"
+    },
+    {
+      "startTime": 784.1,
+      "title": "Act VII: The Twilight of the King: Prosperity and Untimely Death: 1483"
+    },
+    {
+      "startTime": 913.6,
+      "title": "Conclusion"
+    }
+  ]
+}
