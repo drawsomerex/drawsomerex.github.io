@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 38.9,
+      "title": "Act I: The Roaring Twenties and Coolidge Prosperity"
+    },
+    {
+      "startTime": 135.8,
+      "title": "Act II: The First Radio President and the Press"
+    },
+    {
+      "startTime": 239.5,
+      "title": "Act III: The Legend of 'Silent Cal' and His Dry Wit"
+    },
+    {
+      "startTime": 330.5,
+      "title": "Act IV: The Tragedy of Calvin Jr. on the South Lawn"
+    },
+    {
+      "startTime": 438.4,
+      "title": "Act V: The Election of 1924 and Civil Rights"
+    },
+    {
+      "startTime": 529.9,
+      "title": "Act VI: The Lindbergh Triumphs and Foreign Restraint"
+    },
+    {
+      "startTime": 611.8,
+      "title": "Act VII: 'I Do Not Choose to Run' and the Twilight"
+    },
+    {
+      "startTime": 714.5,
+      "title": "Conclusion"
+    }
+  ]
+}

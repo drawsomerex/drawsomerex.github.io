@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 38.2,
+      "title": "Act I: The Quaker Orphan and the Stanford Pioneer"
+    },
+    {
+      "startTime": 144.2,
+      "title": "Act II: Global Fortune and the Boxer Rebellion"
+    },
+    {
+      "startTime": 241.4,
+      "title": "Act III: The Commission for Relief in Belgium"
+    },
+    {
+      "startTime": 348.4,
+      "title": "Act IV: 'Food Will Win the War' and Post-Armistice Rescue"
+    },
+    {
+      "startTime": 457.0,
+      "title": "Act V: The Master of Commerce and Modernity"
+    },
+    {
+      "startTime": 552.6,
+      "title": "Act VI: The Great Mississippi Flood of 1927"
+    },
+    {
+      "startTime": 655.5,
+      "title": "Act VII: The Landslide of 1928 and the Peak of Glory"
+    },
+    {
+      "startTime": 741.6,
+      "title": "Conclusion"
+    }
+  ]
+}
