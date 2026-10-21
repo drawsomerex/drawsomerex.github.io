@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.9,
+      "title": "Act I: The Scholar Prodigy: Bradgate to Chelsea: 1537 to 1553"
+    },
+    {
+      "startTime": 149.2,
+      "title": "Act II: The Dudley Marriage and the King's Devise: May to July 1553"
+    },
+    {
+      "startTime": 268.1,
+      "title": "Act III: The Proclamation at the Tower: The Nine Days Queen: July 10, 1553"
+    },
+    {
+      "startTime": 378.2,
+      "title": "Act IV: The Tide Turns: Mary's Triumph and the Deposition: July 19, 1553"
+    },
+    {
+      "startTime": 497.2,
+      "title": "Act V: The Trial at Guildhall and Captivity: November 1553"
+    },
+    {
+      "startTime": 609.9,
+      "title": "Act VI: Wyatt's Rebellion: The Fatal Spark: January 1554"
+    },
+    {
+      "startTime": 733.5,
+      "title": "Act VII: Tower Green: The Blindfold and the Block: February 12, 1554"
+    },
+    {
+      "startTime": 866.0,
+      "title": "Conclusion"
+    }
+  ]
+}
