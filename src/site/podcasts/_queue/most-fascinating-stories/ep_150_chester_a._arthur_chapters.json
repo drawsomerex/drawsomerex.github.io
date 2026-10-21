@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.9,
+      "title": "Act I: The Diagnosis in the Shadows"
+    },
+    {
+      "startTime": 138.9,
+      "title": "Act II: The Aesthetic Awakening"
+    },
+    {
+      "startTime": 231.9,
+      "title": "Act III: The Fifty-Foot Jewel of the Entrance Hall"
+    },
+    {
+      "startTime": 322.2,
+      "title": "Act IV: The President in the Midnight Hours"
+    },
+    {
+      "startTime": 418.3,
+      "title": "Act V: The Florida Excursion and the Press Frenzy"
+    },
+    {
+      "startTime": 512.3,
+      "title": "Act VI: The Graceful Step Aside in 1884"
+    },
+    {
+      "startTime": 596.0,
+      "title": "Act VII: The Ashes in the Lexington Brownstone"
+    },
+    {
+      "startTime": 689.3,
+      "title": "Conclusion"
+    }
+  ]
+}
