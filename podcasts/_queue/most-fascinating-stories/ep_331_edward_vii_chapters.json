@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.5,
+      "title": "Act I: Bertie the Playboy: The Long Apprenticeship: 1841 to 1901"
+    },
+    {
+      "startTime": 150.2,
+      "title": "Act II: The Delayed Coronation and Appendicitis Miracle: 1901 to 1902"
+    },
+    {
+      "startTime": 270.1,
+      "title": "Act III: The Diplomatic Masterpiece: The Paris Visit of 1903"
+    },
+    {
+      "startTime": 384.5,
+      "title": "Act IV: The Entente Cordiale: April 8, 1904"
+    },
+    {
+      "startTime": 492.1,
+      "title": "Act V: The Dreadnought and the Naval Arms Race"
+    },
+    {
+      "startTime": 598.3,
+      "title": "Act VI: The Constitutional Crisis and the 'People's Budget': 1909 to 1910"
+    },
+    {
+      "startTime": 707.8,
+      "title": "Act VII: The Passing of the Peacemaker: May 1910"
+    },
+    {
+      "startTime": 823.9,
+      "title": "Conclusion"
+    }
+  ]
+}

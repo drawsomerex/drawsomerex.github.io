@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.5,
+      "title": "Act I: The Reluctant Sailor Prince: 1865 to 1910"
+    },
+    {
+      "startTime": 151.5,
+      "title": "Act II: The Constitutional Settlement and the Delhi Durbar: 1910 to 1911"
+    },
+    {
+      "startTime": 261.9,
+      "title": "Act III: The Crucible of the Great War: 1914 to 1918"
+    },
+    {
+      "startTime": 362.2,
+      "title": "Act IV: The Creation of the House of Windsor: July 1917"
+    },
+    {
+      "startTime": 474.6,
+      "title": "Act V: Surviving Revolution: The General Strike and the First Labour Government: 1924 to 1926"
+    },
+    {
+      "startTime": 584.1,
+      "title": "Act VI: The Wireless and the Christmas Broadcast of 1932"
+    },
+    {
+      "startTime": 682.6,
+      "title": "Act VII: The Silver Jubilee and the Peaceful Passing: 1935 to 1936"
+    },
+    {
+      "startTime": 821.8,
+      "title": "Conclusion"
+    }
+  ]
+}
