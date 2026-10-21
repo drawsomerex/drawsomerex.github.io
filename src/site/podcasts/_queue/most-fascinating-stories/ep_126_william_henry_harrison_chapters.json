@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 47.7,
+      "title": "Act I: The Slur That Backfired"
+    },
+    {
+      "startTime": 142.8,
+      "title": "Act II: The Great Frontier Myth"
+    },
+    {
+      "startTime": 243.8,
+      "title": "Act III: Keep the Ball Rolling"
+    },
+    {
+      "startTime": 347.5,
+      "title": "Act IV: The Fatal Inauguration"
+    },
+    {
+      "startTime": 448.8,
+      "title": "Act V: Thirty-One Days in the White House"
+    },
+    {
+      "startTime": 542.5,
+      "title": "Act VI: The Death of a President"
+    },
+    {
+      "startTime": 625.9,
+      "title": "Act VII: The Curse of Tippecanoe and a Constitutional Void"
+    },
+    {
+      "startTime": 734.5,
+      "title": "Conclusion"
+    }
+  ]
+}
