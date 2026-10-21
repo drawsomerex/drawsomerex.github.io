@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.9,
+      "title": "Act I: The Boston Police Strike of 1919"
+    },
+    {
+      "startTime": 136.7,
+      "title": "Act II: Plymouth Notch Roots and the Puritan Soul"
+    },
+    {
+      "startTime": 247.0,
+      "title": "Act III: The 1920 Convention and the Vice Presidency"
+    },
+    {
+      "startTime": 356.2,
+      "title": "Act IV: The Midnight Telegram in the Green Mountains"
+    },
+    {
+      "startTime": 443.3,
+      "title": "Act V: The Homestead Oath by Kerosene Lamp"
+    },
+    {
+      "startTime": 545.9,
+      "title": "Act VI: Steadying the Ship of State in Washington"
+    },
+    {
+      "startTime": 640.1,
+      "title": "Act VII: The Soul and Legacy of Silent Cal"
+    },
+    {
+      "startTime": 716.7,
+      "title": "Conclusion"
+    }
+  ]
+}
