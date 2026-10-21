@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.5,
+      "title": "Act I: The Pencil Maker's Son of Concord: 1817 to 1837"
+    },
+    {
+      "startTime": 134.7,
+      "title": "Act II: Emerson's Friendship and the Concord School: 1837 to 1845"
+    },
+    {
+      "startTime": 238.9,
+      "title": "Act III: Walden Pond: Living Deliberately: July 4, 1845"
+    },
+    {
+      "startTime": 342.8,
+      "title": "Act IV: The Night in Concord Jail and 'Civil Disobedience': July 1846"
+    },
+    {
+      "startTime": 454.7,
+      "title": "Act V: Walden: The Masterpiece of Economy and Nature: 1854"
+    },
+    {
+      "startTime": 555.5,
+      "title": "Act VI: Defending John Brown and the Maine Woods: 1858 to 1859"
+    },
+    {
+      "startTime": 645.8,
+      "title": "Act VII: The Drummer of Eternity: The Enduring Legacy"
+    },
+    {
+      "startTime": 766.0,
+      "title": "Conclusion"
+    }
+  ]
+}
