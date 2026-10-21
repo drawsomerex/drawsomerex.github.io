@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 32.7,
+      "title": "Act I: 'I Like Ike' and the Mandate of 1952"
+    },
+    {
+      "startTime": 142.6,
+      "title": "Act II: The Open Road: The Interstate Highway Miracle"
+    },
+    {
+      "startTime": 251.1,
+      "title": "Act III: The Little Rock Nine and the 101st Airborne"
+    },
+    {
+      "startTime": 365.7,
+      "title": "Act IV: Atoms for Peace and the Space Race"
+    },
+    {
+      "startTime": 470.9,
+      "title": "Act V: The U-2 Affair and the Ruptured Summit: 1960"
+    },
+    {
+      "startTime": 583.6,
+      "title": "Act VI: The Prophetic Farewell Address: 1961"
+    },
+    {
+      "startTime": 687.6,
+      "title": "Act VII: The Sage of Gettysburg"
+    },
+    {
+      "startTime": 788.2,
+      "title": "Conclusion"
+    }
+  ]
+}
