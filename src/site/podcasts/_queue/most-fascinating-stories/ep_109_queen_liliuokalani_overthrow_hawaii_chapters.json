@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 75.2,
+      "title": "Act I: The Scholar-Queen and the Garden of Music"
+    },
+    {
+      "startTime": 182.1,
+      "title": "Act II: The Sins of the Bayonet Constitution"
+    },
+    {
+      "startTime": 277.8,
+      "title": "Act III: The Cry of the People for a New Constitution"
+    },
+    {
+      "startTime": 372.8,
+      "title": "Act IV: The Conspiracy and the Landing of the Marines"
+    },
+    {
+      "startTime": 479.8,
+      "title": "Act V: Yielding Under Protest: The Queen's Sacrifice"
+    },
+    {
+      "startTime": 592.8,
+      "title": "Act VI: The Blount Report and the Republic of Hawaii"
+    },
+    {
+      "startTime": 706.0,
+      "title": "Act VII: The K\u016b\u02bb\u0113 Petitions and the Eternal Torch of Aloha"
+    },
+    {
+      "startTime": 843.1,
+      "title": "Conclusion"
+    }
+  ]
+}
