@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.4,
+      "title": "Act I: 'Let Us Continue': The Civil Rights Act of 1964"
+    },
+    {
+      "startTime": 140.5,
+      "title": "Act II: The White House Beagles: Him and Her"
+    },
+    {
+      "startTime": 236.0,
+      "title": "Act III: The 1964 Landslide and the Daisy Ad"
+    },
+    {
+      "startTime": 332.2,
+      "title": "Act IV: Selma and 'We Shall Overcome': 1965"
+    },
+    {
+      "startTime": 432.1,
+      "title": "Act V: The Great Society Avalanche: Medicare and Beyond"
+    },
+    {
+      "startTime": 525.0,
+      "title": "Act VI: The Agony and Quagmire of Vietnam"
+    },
+    {
+      "startTime": 628.8,
+      "title": "Act VII: 'I Shall Not Seek, and I Will Not Accept'"
+    },
+    {
+      "startTime": 730.5,
+      "title": "Conclusion"
+    }
+  ]
+}
