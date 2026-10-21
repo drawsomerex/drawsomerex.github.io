@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 24.2,
+      "title": "Act I: The Cherry Tree Epiphany of Worcester: 1882 to 1908"
+    },
+    {
+      "startTime": 137.6,
+      "title": "Act II: The Smithsonian Paper and the Moon Rocket Ridicule: 1914 to 1920"
+    },
+    {
+      "startTime": 256.1,
+      "title": "Act III: Aunt Effie's Cabbage Patch: March 16, 1926"
+    },
+    {
+      "startTime": 369.7,
+      "title": "Act IV: Lindbergh's Patronage and the Roswell Sanctuary: 1929 to 1932"
+    },
+    {
+      "startTime": 467.9,
+      "title": "Act V: The Technical Breakthroughs of Mescalero: 1932 to 1941"
+    },
+    {
+      "startTime": 569.6,
+      "title": "Act VI: The Tragic Indifference of the Pentagon and the V-2 Shock: 1941 to 1945"
+    },
+    {
+      "startTime": 677.0,
+      "title": "Act VII: The Legacy of Clark and the Retraction of the Times: 1969 and Beyond"
+    },
+    {
+      "startTime": 790.5,
+      "title": "Conclusion"
+    }
+  ]
+}

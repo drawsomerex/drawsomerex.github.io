@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.5,
+      "title": "Act I: The Dapper Prodigy of Washington: 1899 to 1923"
+    },
+    {
+      "startTime": 139.2,
+      "title": "Act II: The Cotton Club and the Jungle Sound: 1927 to 1931"
+    },
+    {
+      "startTime": 251.0,
+      "title": "Act III: The Orchestra as Instrument: Johnny Hodges and the Ellington Tone: 1930s"
+    },
+    {
+      "startTime": 354.3,
+      "title": "Act IV: Billy Strayhorn and 'Take the 'A' Train': 1939 to 1943"
+    },
+    {
+      "startTime": 460.0,
+      "title": "Act V: The Rebirth of Newport: July 7, 1956"
+    },
+    {
+      "startTime": 568.9,
+      "title": "Act VI: The Global Suites and the Sacred Concerts: 1960s"
+    },
+    {
+      "startTime": 669.0,
+      "title": "Act VII: The Presidential Medal of Freedom and the Immortal Legacy"
+    },
+    {
+      "startTime": 775.9,
+      "title": "Conclusion"
+    }
+  ]
+}

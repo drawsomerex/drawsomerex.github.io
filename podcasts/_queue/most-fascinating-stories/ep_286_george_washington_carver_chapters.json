@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.6,
+      "title": "Act I: Stolen in the Night: Diamond Grove to Iowa State: 1864 to 1894"
+    },
+    {
+      "startTime": 146.0,
+      "title": "Act II: Booker T. Washington's Call to Tuskegee: 1896"
+    },
+    {
+      "startTime": 256.8,
+      "title": "Act III: The Curse of King Cotton and the Nitrogen Miracle"
+    },
+    {
+      "startTime": 368.9,
+      "title": "Act IV: The Jesup Agricultural Wagon: Taking Science to the Fields"
+    },
+    {
+      "startTime": 471.1,
+      "title": "Act V: The Three Hundred Miracles of the Peanut"
+    },
+    {
+      "startTime": 578.8,
+      "title": "Act VI: The 1921 Congressional Triumph and Refusing Patents"
+    },
+    {
+      "startTime": 698.2,
+      "title": "Act VII: The Sage of Tuskegee and the Eternal Harvest: 1943 and Legacy"
+    },
+    {
+      "startTime": 803.2,
+      "title": "Conclusion"
+    }
+  ]
+}
