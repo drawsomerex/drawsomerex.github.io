@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 70.3,
+      "title": "Act I: Jefferson's Vision of an Empire of Liberty"
+    },
+    {
+      "startTime": 184.1,
+      "title": "Act II: Lewis, Clark, and the Corps of Discovery"
+    },
+    {
+      "startTime": 294.8,
+      "title": "Act III: Up the Mighty Missouri"
+    },
+    {
+      "startTime": 388.8,
+      "title": "Act IV: Sacagawea and the Great Unknown"
+    },
+    {
+      "startTime": 476.0,
+      "title": "Act V: The Great Falls and the Shoshone Reunion"
+    },
+    {
+      "startTime": 583.9,
+      "title": "Act VI: The Bitterroot Starvation and the Pacific Ocean"
+    },
+    {
+      "startTime": 673.2,
+      "title": "Act VII: The Return and the Legacy of the Corps"
+    },
+    {
+      "startTime": 784.4,
+      "title": "Conclusion"
+    }
+  ]
+}
