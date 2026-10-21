@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 23.3,
+      "title": "Act I: Gustavus Adolphus and the Ambition of the Baltic"
+    },
+    {
+      "startTime": 127.3,
+      "title": "Act II: The King's Decree: The Fatal Double Gun Deck"
+    },
+    {
+      "startTime": 234.3,
+      "title": "Act III: August 10, 1628: The Maiden Voyage Begins"
+    },
+    {
+      "startTime": 320.3,
+      "title": "Act IV: The Sudden Gust of Wind: Capsized in Minutes"
+    },
+    {
+      "startTime": 410.8,
+      "title": "Act V: The Royal Inquest and the Scapegoat Search"
+    },
+    {
+      "startTime": 506.7,
+      "title": "Act VI: Three Centuries in the Cold Baltic Mud"
+    },
+    {
+      "startTime": 602.0,
+      "title": "Act VII: The Miraculous Resurrection and the Vasa Museum"
+    },
+    {
+      "startTime": 699.1,
+      "title": "Conclusion"
+    }
+  ]
+}

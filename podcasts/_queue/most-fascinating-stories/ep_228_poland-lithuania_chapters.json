@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.6,
+      "title": "Act I: The Golden Commonwealth and the Ottoman Storm"
+    },
+    {
+      "startTime": 129.4,
+      "title": "Act II: The Iron Monarch: King Jan III Sobieski"
+    },
+    {
+      "startTime": 234.6,
+      "title": "Act III: The Winged Hussars: The Heavy Angels of Death"
+    },
+    {
+      "startTime": 339.4,
+      "title": "Act IV: The Siege of Vienna: August to September 1683"
+    },
+    {
+      "startTime": 440.0,
+      "title": "Act V: The Descent from the Kahlenberg: September 12, 1683"
+    },
+    {
+      "startTime": 538.6,
+      "title": "Act VI: The Thunder of Eighteen Thousand Hooves"
+    },
+    {
+      "startTime": 640.4,
+      "title": "Act VII: 'Venimus, Vidimus, Deus Vicit': The Savior of Europe"
+    },
+    {
+      "startTime": 747.1,
+      "title": "Conclusion"
+    }
+  ]
+}
