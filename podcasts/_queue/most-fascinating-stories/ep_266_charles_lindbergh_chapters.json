@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.1,
+      "title": "Act I: The Barnstormer of Little Falls: 1902 to 1926"
+    },
+    {
+      "startTime": 138.2,
+      "title": "Act II: The Orteig Prize and the Spirit of St. Louis: 1926 to 1927"
+    },
+    {
+      "startTime": 251.1,
+      "title": "Act III: The Muddy Runway at Roosevelt Field: May 20, 1927"
+    },
+    {
+      "startTime": 346.0,
+      "title": "Act IV: 33.5 Hours Over the Abyss: Fog, Sleet, and Hallucinations"
+    },
+    {
+      "startTime": 457.2,
+      "title": "Act V: The Landing at Le Bourget: May 21, 1927"
+    },
+    {
+      "startTime": 552.4,
+      "title": "Act VI: The Agony of Fame and the Crime of the Century: 1927 to 1932"
+    },
+    {
+      "startTime": 653.2,
+      "title": "Act VII: Controversy, War, and the Pacific Skies: The Final Legacy"
+    },
+    {
+      "startTime": 755.8,
+      "title": "Conclusion"
+    }
+  ]
+}

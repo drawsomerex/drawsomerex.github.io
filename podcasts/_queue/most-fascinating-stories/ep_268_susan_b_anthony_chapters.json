@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.9,
+      "title": "Act I: The Quaker Fire of Adams: 1820 to 1845"
+    },
+    {
+      "startTime": 140.8,
+      "title": "Act II: The Meeting of the Minds: Anthony and Stanton: May 1851"
+    },
+    {
+      "startTime": 242.4,
+      "title": "Act III: The Ballot of November 5, 1872: Voting in Rochester"
+    },
+    {
+      "startTime": 349.4,
+      "title": "Act IV: United States v. Susan B. Anthony: June 1873"
+    },
+    {
+      "startTime": 461.1,
+      "title": "Act V: 'Not a Penny Shall Go to This Unjust Penalty'"
+    },
+    {
+      "startTime": 553.9,
+      "title": "Act VI: Fifty Years on the Suffrage Trail: 1875 to 1900"
+    },
+    {
+      "startTime": 653.9,
+      "title": "Act VII: 'Failure Is Impossible': The Nineteenth Amendment"
+    },
+    {
+      "startTime": 775.3,
+      "title": "Conclusion"
+    }
+  ]
+}

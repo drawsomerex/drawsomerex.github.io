@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.2,
+      "title": "Act I: Heir to the House of Morgan: 1837 to 1860"
+    },
+    {
+      "startTime": 125.6,
+      "title": "Act II: The Corsair and the Albany & Susquehanna War: 1861 to 1871"
+    },
+    {
+      "startTime": 221.6,
+      "title": "Act III: 'Morganizing' the American Railroads: 1885 to 1893"
+    },
+    {
+      "startTime": 316.5,
+      "title": "Act IV: The Gold Crisis of 1895: Bailing Out the White House"
+    },
+    {
+      "startTime": 433.9,
+      "title": "Act V: The Formation of U.S. Steel and General Electric: 1892 to 1902"
+    },
+    {
+      "startTime": 535.2,
+      "title": "Act VI: The Panic of 1907: Locking the Doors at the Library"
+    },
+    {
+      "startTime": 648.1,
+      "title": "Act VII: The Pujo Committee, Art Treasures, and the Final Triumph"
+    },
+    {
+      "startTime": 768.6,
+      "title": "Conclusion"
+    }
+  ]
+}
