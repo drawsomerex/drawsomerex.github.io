@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.7,
+      "title": "Act I: Born at Midnight in a Lightning Storm: 1856 to 1882"
+    },
+    {
+      "startTime": 154.2,
+      "title": "Act II: The Journey to America and the Clash with Edison: 1884 to 1886"
+    },
+    {
+      "startTime": 267.7,
+      "title": "Act III: The Alliance with Westinghouse and the War of the Currents"
+    },
+    {
+      "startTime": 385.1,
+      "title": "Act IV: Taming the Torrent: The Niagara Falls Hydroelectric Miracle: 1895"
+    },
+    {
+      "startTime": 488.5,
+      "title": "Act V: High Frequencies, the Tesla Coil, and the Colorado Springs Lightning: 1899"
+    },
+    {
+      "startTime": 588.0,
+      "title": "Act VI: The Tragic Dream of Wardenclyffe: 1901 to 1917"
+    },
+    {
+      "startTime": 693.8,
+      "title": "Act VII: The Solitary Prophet of New York and the Immortal Legacy"
+    },
+    {
+      "startTime": 796.1,
+      "title": "Conclusion"
+    }
+  ]
+}
