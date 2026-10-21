@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 61.6,
+      "title": "Act I: The Titan of the Skies"
+    },
+    {
+      "startTime": 193.3,
+      "title": "Act II: The Transatlantic Voyage"
+    },
+    {
+      "startTime": 298.6,
+      "title": "Act III: The Approach to Lakehurst"
+    },
+    {
+      "startTime": 395.6,
+      "title": "Act IV: Thirty-Four Seconds of Horror"
+    },
+    {
+      "startTime": 506.7,
+      "title": "Act V: The Miraculous Survivors"
+    },
+    {
+      "startTime": 598.7,
+      "title": "Act VI: The Investigation and the Sabotage Theories"
+    },
+    {
+      "startTime": 702.6,
+      "title": "Act VII: The End of the Airship Era"
+    },
+    {
+      "startTime": 823.0,
+      "title": "Conclusion"
+    }
+  ]
+}
