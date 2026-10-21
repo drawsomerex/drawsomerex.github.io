@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 37.5,
+      "title": "Act I: Blitzkrieg in Europe and the Isolationist Fortress"
+    },
+    {
+      "startTime": 139.3,
+      "title": "Act II: The Unprecedented Third Term of 1940"
+    },
+    {
+      "startTime": 231.1,
+      "title": "Act III: The Arsenal of Democracy and the Garden Hose"
+    },
+    {
+      "startTime": 333.9,
+      "title": "Act IV: The Secret Rendezvous at Placentia Bay"
+    },
+    {
+      "startTime": 428.4,
+      "title": "Act V: The Gathering Storm in the Pacific"
+    },
+    {
+      "startTime": 526.7,
+      "title": "Act VI: The Day of Infamy: December 7, 1941"
+    },
+    {
+      "startTime": 619.5,
+      "title": "Act VII: The Giant Awakes and the World at War"
+    },
+    {
+      "startTime": 712.8,
+      "title": "Conclusion"
+    }
+  ]
+}
