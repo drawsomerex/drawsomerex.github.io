@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 25.9,
+      "title": "Act I: The Battlefield and the Colored Waif's Home: 1901 to 1918"
+    },
+    {
+      "startTime": 136.8,
+      "title": "Act II: King Oliver's Call to Chicago: 1919 to 1924"
+    },
+    {
+      "startTime": 247.8,
+      "title": "Act III: The Hot Five, the Hot Seven, and the Birth of Scat: 1925 to 1928"
+    },
+    {
+      "startTime": 360.5,
+      "title": "Act IV: The Soloist Supreme and the High C Mastery: 1929 to 1939"
+    },
+    {
+      "startTime": 459.0,
+      "title": "Act V: Ambassador Satch and Little Rock: 1940s to 1957"
+    },
+    {
+      "startTime": 565.8,
+      "title": "Act VI: Dethroning the Beatles and What a Wonderful World: 1964 to 1968"
+    },
+    {
+      "startTime": 664.1,
+      "title": "Act VII: The Brick House in Corona and the Immortal Horn: 1971 and Legacy"
+    },
+    {
+      "startTime": 766.7,
+      "title": "Conclusion"
+    }
+  ]
+}

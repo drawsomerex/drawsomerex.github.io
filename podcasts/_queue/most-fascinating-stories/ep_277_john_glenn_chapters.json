@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 25.1,
+      "title": "Act I: The Pride of New Concord: 1921 to 1941"
+    },
+    {
+      "startTime": 128.7,
+      "title": "Act II: 'Magnet Ass' and Project Bullet: World War Two, Korea, and Supersonic Speed: 1944 to 1957"
+    },
+    {
+      "startTime": 243.4,
+      "title": "Act III: The Mercury Seven and the Battle of the Astronauts: 1959 to 1961"
+    },
+    {
+      "startTime": 346.3,
+      "title": "Act IV: Friendship 7: 'Godspeed, John Glenn': February 20, 1962"
+    },
+    {
+      "startTime": 459.3,
+      "title": "Act V: The Flaming Reentry and the Loose Heat Shield: February 20, 1962"
+    },
+    {
+      "startTime": 578.0,
+      "title": "Act VI: The Senate Statesman and Annie's Champion: 1964 to 1997"
+    },
+    {
+      "startTime": 677.7,
+      "title": "Act VII: The Return to the Stars at Seventy-Seven: 1998 and Legacy"
+    },
+    {
+      "startTime": 799.0,
+      "title": "Conclusion"
+    }
+  ]
+}
