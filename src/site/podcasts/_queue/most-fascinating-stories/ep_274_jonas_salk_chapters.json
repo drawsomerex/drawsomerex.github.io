@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.3,
+      "title": "Act I: The Immigrant Son of East Harlem: 1914 to 1939"
+    },
+    {
+      "startTime": 145.1,
+      "title": "Act II: The Summer Terror of the Iron Lung: 1940s to 1950s"
+    },
+    {
+      "startTime": 264.0,
+      "title": "Act III: The Heresy of the Killed Virus: Pittsburgh 1947 to 1953"
+    },
+    {
+      "startTime": 390.8,
+      "title": "Act IV: The Brave Volunteers and the Family Trial: 1953"
+    },
+    {
+      "startTime": 505.1,
+      "title": "Act V: The Polio Pioneers and the April 12 Miracle: 1954 to 1955"
+    },
+    {
+      "startTime": 619.0,
+      "title": "Act VI: The Cutter Tragedy and 'Could You Patent the Sun?': 1955"
+    },
+    {
+      "startTime": 734.6,
+      "title": "Act VII: The Salk Institute and the Cathedral of Humanist Science"
+    },
+    {
+      "startTime": 848.5,
+      "title": "Conclusion"
+    }
+  ]
+}
