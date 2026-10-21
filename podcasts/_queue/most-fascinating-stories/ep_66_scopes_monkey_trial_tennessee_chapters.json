@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 54.0,
+      "title": "Act I: The Butler Act and Robinson's Drugstore"
+    },
+    {
+      "startTime": 171.4,
+      "title": "Act II: The Gathering of the Titans"
+    },
+    {
+      "startTime": 271.6,
+      "title": "Act III: The Carnival in Rhea County"
+    },
+    {
+      "startTime": 357.1,
+      "title": "Act IV: The Courtroom Crucible"
+    },
+    {
+      "startTime": 442.7,
+      "title": "Act V: Bryan on the Witness Stand"
+    },
+    {
+      "startTime": 550.3,
+      "title": "Act VI: The Verdict and the Death of the Great Commoner"
+    },
+    {
+      "startTime": 646.8,
+      "title": "Act VII: The Immortal Legacy of Dayton"
+    },
+    {
+      "startTime": 754.4,
+      "title": "Conclusion"
+    }
+  ]
+}
