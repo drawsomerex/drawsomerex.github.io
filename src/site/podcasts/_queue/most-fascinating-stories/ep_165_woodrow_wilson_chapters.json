@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 39.4,
+      "title": "Act I: Neutrality in Thought and Action"
+    },
+    {
+      "startTime": 144.9,
+      "title": "Act II: The Sinking of the Lusitania"
+    },
+    {
+      "startTime": 262.1,
+      "title": "Act III: 'He Kept Us Out of War'"
+    },
+    {
+      "startTime": 366.3,
+      "title": "Act IV: The German Gamble: Unrestricted Submarine Warfare"
+    },
+    {
+      "startTime": 472.3,
+      "title": "Act V: Room 40 and the Zimmerman Telegram"
+    },
+    {
+      "startTime": 569.5,
+      "title": "Act VI: The Address to Congress: April 2, 1917"
+    },
+    {
+      "startTime": 695.8,
+      "title": "Act VII: The Tears in the Oval Office"
+    },
+    {
+      "startTime": 790.3,
+      "title": "Conclusion"
+    }
+  ]
+}
