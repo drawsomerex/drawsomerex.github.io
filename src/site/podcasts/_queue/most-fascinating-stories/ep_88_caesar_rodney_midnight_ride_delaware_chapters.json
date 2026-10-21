@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 68.1,
+      "title": "Act I: The Man from Dover Green"
+    },
+    {
+      "startTime": 173.1,
+      "title": "Act II: The Deadlock in Philadelphia"
+    },
+    {
+      "startTime": 283.0,
+      "title": "Act III: The Urgent Courier into the Night"
+    },
+    {
+      "startTime": 381.5,
+      "title": "Act IV: Eighty Miles Through the Thunderstorm"
+    },
+    {
+      "startTime": 482.1,
+      "title": "Act V: The Arrival at the Pennsylvania State House"
+    },
+    {
+      "startTime": 575.1,
+      "title": "Act VI: The Tie-Breaking Vote for Liberty"
+    },
+    {
+      "startTime": 666.0,
+      "title": "Act VII: The Patriot's Eternal Ride"
+    },
+    {
+      "startTime": 765.7,
+      "title": "Conclusion"
+    }
+  ]
+}
