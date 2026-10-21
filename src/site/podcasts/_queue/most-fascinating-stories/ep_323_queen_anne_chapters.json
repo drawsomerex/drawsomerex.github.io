@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.4,
+      "title": "Act I: Seventeen Heartbreaks: The Grief of Princess Anne: 1665 to 1702"
+    },
+    {
+      "startTime": 152.8,
+      "title": "Act II: Mrs. Morley and Mrs. Freeman: The Marlborough Alliance"
+    },
+    {
+      "startTime": 256.2,
+      "title": "Act III: The Miracle of Blenheim: August 13, 1704"
+    },
+    {
+      "startTime": 384.4,
+      "title": "Act IV: The Union of 1707: The Birth of Great Britain"
+    },
+    {
+      "startTime": 504.5,
+      "title": "Act V: The Royal Fall-Out: Abigail Masham and the Fall of Sarah Churchill: 1708 to 1711"
+    },
+    {
+      "startTime": 627.4,
+      "title": "Act VI: The Treaty of Utrecht and the Tory Ministry: 1711 to 1713"
+    },
+    {
+      "startTime": 730.1,
+      "title": "Act VII: The Broken Frame and the End of the Stuarts: August 1714"
+    },
+    {
+      "startTime": 846.1,
+      "title": "Conclusion"
+    }
+  ]
+}
