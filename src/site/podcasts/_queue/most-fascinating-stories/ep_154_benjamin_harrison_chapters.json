@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.7,
+      "title": "Act I: A Hemispheric Vision"
+    },
+    {
+      "startTime": 121.1,
+      "title": "Act II: The First Pan-American Conference"
+    },
+    {
+      "startTime": 223.5,
+      "title": "Act III: The Baltimore Crisis in Valparaiso"
+    },
+    {
+      "startTime": 313.5,
+      "title": "Act IV: Staring Down the Junta"
+    },
+    {
+      "startTime": 429.6,
+      "title": "Act V: Caroline's Fading Light"
+    },
+    {
+      "startTime": 527.3,
+      "title": "Act VI: The Muted Campaign of 1892"
+    },
+    {
+      "startTime": 628.1,
+      "title": "Act VII: The Elder Statesman of Delaware Street"
+    },
+    {
+      "startTime": 732.9,
+      "title": "Conclusion"
+    }
+  ]
+}
