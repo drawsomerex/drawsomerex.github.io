@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.4,
+      "title": "Act I: Beauclerc: The Youngest Son of the Conqueror: 1068 to 1100"
+    },
+    {
+      "startTime": 136.1,
+      "title": "Act II: The Charter of Liberties and the Saxon Queen: 1100 to 1101"
+    },
+    {
+      "startTime": 237.8,
+      "title": "Act III: The Battle of Tinchebray and the Iron Prison: 1106"
+    },
+    {
+      "startTime": 339.9,
+      "title": "Act IV: The Exchequer, the Pipe Rolls, and the Lion of Justice"
+    },
+    {
+      "startTime": 439.3,
+      "title": "Act V: The White Ship Catastrophe: November 25, 1120"
+    },
+    {
+      "startTime": 574.5,
+      "title": "Act VI: The Man Who Never Smiled Again and the Oath to Matilda: 1120 to 1135"
+    },
+    {
+      "startTime": 673.6,
+      "title": "Act VII: The Surfeit of Lampreys and the Looming Anarchy: 1135 and Legacy"
+    },
+    {
+      "startTime": 779.7,
+      "title": "Conclusion"
+    }
+  ]
+}
