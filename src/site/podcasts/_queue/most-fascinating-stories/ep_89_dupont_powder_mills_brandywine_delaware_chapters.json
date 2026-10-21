@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 68.4,
+      "title": "Act I: The Chemistry of the Guillotine's Shadow"
+    },
+    {
+      "startTime": 187.3,
+      "title": "Act II: The Bad Powder of New Jersey"
+    },
+    {
+      "startTime": 291.7,
+      "title": "Act III: The Water Power of the Brandywine"
+    },
+    {
+      "startTime": 396.6,
+      "title": "Act IV: The Architecture of Destruction"
+    },
+    {
+      "startTime": 508.5,
+      "title": "Act V: The War of 1812 and the Canal Boom"
+    },
+    {
+      "startTime": 614.8,
+      "title": "Act VI: The Sacrifices of the Powder Men"
+    },
+    {
+      "startTime": 726.1,
+      "title": "Act VII: The Legacy of Hagley on the Brandywine"
+    },
+    {
+      "startTime": 840.2,
+      "title": "Conclusion"
+    }
+  ]
+}
