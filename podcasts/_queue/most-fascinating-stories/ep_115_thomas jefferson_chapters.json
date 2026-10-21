@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 53.8,
+      "title": "Act I: The Corsairs of the Mediterranean"
+    },
+    {
+      "startTime": 161.1,
+      "title": "Act II: Jefferson's Doctrine: Millions for Defense"
+    },
+    {
+      "startTime": 261.1,
+      "title": "Act III: The Disaster of the USS Philadelphia"
+    },
+    {
+      "startTime": 387.4,
+      "title": "Act IV: Decatur's Audacity in the Lion's Den"
+    },
+    {
+      "startTime": 544.5,
+      "title": "Act V: The March Across the Libyan Sands"
+    },
+    {
+      "startTime": 671.4,
+      "title": "Act VI: The Battle of Derne: To the Shores of Tripoli"
+    },
+    {
+      "startTime": 785.3,
+      "title": "Act VII: Legacy of the First Foreign War"
+    },
+    {
+      "startTime": 871.3,
+      "title": "Conclusion"
+    }
+  ]
+}
