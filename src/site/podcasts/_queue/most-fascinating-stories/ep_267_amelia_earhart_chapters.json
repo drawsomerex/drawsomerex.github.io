@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.5,
+      "title": "Act I: The Tomboy of Atchison: 1897 to 1920"
+    },
+    {
+      "startTime": 129.4,
+      "title": "Act II: The Canary and the Friendship Flight: 1921 to 1928"
+    },
+    {
+      "startTime": 228.9,
+      "title": "Act III: The Red Vega and the Solo Atlantic Crossing: May 1932"
+    },
+    {
+      "startTime": 344.5,
+      "title": "Act IV: The Ninety-Nines and the Pacific Solo: 1932 to 1935"
+    },
+    {
+      "startTime": 440.1,
+      "title": "Act V: The World Flight and the Flying Laboratory: 1937"
+    },
+    {
+      "startTime": 540.6,
+      "title": "Act VI: The Last Hop: Lae to Howland Island: July 2, 1937"
+    },
+    {
+      "startTime": 641.5,
+      "title": "Act VII: The Vanished Queen of the Clouds: The Immortal Spirit"
+    },
+    {
+      "startTime": 736.1,
+      "title": "Conclusion"
+    }
+  ]
+}
