@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 42.2,
+      "title": "Act I: Blood on the Rio Grande"
+    },
+    {
+      "startTime": 146.6,
+      "title": "Act II: The Bear Flag Revolt and the Golden Shore"
+    },
+    {
+      "startTime": 256.0,
+      "title": "Act III: Old Rough and Ready at Buena Vista"
+    },
+    {
+      "startTime": 383.4,
+      "title": "Act IV: Winfield Scott's Epic Invasion"
+    },
+    {
+      "startTime": 494.6,
+      "title": "Act V: To the Halls of Montezuma"
+    },
+    {
+      "startTime": 615.7,
+      "title": "Act VI: The Treaty of Guadalupe Hidalgo"
+    },
+    {
+      "startTime": 722.0,
+      "title": "Act VII: The Gold at Sutter's Mill"
+    },
+    {
+      "startTime": 850.1,
+      "title": "Conclusion"
+    }
+  ]
+}

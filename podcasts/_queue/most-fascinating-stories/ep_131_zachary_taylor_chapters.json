@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 41.5,
+      "title": "Act I: Forty Years on the Frontier"
+    },
+    {
+      "startTime": 141.8,
+      "title": "Act II: The Legend of Old Rough and Ready"
+    },
+    {
+      "startTime": 249.8,
+      "title": "Act III: The Reluctant Candidate and the Dead-Letter Office"
+    },
+    {
+      "startTime": 366.9,
+      "title": "Act IV: The Election of 1848"
+    },
+    {
+      "startTime": 456.7,
+      "title": "Act V: The Southern Miscalculation"
+    },
+    {
+      "startTime": 556.6,
+      "title": "Act VI: The Standoff in the Executive Mansion"
+    },
+    {
+      "startTime": 651.4,
+      "title": "Act VII: The Granite Patriot"
+    },
+    {
+      "startTime": 727.7,
+      "title": "Conclusion"
+    }
+  ]
+}
