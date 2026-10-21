@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.6,
+      "title": "Act I: The Major from Niles"
+    },
+    {
+      "startTime": 131.7,
+      "title": "Act II: Mark Hanna and the Front Porch of Canton"
+    },
+    {
+      "startTime": 237.8,
+      "title": "Act III: The Shadow of Cuba and the Sinking of the Maine"
+    },
+    {
+      "startTime": 341.2,
+      "title": "Act IV: 'Remember the Maine, to Hell with Spain!'"
+    },
+    {
+      "startTime": 437.1,
+      "title": "Act V: Dewey at Manila Bay and the 100-Day War"
+    },
+    {
+      "startTime": 539.7,
+      "title": "Act VI: The Treaty of Paris and the Imperial Dilemma"
+    },
+    {
+      "startTime": 632.1,
+      "title": "Act VII: The Dawn of the American Century"
+    },
+    {
+      "startTime": 731.8,
+      "title": "Conclusion"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.5,
+      "title": "Act I: The City of Light and Electric Wonder"
+    },
+    {
+      "startTime": 143.6,
+      "title": "Act II: The Anarchist in the Shadows"
+    },
+    {
+      "startTime": 234.0,
+      "title": "Act III: The Fateful Handshake at the Temple of Music"
+    },
+    {
+      "startTime": 342.9,
+      "title": "Act IV: 'Don't Let Them Hurt Him'"
+    },
+    {
+      "startTime": 439.8,
+      "title": "Act V: The Flawed Surgery in the Exposition Hospital"
+    },
+    {
+      "startTime": 541.1,
+      "title": "Act VI: The Sudden Turn and 'Nearer, My God, to Thee'"
+    },
+    {
+      "startTime": 634.6,
+      "title": "Act VII: The Midnight Dash of Theodore Roosevelt"
+    },
+    {
+      "startTime": 734.6,
+      "title": "Conclusion"
+    }
+  ]
+}
