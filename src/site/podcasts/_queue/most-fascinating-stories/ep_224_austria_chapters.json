@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.5,
+      "title": "Act I: The Pragmatic Sanction: A Dying Emperor's Promise"
+    },
+    {
+      "startTime": 131.6,
+      "title": "Act II: The Hungarian Miracle: 'Our Lives and Blood for Our King!'"
+    },
+    {
+      "startTime": 230.3,
+      "title": "Act III: The Reformer of Vienna: Rebuilding the Treasury and Army"
+    },
+    {
+      "startTime": 323.5,
+      "title": "Act IV: The Diplomatic Revolution of 1756 and the Seven Years' War"
+    },
+    {
+      "startTime": 417.2,
+      "title": "Act V: The Golden Halls of Sch\u00f6nbrunn: Family and Dynastic Strategy"
+    },
+    {
+      "startTime": 510.0,
+      "title": "Act VI: The Co-Regency with Joseph II: Clash of Generations"
+    },
+    {
+      "startTime": 605.6,
+      "title": "Act VII: The Eternal Empress and the Habsburg Legacy"
+    },
+    {
+      "startTime": 690.7,
+      "title": "Conclusion"
+    }
+  ]
+}
