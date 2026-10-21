@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.4,
+      "title": "Act I: Nabopolassar and the Rebirth of Babylon"
+    },
+    {
+      "startTime": 105.7,
+      "title": "Act II: The Crown Prince at Carchemish: 605 BC"
+    },
+    {
+      "startTime": 186.0,
+      "title": "Act III: The City of Lapis Lazuli: The Ishtar Gate"
+    },
+    {
+      "startTime": 270.9,
+      "title": "Act IV: The Hanging Gardens for Queen Amytis"
+    },
+    {
+      "startTime": 359.1,
+      "title": "Act V: The Nightmare of the Colossal Metal Image"
+    },
+    {
+      "startTime": 453.7,
+      "title": "Act VI: The Prophetic Sequence of Empires"
+    },
+    {
+      "startTime": 540.2,
+      "title": "Act VII: The Fiery Furnace on the Plain of Dura"
+    },
+    {
+      "startTime": 638.2,
+      "title": "Conclusion"
+    }
+  ]
+}

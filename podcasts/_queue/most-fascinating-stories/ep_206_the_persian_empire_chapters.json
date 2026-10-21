@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.7,
+      "title": "Act I: The Rise of Anshan and the Median Uprising"
+    },
+    {
+      "startTime": 138.0,
+      "title": "Act II: The Cyrus Cylinder: The Charter of Freedom"
+    },
+    {
+      "startTime": 241.9,
+      "title": "Act III: The Edict of Restoration: 538 BC"
+    },
+    {
+      "startTime": 329.3,
+      "title": "Act IV: The First Wave: Zerubbabel and the Broken Altar"
+    },
+    {
+      "startTime": 425.6,
+      "title": "Act V: Darius the Great and the Imperial Machine"
+    },
+    {
+      "startTime": 515.0,
+      "title": "Act VI: The Royal Road and Persepolis"
+    },
+    {
+      "startTime": 604.5,
+      "title": "Act VII: The Second Temple Completed: 516 BC"
+    },
+    {
+      "startTime": 692.6,
+      "title": "Conclusion"
+    }
+  ]
+}
