@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 57.5,
+      "title": "Act I: The Myth and the Experiment"
+    },
+    {
+      "startTime": 170.6,
+      "title": "Act II: Eleanor Roosevelt and the Chief"
+    },
+    {
+      "startTime": 277.3,
+      "title": "Act III: Moton Field and the Forge of Excellence"
+    },
+    {
+      "startTime": 372.6,
+      "title": "Act IV: Combat in the Mediterranean Skies"
+    },
+    {
+      "startTime": 469.7,
+      "title": "Act V: The Legend of the Red Tails"
+    },
+    {
+      "startTime": 565.9,
+      "title": "Act VI: The German Jet Killers"
+    },
+    {
+      "startTime": 678.1,
+      "title": "Act VII: The Victory at Home and Abroad"
+    },
+    {
+      "startTime": 778.8,
+      "title": "Conclusion"
+    }
+  ]
+}
