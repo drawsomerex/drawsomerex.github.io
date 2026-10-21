@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 26.2,
+      "title": "Act I: The Boy Who Built Wind Tunnels in Wapakoneta: 1930 to 1949"
+    },
+    {
+      "startTime": 131.3,
+      "title": "Act II: Combat Over Korea and the Edge of Space in the X-15: 1950 to 1962"
+    },
+    {
+      "startTime": 248.0,
+      "title": "Act III: The Tumble of Gemini 8: March 1966"
+    },
+    {
+      "startTime": 362.2,
+      "title": "Act IV: The Saturn V and the Fire of Apollo 11: July 16, 1969"
+    },
+    {
+      "startTime": 466.7,
+      "title": "Act V: The Descent of Eagle: Sixty Seconds of Fuel: July 20, 1969"
+    },
+    {
+      "startTime": 599.9,
+      "title": "Act VI: 'One Small Step': July 20, 1969"
+    },
+    {
+      "startTime": 719.4,
+      "title": "Act VII: The Reluctant Legend: Solitude and Legacy"
+    },
+    {
+      "startTime": 840.0,
+      "title": "Conclusion"
+    }
+  ]
+}
