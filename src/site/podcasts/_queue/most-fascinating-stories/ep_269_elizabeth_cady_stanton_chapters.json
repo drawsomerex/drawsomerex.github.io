@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.0,
+      "title": "Act I: 'I Would, Sir, Were I a Man': Johnstown, New York: 1815 to 1840"
+    },
+    {
+      "startTime": 145.8,
+      "title": "Act II: The World Anti-Slavery Convention and London: 1840"
+    },
+    {
+      "startTime": 244.6,
+      "title": "Act III: Seneca Falls: The Declaration of Sentiments: July 19\u201320, 1848"
+    },
+    {
+      "startTime": 372.2,
+      "title": "Act IV: The Partnership with Anthony: The Dynamic Duo"
+    },
+    {
+      "startTime": 464.8,
+      "title": "Act V: The Schism Over the Fifteenth Amendment: 1869"
+    },
+    {
+      "startTime": 558.6,
+      "title": "Act VI: The Woman's Bible and the Radical Frontier: 1895"
+    },
+    {
+      "startTime": 657.1,
+      "title": "Act VII: The Solitude of Self: The Immortal Legacy"
+    },
+    {
+      "startTime": 770.8,
+      "title": "Conclusion"
+    }
+  ]
+}
