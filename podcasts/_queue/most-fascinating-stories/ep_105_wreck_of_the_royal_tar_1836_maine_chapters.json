@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 63.5,
+      "title": "Act I: The Golden Age of Traveling Menageries"
+    },
+    {
+      "startTime": 187.8,
+      "title": "Act II: A Ship Packed to the Gunwales"
+    },
+    {
+      "startTime": 289.6,
+      "title": "Act III: The Boiler Runs Dry off Vinalhaven"
+    },
+    {
+      "startTime": 386.9,
+      "title": "Act IV: Fire, Beasts, and Panic on the Main Deck"
+    },
+    {
+      "startTime": 495.3,
+      "title": "Act V: The Cowardice and the Cutter"
+    },
+    {
+      "startTime": 599.0,
+      "title": "Act VI: The Toll of the Menagerie Disaster"
+    },
+    {
+      "startTime": 697.2,
+      "title": "Act VII: The Legend of the Circus Ship"
+    },
+    {
+      "startTime": 790.8,
+      "title": "Conclusion"
+    }
+  ]
+}
