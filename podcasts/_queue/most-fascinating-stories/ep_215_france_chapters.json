@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.0,
+      "title": "Act I: The Crucible of the Fronde: 1648\u20131653"
+    },
+    {
+      "startTime": 133.9,
+      "title": "Act II: 'L'\u00c9tat, C'est Moi': The Absolute Monarchy"
+    },
+    {
+      "startTime": 242.2,
+      "title": "Act III: The Miracle in the Swamps: Versailles"
+    },
+    {
+      "startTime": 357.2,
+      "title": "Act IV: The Hall of Mirrors and Court Etiquette"
+    },
+    {
+      "startTime": 471.1,
+      "title": "Act V: The Golden Age of French Culture"
+    },
+    {
+      "startTime": 576.5,
+      "title": "Act VI: The Dark Shadows: Religious Intolerance and War"
+    },
+    {
+      "startTime": 683.2,
+      "title": "Act VII: The Man in the Iron Mask and the Twilight: 1715"
+    },
+    {
+      "startTime": 814.5,
+      "title": "Conclusion"
+    }
+  ]
+}

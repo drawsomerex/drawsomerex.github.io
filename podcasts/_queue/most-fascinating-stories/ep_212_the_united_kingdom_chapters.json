@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.5,
+      "title": "Act I: The Mystery of Salisbury Plain: Stonehenge"
+    },
+    {
+      "startTime": 149.0,
+      "title": "Act II: The Celtic World and the Sacred Oaks"
+    },
+    {
+      "startTime": 264.9,
+      "title": "Act III: The Roman Invasion of Claudius: 43 AD"
+    },
+    {
+      "startTime": 374.8,
+      "title": "Act IV: The Flogging of the Queen: The Spark of 60 AD"
+    },
+    {
+      "startTime": 482.3,
+      "title": "Act V: The Burning of Londinium and Camulodunum"
+    },
+    {
+      "startTime": 593.3,
+      "title": "Act VI: The Battle of Watling Street"
+    },
+    {
+      "startTime": 706.4,
+      "title": "Act VII: The Shield Wall and the Immortal Legend"
+    },
+    {
+      "startTime": 824.1,
+      "title": "Conclusion"
+    }
+  ]
+}
