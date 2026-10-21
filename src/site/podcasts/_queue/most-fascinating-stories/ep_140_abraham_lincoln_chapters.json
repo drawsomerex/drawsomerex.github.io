@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.3,
+      "title": "Act I: A Cemetery on a Pennsylvania Ridge"
+    },
+    {
+      "startTime": 133.7,
+      "title": "Act II: Two Hundred and Seventy-Two Words"
+    },
+    {
+      "startTime": 238.6,
+      "title": "Act III: The New Birth of Freedom"
+    },
+    {
+      "startTime": 335.1,
+      "title": "Act IV: The Long Dark Winter of 1864"
+    },
+    {
+      "startTime": 443.6,
+      "title": "Act V: The Capitol Portico in the Mud"
+    },
+    {
+      "startTime": 538.0,
+      "title": "Act VI: The Judgment of God and American Slavery"
+    },
+    {
+      "startTime": 644.2,
+      "title": "Act VII: With Malice Toward None"
+    },
+    {
+      "startTime": 732.6,
+      "title": "Conclusion"
+    }
+  ]
+}
