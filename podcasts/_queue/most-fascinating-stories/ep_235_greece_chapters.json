@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 25.9,
+      "title": "Act I: The Persian Colossus and the Wrath of Xerxes"
+    },
+    {
+      "startTime": 118.1,
+      "title": "Act II: The Hot Gates: The Narrow Pass of Thermopylae"
+    },
+    {
+      "startTime": 207.8,
+      "title": "Act III: 'Molon Labe': The First Two Days of Slaughter"
+    },
+    {
+      "startTime": 302.8,
+      "title": "Act IV: The Treason of Ephialtes and the Final Stand"
+    },
+    {
+      "startTime": 398.1,
+      "title": "Act V: The Burning of Athens and the Wooden Walls of Salamis"
+    },
+    {
+      "startTime": 480.8,
+      "title": "Act VI: The Ruse of Themistocles: The Trap at Salamis"
+    },
+    {
+      "startTime": 566.2,
+      "title": "Act VII: The Triumph of the Triremes and the Deliverance of Greece"
+    },
+    {
+      "startTime": 672.7,
+      "title": "Conclusion"
+    }
+  ]
+}

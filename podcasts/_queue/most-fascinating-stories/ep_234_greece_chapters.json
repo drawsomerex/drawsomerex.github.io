@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 25.0,
+      "title": "Act I: The Crucible of Athens and the Democratic Revolution"
+    },
+    {
+      "startTime": 125.6,
+      "title": "Act II: Pericles: The Olympian Statesman"
+    },
+    {
+      "startTime": 228.3,
+      "title": "Act III: The Crown of the Acropolis: Building the Parthenon"
+    },
+    {
+      "startTime": 330.2,
+      "title": "Act IV: The Theater of Dionysus: The Birth of Tragedy and Comedy"
+    },
+    {
+      "startTime": 420.0,
+      "title": "Act V: Socrates: The Gadfly of the Agora"
+    },
+    {
+      "startTime": 509.1,
+      "title": "Act VI: The Peloponnesian War and the Plague of Athens"
+    },
+    {
+      "startTime": 609.6,
+      "title": "Act VII: The Hemlock Cup and the Immortal Academy"
+    },
+    {
+      "startTime": 704.6,
+      "title": "Conclusion"
+    }
+  ]
+}
