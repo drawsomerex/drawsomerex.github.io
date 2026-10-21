@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.9,
+      "title": "Act I: The Hermit of Windsor: Grief and Seclusion: 1861 to 1868"
+    },
+    {
+      "startTime": 157.5,
+      "title": "Act II: The Flatterer and the Preacher: Disraeli and Gladstone"
+    },
+    {
+      "startTime": 273.9,
+      "title": "Act III: Empress of India: The Imperial Crown: 1876"
+    },
+    {
+      "startTime": 382.3,
+      "title": "Act IV: The Golden Jubilee of 1887: Fifty Years of Glory"
+    },
+    {
+      "startTime": 488.4,
+      "title": "Act V: The Diamond Jubilee: The Imperial Zenith: June 1897"
+    },
+    {
+      "startTime": 607.4,
+      "title": "Act VI: The Shadow of the Boer War: 1899 to 1900"
+    },
+    {
+      "startTime": 714.8,
+      "title": "Act VII: The Passing of the Great Queen: Osborne House: January 22, 1901"
+    },
+    {
+      "startTime": 842.0,
+      "title": "Conclusion"
+    }
+  ]
+}
