@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.3,
+      "title": "Act I: The Man from Marion"
+    },
+    {
+      "startTime": 134.8,
+      "title": "Act II: The Smoke-Filled Room at the Blackstone"
+    },
+    {
+      "startTime": 240.8,
+      "title": "Act III: The Gospel of Normalcy"
+    },
+    {
+      "startTime": 335.1,
+      "title": "Act IV: The Front Porch of 1920"
+    },
+    {
+      "startTime": 438.4,
+      "title": "Act V: The Best Minds and the Worst Hacks"
+    },
+    {
+      "startTime": 563.6,
+      "title": "Act VI: The Progressive Courage of an Ohio Conservative"
+    },
+    {
+      "startTime": 665.0,
+      "title": "Act VII: The Dark Cloud Gathers"
+    },
+    {
+      "startTime": 771.0,
+      "title": "Conclusion"
+    }
+  ]
+}
