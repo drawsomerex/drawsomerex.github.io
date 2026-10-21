@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 45.0,
+      "title": "Act I: The Gilded Mirage"
+    },
+    {
+      "startTime": 147.0,
+      "title": "Act II: The Deluge: May 1837"
+    },
+    {
+      "startTime": 262.1,
+      "title": "Act III: Bread, Blood, and Martin Van Ruin"
+    },
+    {
+      "startTime": 374.0,
+      "title": "Act IV: Van Buren's Principle: The Limits of Government"
+    },
+    {
+      "startTime": 471.0,
+      "title": "Act V: The Divorce of Bank and State"
+    },
+    {
+      "startTime": 565.8,
+      "title": "Act VI: The Triumph of the Sub-Treasury"
+    },
+    {
+      "startTime": 656.3,
+      "title": "Act VII: The Statesman Who Chose Principle Over Re-Election"
+    },
+    {
+      "startTime": 754.5,
+      "title": "Conclusion"
+    }
+  ]
+}
