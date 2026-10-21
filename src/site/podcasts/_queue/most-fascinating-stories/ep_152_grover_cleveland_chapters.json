@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 32.7,
+      "title": "Act I: The Bachelor in the White House"
+    },
+    {
+      "startTime": 124.8,
+      "title": "Act II: Vows in the Blue Room"
+    },
+    {
+      "startTime": 228.5,
+      "title": "Act III: The Sensation of 'Frankie'"
+    },
+    {
+      "startTime": 320.6,
+      "title": "Act IV: The Tariff Message of 1887: Courage Over Caution"
+    },
+    {
+      "startTime": 430.8,
+      "title": "Act V: The Great Campaign of 1888"
+    },
+    {
+      "startTime": 526.2,
+      "title": "Act VI: The Verdict of 1888: Popular Triumph, Electoral Defeat"
+    },
+    {
+      "startTime": 619.6,
+      "title": "Act VII: The Promise on the White House Porch"
+    },
+    {
+      "startTime": 720.4,
+      "title": "Conclusion"
+    }
+  ]
+}
