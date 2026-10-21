@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.8,
+      "title": "Act I: The First Pitch at Yankee Stadium: October 2001"
+    },
+    {
+      "startTime": 137.9,
+      "title": "Act II: Life at Prairie Chapel Ranch in Crawford"
+    },
+    {
+      "startTime": 231.6,
+      "title": "Act III: The Wonder of 'Bushisms' and Self-Deprecating Wit"
+    },
+    {
+      "startTime": 331.1,
+      "title": "Act IV: PEPFAR: The Greatest Humanitarian Miracle"
+    },
+    {
+      "startTime": 431.8,
+      "title": "Act V: The White House T-Ball and Barney the Scottish Terrier"
+    },
+    {
+      "startTime": 518.0,
+      "title": "Act VI: The 2008 Financial Crisis and the Transition"
+    },
+    {
+      "startTime": 614.1,
+      "title": "Act VII: The Painting Post-Presidency of 43"
+    },
+    {
+      "startTime": 708.4,
+      "title": "Conclusion"
+    }
+  ]
+}
