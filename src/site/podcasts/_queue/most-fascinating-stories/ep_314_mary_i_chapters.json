@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.7,
+      "title": "Act I: Catherine's Daughter: The Bastardy Stigma and Survival: 1516 to 1553"
+    },
+    {
+      "startTime": 148.2,
+      "title": "Act II: The Riding on London and the Claiming of the Crown: July 1553"
+    },
+    {
+      "startTime": 259.9,
+      "title": "Act III: The Spanish Match and Wyatt's Rebellion: 1554"
+    },
+    {
+      "startTime": 372.9,
+      "title": "Act IV: The Reconciliation with Rome: Cardinal Pole: November 1554"
+    },
+    {
+      "startTime": 486.2,
+      "title": "Act V: The Smithfield Fires: Cranmer, Ridley, Latimer, and 280 Martyrs: 1555 to 1558"
+    },
+    {
+      "startTime": 611.9,
+      "title": "Act VI: The Phantom Pregnancies and the Desertion of Philip: 1555 to 1557"
+    },
+    {
+      "startTime": 727.1,
+      "title": "Act VII: The Loss of Calais and the Sunset of the Queen: 1558"
+    },
+    {
+      "startTime": 856.1,
+      "title": "Conclusion"
+    }
+  ]
+}
