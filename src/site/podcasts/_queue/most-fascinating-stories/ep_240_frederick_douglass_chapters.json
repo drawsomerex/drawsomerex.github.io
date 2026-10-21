@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 20.5,
+      "title": "Act I: Born in the Shadows of Tuckahoe: 1818"
+    },
+    {
+      "startTime": 121.6,
+      "title": "Act II: The Secret Alphabet and the Fight with Covey"
+    },
+    {
+      "startTime": 233.2,
+      "title": "Act III: September 3, 1838: The Escape to Freedom"
+    },
+    {
+      "startTime": 334.9,
+      "title": "Act IV: The Nantucket Convention and the Living Thunderbolt"
+    },
+    {
+      "startTime": 440.4,
+      "title": "Act V: The North Star and 'What to the Slave is the Fourth of July?'"
+    },
+    {
+      "startTime": 560.5,
+      "title": "Act VI: Lincoln, the 54th Massachusetts, and the White House"
+    },
+    {
+      "startTime": 681.2,
+      "title": "Act VII: The Cedar Hill Sage and the Eternal Moral Legacy"
+    },
+    {
+      "startTime": 778.6,
+      "title": "Conclusion"
+    }
+  ]
+}
