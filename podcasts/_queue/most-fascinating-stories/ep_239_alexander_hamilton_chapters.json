@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 22.0,
+      "title": "Act I: The Hurricane Child of the Caribbean: Nevis and St. Croix"
+    },
+    {
+      "startTime": 130.4,
+      "title": "Act II: Washington's Right Hand: The Continental Artillery and Headquarters"
+    },
+    {
+      "startTime": 229.8,
+      "title": "Act III: The Assault on Redoubt 10 at Yorktown: October 14, 1781"
+    },
+    {
+      "startTime": 332.3,
+      "title": "Act IV: The Federalist Papers: The Blueprint of the Constitution"
+    },
+    {
+      "startTime": 438.8,
+      "title": "Act V: The First Secretary of the Treasury: Inventing American Capitalism"
+    },
+    {
+      "startTime": 550.2,
+      "title": "Act VI: The Reynolds Affair: The First Great Political Sex Scandal"
+    },
+    {
+      "startTime": 645.8,
+      "title": "Act VII: The Duel at Weehawken: July 11, 1804"
+    },
+    {
+      "startTime": 767.6,
+      "title": "Conclusion"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 21.3,
+      "title": "Act I: The Runaway Apprentice of Boston and Philadelphia"
+    },
+    {
+      "startTime": 132.6,
+      "title": "Act II: Poor Richard's Almanack: The Voice of American Thrift"
+    },
+    {
+      "startTime": 235.2,
+      "title": "Act III: Taming the Lightning: The Kite and the Key: 1752"
+    },
+    {
+      "startTime": 339.8,
+      "title": "Act IV: The Cockpit Confrontation in London: 1774"
+    },
+    {
+      "startTime": 444.7,
+      "title": "Act V: The Declaration of Independence: 'We Must Hang Together'"
+    },
+    {
+      "startTime": 549.2,
+      "title": "Act VI: The Court of Versailles: The Fur Cap and the French Alliance"
+    },
+    {
+      "startTime": 647.8,
+      "title": "Act VII: The Constitutional Convention and the Rising Sun: 1787"
+    },
+    {
+      "startTime": 754.2,
+      "title": "Conclusion"
+    }
+  ]
+}
