@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.4,
+      "title": "Act I: The Boston Pulpit and the Loss of Ellen: 1803 to 1832"
+    },
+    {
+      "startTime": 142.0,
+      "title": "Act II: The European Pilgrimage and the Jardin des Plantes: 1832 to 1834"
+    },
+    {
+      "startTime": 244.7,
+      "title": "Act III: Nature: The Manifesto of 1836"
+    },
+    {
+      "startTime": 348.5,
+      "title": "Act IV: The American Scholar and the Divinity School Firestorm: 1837 to 1838"
+    },
+    {
+      "startTime": 448.6,
+      "title": "Act V: Self-Reliance: The Gospel of Nonconformity: 1841"
+    },
+    {
+      "startTime": 543.8,
+      "title": "Act VI: The Sage on the Lyceum Circuit and the Anti-Slavery Crusader"
+    },
+    {
+      "startTime": 641.2,
+      "title": "Act VII: The Evening Star of Concord: The Immortal Legacy"
+    },
+    {
+      "startTime": 747.8,
+      "title": "Conclusion"
+    }
+  ]
+}
