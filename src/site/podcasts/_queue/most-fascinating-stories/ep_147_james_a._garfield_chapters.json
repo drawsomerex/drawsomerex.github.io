@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 32.0,
+      "title": "Act I: The Wilderness of Orange Township"
+    },
+    {
+      "startTime": 125.8,
+      "title": "Act II: The Miracle on the Towpath and the Scholar's Awakening"
+    },
+    {
+      "startTime": 215.9,
+      "title": "Act III: The Polymath of Hiram College"
+    },
+    {
+      "startTime": 305.1,
+      "title": "Act IV: The Preacher Goes to War"
+    },
+    {
+      "startTime": 407.7,
+      "title": "Act V: The Great Orator of the Gilded Age House"
+    },
+    {
+      "startTime": 495.6,
+      "title": "Act VI: The Deadlock at the Exposition Building"
+    },
+    {
+      "startTime": 590.7,
+      "title": "Act VII: The Thirty-Sixth Ballot: The Reluctant Nominee"
+    },
+    {
+      "startTime": 706.1,
+      "title": "Conclusion"
+    }
+  ]
+}
