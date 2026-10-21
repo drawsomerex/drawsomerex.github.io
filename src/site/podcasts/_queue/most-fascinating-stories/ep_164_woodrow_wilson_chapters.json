@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.7,
+      "title": "Act I: The Professor from Staunton"
+    },
+    {
+      "startTime": 133.0,
+      "title": "Act II: The Transformation of Princeton and New Jersey"
+    },
+    {
+      "startTime": 236.7,
+      "title": "Act III: Shattering Jefferson's Ghost: The In-Person Address"
+    },
+    {
+      "startTime": 337.9,
+      "title": "Act IV: The Underwood Tariff and the Federal Income Tax"
+    },
+    {
+      "startTime": 443.6,
+      "title": "Act V: The Creation of the Federal Reserve System"
+    },
+    {
+      "startTime": 566.1,
+      "title": "Act VI: The Clayton Act and the Federal Trade Commission"
+    },
+    {
+      "startTime": 659.6,
+      "title": "Act VII: The Dark Shadow of Segregation and the Coming Storm"
+    },
+    {
+      "startTime": 784.1,
+      "title": "Conclusion"
+    }
+  ]
+}
