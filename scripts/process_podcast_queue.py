@@ -132,8 +132,18 @@ def process_queue():
             # Audio enclosure
             base_url = f"https://drawsomerex.github.io/podcasts/{show_slug}"
             audio_size = os.path.getsize(dst_audio) if os.path.exists(dst_audio) else meta.get("size_bytes", 20000000)
+            
+            if meta.get("audio_url"):
+                audio_enclosure_url = meta["audio_url"]
+            elif show_slug == "most-fascinating-stories":
+                audio_enclosure_url = f"https://archive.org/download/most-fascinating-stories-podcast/{audio_name}"
+            elif show_slug == "line-by-line":
+                audio_enclosure_url = f"https://archive.org/download/line-by-line-podcast/{audio_name}"
+            else:
+                audio_enclosure_url = f"{base_url}/{audio_name}"
+
             ET.SubElement(item, "enclosure", {
-                "url": f"{base_url}/{audio_name}",
+                "url": audio_enclosure_url,
                 "length": str(audio_size),
                 "type": "audio/mpeg"
             })
