@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 42.0,
+      "title": "Act I: An Obscure Western Frontier Lawyer"
+    },
+    {
+      "startTime": 134.7,
+      "title": "Act II: Months in the Law Library"
+    },
+    {
+      "startTime": 213.3,
+      "title": "Act III: The Arrival at the Astor House"
+    },
+    {
+      "startTime": 298.0,
+      "title": "Act IV: The Gathering in the Great Hall"
+    },
+    {
+      "startTime": 386.8,
+      "title": "Act V: The Historical Dissection"
+    },
+    {
+      "startTime": 482.0,
+      "title": "Act VI: Right Makes Might"
+    },
+    {
+      "startTime": 583.4,
+      "title": "Act VII: The Speech That Made Lincoln President"
+    },
+    {
+      "startTime": 683.3,
+      "title": "Conclusion"
+    }
+  ]
+}
