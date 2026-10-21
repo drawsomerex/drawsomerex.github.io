@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 32.7,
+      "title": "Act I: Two Shots at the Baltimore and Potomac Station"
+    },
+    {
+      "startTime": 128.8,
+      "title": "Act II: The Medical Hubris of Dr. Bliss"
+    },
+    {
+      "startTime": 228.3,
+      "title": "Act III: The Sweltering White House and the Navy's Air Conditioner"
+    },
+    {
+      "startTime": 303.1,
+      "title": "Act IV: Alexander Graham Bell and the Induction Balance"
+    },
+    {
+      "startTime": 393.6,
+      "title": "Act V: The Great Wasting and the Journey to the Sea"
+    },
+    {
+      "startTime": 473.6,
+      "title": "Act VI: The Final Breath at Elberon"
+    },
+    {
+      "startTime": 553.2,
+      "title": "Act VII: The Reckoning and the Transformation of American Politics"
+    },
+    {
+      "startTime": 642.8,
+      "title": "Conclusion"
+    }
+  ]
+}
