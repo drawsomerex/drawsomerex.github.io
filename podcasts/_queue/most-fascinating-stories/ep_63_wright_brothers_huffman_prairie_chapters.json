@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.0,
+      "title": "Act I: Beyond the Dunes of Kitty Hawk"
+    },
+    {
+      "startTime": 149.4,
+      "title": "Act II: The Bumpy Cow Pasture of Torrence Huffman"
+    },
+    {
+      "startTime": 239.2,
+      "title": "Act III: The Disaster of May Twenty-Third"
+    },
+    {
+      "startTime": 348.2,
+      "title": "Act IV: The Catapult on the Prairie"
+    },
+    {
+      "startTime": 454.4,
+      "title": "Act V: The Masterpiece: Flyer Three"
+    },
+    {
+      "startTime": 555.8,
+      "title": "Act VI: Conquering the Sky in October 1905"
+    },
+    {
+      "startTime": 642.7,
+      "title": "Act VII: The Shrine of Modern Aviation"
+    },
+    {
+      "startTime": 736.2,
+      "title": "Conclusion"
+    }
+  ]
+}

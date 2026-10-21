@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 49.9,
+      "title": "Act I: The Two Patriarchs of the Tug Valley"
+    },
+    {
+      "startTime": 148.2,
+      "title": "Act II: The Trial of the Razorback Hog"
+    },
+    {
+      "startTime": 254.8,
+      "title": "Act III: The Star-Crossed Lovers of Election Day"
+    },
+    {
+      "startTime": 355.2,
+      "title": "Act IV: The Election Day Stabbing and the Pawpaw Trees"
+    },
+    {
+      "startTime": 458.1,
+      "title": "Act V: The Pikeville Lawyer and the Bounty Hunters"
+    },
+    {
+      "startTime": 553.6,
+      "title": "Act VI: The New Year's Night Massacre"
+    },
+    {
+      "startTime": 634.7,
+      "title": "Act VII: The Scaffold in Pikeville and the Truce"
+    },
+    {
+      "startTime": 724.3,
+      "title": "Conclusion"
+    }
+  ]
+}
