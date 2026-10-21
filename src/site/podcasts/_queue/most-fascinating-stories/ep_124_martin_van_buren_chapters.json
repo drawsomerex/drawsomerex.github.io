@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 45.3,
+      "title": "Act I: The Tavern at Kinderhook"
+    },
+    {
+      "startTime": 150.7,
+      "title": "Act II: The Albany Regency: America's First Political Machine"
+    },
+    {
+      "startTime": 259.9,
+      "title": "Act III: The Philosophy of the Party"
+    },
+    {
+      "startTime": 356.2,
+      "title": "Act IV: The Corrupt Bargain and the Alliance of 1828"
+    },
+    {
+      "startTime": 464.2,
+      "title": "Act V: The Campaign of 1828: Politics as Popular Entertainment"
+    },
+    {
+      "startTime": 572.3,
+      "title": "Act VI: The Little Magician in the Cabinet"
+    },
+    {
+      "startTime": 676.3,
+      "title": "Act VII: The Legacy of Old Kinderhook"
+    },
+    {
+      "startTime": 769.8,
+      "title": "Conclusion"
+    }
+  ]
+}
