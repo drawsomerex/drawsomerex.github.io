@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.8,
+      "title": "Act I: 'I Glory in the Name of Briton': Accession and Marriage: 1738 to 1761"
+    },
+    {
+      "startTime": 144.9,
+      "title": "Act II: 'Farmer George': Royal Science and Agriculture"
+    },
+    {
+      "startTime": 255.6,
+      "title": "Act III: The Spark of Rebellion: The Stamp Act to the Boston Tea Party: 1765 to 1773"
+    },
+    {
+      "startTime": 379.5,
+      "title": "Act IV: The Declaration of Independence: July 1776"
+    },
+    {
+      "startTime": 491.2,
+      "title": "Act V: Saratoga, Yorktown, and the Loss of America: 1777 to 1781"
+    },
+    {
+      "startTime": 599.0,
+      "title": "Act VI: The Peace of Paris and John Adams: 1783 to 1785"
+    },
+    {
+      "startTime": 704.4,
+      "title": "Act VII: The Boy Prime Minister: William Pitt the Younger: 1783"
+    },
+    {
+      "startTime": 803.7,
+      "title": "Conclusion"
+    }
+  ]
+}
