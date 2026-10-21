@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.2,
+      "title": "Act I: The Aristocrat of Hyde Park"
+    },
+    {
+      "startTime": 124.9,
+      "title": "Act II: The Crucible of Campobello"
+    },
+    {
+      "startTime": 234.7,
+      "title": "Act III: The Return and the 1932 Campaign"
+    },
+    {
+      "startTime": 324.8,
+      "title": "Act IV: 'Nothing to Fear But Fear Itself'"
+    },
+    {
+      "startTime": 424.8,
+      "title": "Act V: The Bank Holiday and the First Fireside Chat"
+    },
+    {
+      "startTime": 527.6,
+      "title": "Act VI: The Whirlwind of the First Hundred Days"
+    },
+    {
+      "startTime": 629.6,
+      "title": "Act VII: The Voice of Hope and the New American Dawn"
+    },
+    {
+      "startTime": 712.0,
+      "title": "Conclusion"
+    }
+  ]
+}
