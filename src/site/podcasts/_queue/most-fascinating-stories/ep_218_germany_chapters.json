@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.5,
+      "title": "Act I: The Thunderstorm at Stotternheim: 1505"
+    },
+    {
+      "startTime": 123.0,
+      "title": "Act II: The Journey to Rome and the Tower Experience"
+    },
+    {
+      "startTime": 225.9,
+      "title": "Act III: The Indulgence Trade and Johann Tetzel: 1517"
+    },
+    {
+      "startTime": 318.8,
+      "title": "Act IV: The 95 Theses at the Castle Church: October 31, 1517"
+    },
+    {
+      "startTime": 420.4,
+      "title": "Act V: The Diet of Worms: 'Here I Stand': April 1521"
+    },
+    {
+      "startTime": 541.8,
+      "title": "Act VI: The Knight George and the Wartburg Castle"
+    },
+    {
+      "startTime": 644.8,
+      "title": "Act VII: The Reformer's Hearth and the Legacy of Freedom"
+    },
+    {
+      "startTime": 743.2,
+      "title": "Conclusion"
+    }
+  ]
+}
