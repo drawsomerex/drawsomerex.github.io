@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.5,
+      "title": "Act I: The Youngest Pilot in the Navy"
+    },
+    {
+      "startTime": 130.0,
+      "title": "Act II: Shot Down Over Chichi Jima: September 1944"
+    },
+    {
+      "startTime": 236.6,
+      "title": "Act III: The Submarine Rescue and the Secret of Chichi Jima"
+    },
+    {
+      "startTime": 331.7,
+      "title": "Act IV: Barbara, Yale, and the Texas Oil Patch"
+    },
+    {
+      "startTime": 421.7,
+      "title": "Act V: The Peerless Resume of Public Service"
+    },
+    {
+      "startTime": 512.0,
+      "title": "Act VI: The Loyal Vice Presidency and the 1988 Campaign"
+    },
+    {
+      "startTime": 605.6,
+      "title": "Act VII: The 41st President at the Helm"
+    },
+    {
+      "startTime": 686.2,
+      "title": "Conclusion"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.9,
+      "title": "Act I: The Boy from Hope and Hot Springs"
+    },
+    {
+      "startTime": 124.8,
+      "title": "Act II: The Handshake in the Rose Garden: July 1963"
+    },
+    {
+      "startTime": 219.3,
+      "title": "Act III: Georgetown, Oxford, and Yale Law"
+    },
+    {
+      "startTime": 312.5,
+      "title": "Act IV: The 'Boy Governor' of Arkansas"
+    },
+    {
+      "startTime": 413.8,
+      "title": "Act V: The Comeback Kid and Arsenio Hall: 1992"
+    },
+    {
+      "startTime": 511.4,
+      "title": "Act VI: 'The War Room' and the 1992 Victory"
+    },
+    {
+      "startTime": 613.5,
+      "title": "Act VII: 'Don't Stop Thinking About Tomorrow'"
+    },
+    {
+      "startTime": 698.8,
+      "title": "Conclusion"
+    }
+  ]
+}

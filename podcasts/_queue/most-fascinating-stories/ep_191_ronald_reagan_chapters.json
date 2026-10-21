@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.4,
+      "title": "Act I: The 'Evil Empire' and Strategic Defense"
+    },
+    {
+      "startTime": 123.7,
+      "title": "Act II: Enter Mikhail Gorbachev: Geneva 1985"
+    },
+    {
+      "startTime": 219.5,
+      "title": "Act III: The Reykjavik Miracle and the Near-Zero Accord"
+    },
+    {
+      "startTime": 317.9,
+      "title": "Act IV: The Firestorm of Iran-Contra: 1986\u20131987"
+    },
+    {
+      "startTime": 422.7,
+      "title": "Act V: 'Mr. Gorbachev, Tear Down This Wall!'"
+    },
+    {
+      "startTime": 518.0,
+      "title": "Act VI: The INF Treaty and the Walk in Red Square: 1988"
+    },
+    {
+      "startTime": 609.3,
+      "title": "Act VII: The Shining City and the Sunset of a Great Crusade"
+    },
+    {
+      "startTime": 698.3,
+      "title": "Conclusion"
+    }
+  ]
+}
