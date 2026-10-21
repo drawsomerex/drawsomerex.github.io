@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 34.7,
+      "title": "Act I: Election Night in Columbus"
+    },
+    {
+      "startTime": 133.2,
+      "title": "Act II: The Pre-Dawn Plot of Dan Sickles and 'Devil Dick'"
+    },
+    {
+      "startTime": 231.7,
+      "title": "Act III: The Crucible of the Returning Boards"
+    },
+    {
+      "startTime": 328.9,
+      "title": "Act IV: The Threat of Civil War and the Fifteen-Member Commission"
+    },
+    {
+      "startTime": 423.2,
+      "title": "Act V: The Blunder of David Davis and the 8-to-7 Court"
+    },
+    {
+      "startTime": 517.1,
+      "title": "Act VI: Midnight at the Wormley Hotel"
+    },
+    {
+      "startTime": 604.2,
+      "title": "Act VII: The Midnight Oath and the Long Shadow of 1877"
+    },
+    {
+      "startTime": 698.4,
+      "title": "Conclusion"
+    }
+  ]
+}
