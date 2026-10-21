@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 55.5,
+      "title": "Act I: A Free Woman of the Crescent City"
+    },
+    {
+      "startTime": 165.1,
+      "title": "Act II: The Hairdresser to the Creole Elite"
+    },
+    {
+      "startTime": 265.2,
+      "title": "Act III: The Syncretic Altar of Faith"
+    },
+    {
+      "startTime": 381.1,
+      "title": "Act IV: Sunday Gatherings at Congo Square"
+    },
+    {
+      "startTime": 484.0,
+      "title": "Act V: Saint John's Eve on Lake Pontchartrain"
+    },
+    {
+      "startTime": 577.9,
+      "title": "Act VI: The Angel of Mercy and Death Row"
+    },
+    {
+      "startTime": 667.5,
+      "title": "Act VII: The Eternal Queen of Saint Louis No. 1"
+    },
+    {
+      "startTime": 762.8,
+      "title": "Conclusion"
+    }
+  ]
+}

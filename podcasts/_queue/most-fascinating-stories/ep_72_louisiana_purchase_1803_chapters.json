@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 60.2,
+      "title": "Act I: The Throat of the Mississippi"
+    },
+    {
+      "startTime": 168.5,
+      "title": "Act II: The Black Spartacus: Toussaint Louverture"
+    },
+    {
+      "startTime": 285.9,
+      "title": "Act III: Monroe and Livingston in Paris"
+    },
+    {
+      "startTime": 382.8,
+      "title": "Act IV: The Audacious Offer of Barbe-Marbois"
+    },
+    {
+      "startTime": 488.0,
+      "title": "Act V: Jefferson's Constitutional Dilemma"
+    },
+    {
+      "startTime": 585.6,
+      "title": "Act VI: The Ceremony in the Sala Capitular"
+    },
+    {
+      "startTime": 685.3,
+      "title": "Act VII: The Continental Destiny"
+    },
+    {
+      "startTime": 776.6,
+      "title": "Conclusion"
+    }
+  ]
+}
