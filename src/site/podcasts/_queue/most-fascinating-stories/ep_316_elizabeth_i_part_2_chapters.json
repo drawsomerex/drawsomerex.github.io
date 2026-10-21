@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.4,
+      "title": "Act I: The Rival Queen: Mary Stuart's Flight to England: 1568"
+    },
+    {
+      "startTime": 141.9,
+      "title": "Act II: Walsingham's Web of Spies: The Babington Plot: 1586"
+    },
+    {
+      "startTime": 265.9,
+      "title": "Act III: Fotheringhay Castle: The Execution of Mary Stuart: February 8, 1587"
+    },
+    {
+      "startTime": 385.5,
+      "title": "Act IV: The Flowering of the English Renaissance: Shakespeare and Marlowe"
+    },
+    {
+      "startTime": 494.9,
+      "title": "Act V: The Tragic Favorite: Robert Devereux, Earl of Essex: 1599"
+    },
+    {
+      "startTime": 611.6,
+      "title": "Act VI: The Essex Rebellion and the Scaffold on Tower Green: February 1601"
+    },
+    {
+      "startTime": 728.1,
+      "title": "Act VII: The Golden Speech and the Passing of Gloriana: 1603"
+    },
+    {
+      "startTime": 855.3,
+      "title": "Conclusion"
+    }
+  ]
+}
