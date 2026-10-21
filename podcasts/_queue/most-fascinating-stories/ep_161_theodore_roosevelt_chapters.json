@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 32.7,
+      "title": "Act I: Regret in the Red Room"
+    },
+    {
+      "startTime": 129.0,
+      "title": "Act II: The Bitter Disillusionment"
+    },
+    {
+      "startTime": 225.7,
+      "title": "Act III: The Theft at the Chicago Coliseum"
+    },
+    {
+      "startTime": 312.7,
+      "title": "Act IV: The Progressive Crusade and the Bull Moose"
+    },
+    {
+      "startTime": 400.9,
+      "title": "Act V: The Shot Outside the Gilpatrick Hotel"
+    },
+    {
+      "startTime": 494.8,
+      "title": "Act VI: The Miraculous Shield"
+    },
+    {
+      "startTime": 593.2,
+      "title": "Act VII: 'It Takes More Than That to Kill a Bull Moose'"
+    },
+    {
+      "startTime": 706.0,
+      "title": "Conclusion"
+    }
+  ]
+}
