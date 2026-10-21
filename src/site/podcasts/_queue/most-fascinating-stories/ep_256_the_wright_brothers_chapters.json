@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.7,
+      "title": "Act I: The Flying Toy and the Dayton Bicycle Shop: 1878 to 1899"
+    },
+    {
+      "startTime": 138.5,
+      "title": "Act II: Wing-Warping and the Kitty Hawk Winds: 1899 to 1901"
+    },
+    {
+      "startTime": 247.8,
+      "title": "Act III: The Wind Tunnel Breakthrough: Winter 1901"
+    },
+    {
+      "startTime": 340.7,
+      "title": "Act IV: The 1902 Glider and Three-Axis Flight Control"
+    },
+    {
+      "startTime": 434.6,
+      "title": "Act V: December 17, 1903: Twelve Seconds That Changed the World"
+    },
+    {
+      "startTime": 549.3,
+      "title": "Act VI: Huffman Prairie and the Skeptical World: 1904 to 1907"
+    },
+    {
+      "startTime": 635.4,
+      "title": "Act VII: The Triumph in France, Fort Myer, and the Immortal Legacy"
+    },
+    {
+      "startTime": 737.2,
+      "title": "Conclusion"
+    }
+  ]
+}
