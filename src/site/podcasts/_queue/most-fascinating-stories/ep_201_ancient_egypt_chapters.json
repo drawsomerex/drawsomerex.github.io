@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.8,
+      "title": "Act I: 'A Pharaoh Who Knew Not Joseph'"
+    },
+    {
+      "startTime": 123.6,
+      "title": "Act II: The Reed Basket on the Water"
+    },
+    {
+      "startTime": 211.5,
+      "title": "Act III: The Burning Bush at Mount Horeb"
+    },
+    {
+      "startTime": 305.4,
+      "title": "Act IV: The War of the Gods: The Ten Plagues"
+    },
+    {
+      "startTime": 402.3,
+      "title": "Act V: The Passover Night in Goshen"
+    },
+    {
+      "startTime": 488.6,
+      "title": "Act VI: The Waters Part at the Sea of Reeds"
+    },
+    {
+      "startTime": 582.4,
+      "title": "Act VII: The Sinking Chariots and the Song of Miriam"
+    },
+    {
+      "startTime": 674.8,
+      "title": "Conclusion"
+    }
+  ]
+}
