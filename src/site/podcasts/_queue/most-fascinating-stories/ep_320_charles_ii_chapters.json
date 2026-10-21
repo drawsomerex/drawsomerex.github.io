@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.9,
+      "title": "Act I: The Oak Tree and Continental Exile: 1630 to 1660"
+    },
+    {
+      "startTime": 146.1,
+      "title": "Act II: The Restoration: The Riding into London: May 29, 1660"
+    },
+    {
+      "startTime": 260.0,
+      "title": "Act III: The Merry Monarch: Nell Gwyn, Barbara Palmer, and the Royal Society"
+    },
+    {
+      "startTime": 378.5,
+      "title": "Act IV: The Great Plague of London: 1665"
+    },
+    {
+      "startTime": 484.0,
+      "title": "Act V: The Great Fire of London: September 1666"
+    },
+    {
+      "startTime": 605.2,
+      "title": "Act VI: The Popish Plot and the Exclusion Crisis: 1678 to 1681"
+    },
+    {
+      "startTime": 727.7,
+      "title": "Act VII: Deathbed Conversion and the Legacy of the King: February 1685"
+    },
+    {
+      "startTime": 852.7,
+      "title": "Conclusion"
+    }
+  ]
+}
