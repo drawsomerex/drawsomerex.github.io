@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.3,
+      "title": "Act I: The Madness of the Golden Monarch"
+    },
+    {
+      "startTime": 137.8,
+      "title": "Act II: The Fall of Jerusalem and Solomon's Temple"
+    },
+    {
+      "startTime": 237.0,
+      "title": "Act III: By the Rivers of Babylon: The Captivity"
+    },
+    {
+      "startTime": 334.4,
+      "title": "Act IV: Belshazzar's Sacrilegious Banquet"
+    },
+    {
+      "startTime": 435.5,
+      "title": "Act V: The Finger of Fire: Mene, Mene, Tekel"
+    },
+    {
+      "startTime": 534.0,
+      "title": "Act VI: The Secret Diversion of the Euphrates"
+    },
+    {
+      "startTime": 629.0,
+      "title": "Act VII: The End of the Golden Empire"
+    },
+    {
+      "startTime": 714.3,
+      "title": "Conclusion"
+    }
+  ]
+}
