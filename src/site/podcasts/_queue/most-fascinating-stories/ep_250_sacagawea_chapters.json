@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.2,
+      "title": "Act I: Child of the Shoshone: Kidnapping and Survival: 1788 to 1804"
+    },
+    {
+      "startTime": 135.5,
+      "title": "Act II: The Birth of Pompey and the Departure into the Unknown: February 1805"
+    },
+    {
+      "startTime": 244.6,
+      "title": "Act III: The White Pirogue Disaster: The Saving of the Journals"
+    },
+    {
+      "startTime": 343.6,
+      "title": "Act IV: The Botanical Lifeline and the Beaverhead Landmark"
+    },
+    {
+      "startTime": 436.1,
+      "title": "Act V: The Miraculous Reunion at Lemhi Pass: August 1805"
+    },
+    {
+      "startTime": 530.3,
+      "title": "Act VI: Voting at the Pacific and the Whale on the Beach: 1805 to 1806"
+    },
+    {
+      "startTime": 620.8,
+      "title": "Act VII: The Legacy of the Golden Dollar and the American Spirit"
+    },
+    {
+      "startTime": 726.8,
+      "title": "Conclusion"
+    }
+  ]
+}
