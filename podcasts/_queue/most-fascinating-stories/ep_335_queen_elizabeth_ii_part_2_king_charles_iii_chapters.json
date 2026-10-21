@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.7,
+      "title": "Act I: The Fairytale Wedding and the War of the Waleses: 1981 to 1992"
+    },
+    {
+      "startTime": 153.7,
+      "title": "Act II: Annus Horribilis: Windsor Castle in Flames: 1992"
+    },
+    {
+      "startTime": 254.3,
+      "title": "Act III: The Death of Diana and the People's Grief: August to September 1997"
+    },
+    {
+      "startTime": 375.9,
+      "title": "Act IV: The Golden and Diamond Jubilees: Rebuilding Royal Affection: 2002 to 2012"
+    },
+    {
+      "startTime": 496.3,
+      "title": "Act V: The Solitary Mourner and the Passing of Prince Philip: April 2021"
+    },
+    {
+      "startTime": 592.8,
+      "title": "Act VI: The Platinum Jubilee and Balmoral Sunset: June to September 2022"
+    },
+    {
+      "startTime": 717.9,
+      "title": "Act VII: God Save the King: The Accession and Coronation of Charles III: 2022 to Present"
+    },
+    {
+      "startTime": 822.2,
+      "title": "Conclusion"
+    }
+  ]
+}

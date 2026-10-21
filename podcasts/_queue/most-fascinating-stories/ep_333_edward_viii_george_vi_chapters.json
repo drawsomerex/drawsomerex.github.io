@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.5,
+      "title": "Act I: The Golden Prince and the Abdication Crisis: 1894 to December 1936"
+    },
+    {
+      "startTime": 165.0,
+      "title": "Act II: The King's Speech: Bertie and Lionel Logue: 1926 to 1937"
+    },
+    {
+      "startTime": 274.5,
+      "title": "Act III: The Gathering Storm and Munich: 1937 to 1939"
+    },
+    {
+      "startTime": 365.5,
+      "title": "Act IV: The King and Queen in the Blitz: 1940 to 1941"
+    },
+    {
+      "startTime": 479.0,
+      "title": "Act V: The Royal Family at War: Windsor, Normandy, and VE Day: 1942 to 1945"
+    },
+    {
+      "startTime": 581.1,
+      "title": "Act VI: Postwar Austerity, the NHS, and the Festival of Britain: 1945 to 1951"
+    },
+    {
+      "startTime": 667.2,
+      "title": "Act VII: The Final Wave at London Airport and the King's Passing: February 1952"
+    },
+    {
+      "startTime": 757.9,
+      "title": "Conclusion"
+    }
+  ]
+}
