@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.0,
+      "title": "Act I: The Huntingdon Farmer: Faith and Obscurity: 1599 to 1642"
+    },
+    {
+      "startTime": 150.9,
+      "title": "Act II: The Ironsides and the New Model Army: Marston Moor and Naseby"
+    },
+    {
+      "startTime": 259.8,
+      "title": "Act III: Regicide: Condemning the King: 1647 to 1649"
+    },
+    {
+      "startTime": 367.9,
+      "title": "Act IV: The Conquest of Ireland: Drogheda and Wexford: 1649 to 1650"
+    },
+    {
+      "startTime": 484.2,
+      "title": "Act V: Dunbar, Worcester, and the Rump Parliament Expulsion: 1650 to 1653"
+    },
+    {
+      "startTime": 615.7,
+      "title": "Act VI: The Lord Protector and the Rule of the Major-Generals: 1653 to 1657"
+    },
+    {
+      "startTime": 734.9,
+      "title": "Act VII: The Great Storm, Death, and the Tyburn Exhumation: 1658 to 1661"
+    },
+    {
+      "startTime": 863.3,
+      "title": "Conclusion"
+    }
+  ]
+}

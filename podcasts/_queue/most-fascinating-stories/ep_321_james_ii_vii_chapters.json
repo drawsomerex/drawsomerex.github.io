@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.5,
+      "title": "Act I: The Lord High Admiral: Naval Glory and Conversion: 1633 to 1685"
+    },
+    {
+      "startTime": 148.6,
+      "title": "Act II: Monmouth's Rebellion and the Bloody Assizes: 1685"
+    },
+    {
+      "startTime": 259.1,
+      "title": "Act III: The Jesuit in the Closet: The Assault on English Law: 1686 to 1688"
+    },
+    {
+      "startTime": 368.0,
+      "title": "Act IV: The Seven Bishops and the Warming Pan Baby: June 1688"
+    },
+    {
+      "startTime": 484.1,
+      "title": "Act V: The Invitation and the Glorious Revolution: November 1688"
+    },
+    {
+      "startTime": 600.8,
+      "title": "Act VI: The Battle of the Boyne: July 1, 1690"
+    },
+    {
+      "startTime": 717.5,
+      "title": "Act VII: The Saintly Exile of Saint-Germain: 1701"
+    },
+    {
+      "startTime": 821.6,
+      "title": "Conclusion"
+    }
+  ]
+}

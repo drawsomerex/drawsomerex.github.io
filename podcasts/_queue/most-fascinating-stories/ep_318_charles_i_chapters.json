@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.0,
+      "title": "Act I: The Delicate Prince: Dunfermline to Whitehall: 1600 to 1625"
+    },
+    {
+      "startTime": 146.2,
+      "title": "Act II: The Eleven Years' Tyranny: Personal Rule and Ship Money: 1629 to 1640"
+    },
+    {
+      "startTime": 257.4,
+      "title": "Act III: The Prayer Book Riot and the Bishops' Wars: 1637 to 1640"
+    },
+    {
+      "startTime": 368.6,
+      "title": "Act IV: The Attempt on the Five Members and the Outbreak of Civil War: 1642"
+    },
+    {
+      "startTime": 479.4,
+      "title": "Act V: Naseby and the Collapse of the Royalist Cause: 1645 to 1646"
+    },
+    {
+      "startTime": 594.8,
+      "title": "Act VI: The Trial in Westminster Hall: January 1649"
+    },
+    {
+      "startTime": 715.7,
+      "title": "Act VII: The Scaffold at Whitehall: January 30, 1649"
+    },
+    {
+      "startTime": 855.1,
+      "title": "Conclusion"
+    }
+  ]
+}
