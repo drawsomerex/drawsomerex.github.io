@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.4,
+      "title": "Act I: The Cradle King of Scotland: Buchanan and the Kidnappings: 1566 to 1603"
+    },
+    {
+      "startTime": 146.0,
+      "title": "Act II: The Union of the Crowns: The Progress South: March 1603"
+    },
+    {
+      "startTime": 267.0,
+      "title": "Act III: The Gunpowder Plot: Guy Fawkes and November 5, 1605"
+    },
+    {
+      "startTime": 392.5,
+      "title": "Act IV: The Hampton Court Conference and the King James Bible: 1604 to 1611"
+    },
+    {
+      "startTime": 518.4,
+      "title": "Act V: Daemonologie and the Witch Trials: The Inquisitor Monarch"
+    },
+    {
+      "startTime": 631.7,
+      "title": "Act VI: Royal Favorites: Robert Carr, the Overbury Scandal, and Buckingham"
+    },
+    {
+      "startTime": 743.0,
+      "title": "Act VII: Divine Right, Strife with Parliament, and the Stuart Sunset: 1625"
+    },
+    {
+      "startTime": 860.8,
+      "title": "Conclusion"
+    }
+  ]
+}
