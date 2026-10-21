@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 22.4,
+      "title": "Act I: The Failed Staymaker of Thetford and London"
+    },
+    {
+      "startTime": 135.5,
+      "title": "Act II: The Pennsylvania Magazine and the Spark of Rebellion"
+    },
+    {
+      "startTime": 230.2,
+      "title": "Act III: Common Sense: The Pamphlet that Ignited a Continent: January 1776"
+    },
+    {
+      "startTime": 343.1,
+      "title": "Act IV: The American Crisis: 'These Are the Times That Try Men's Souls'"
+    },
+    {
+      "startTime": 453.7,
+      "title": "Act V: The Rights of Man and Outlawed in England"
+    },
+    {
+      "startTime": 552.3,
+      "title": "Act VI: The French National Convention and the Luxembourg Prison"
+    },
+    {
+      "startTime": 656.9,
+      "title": "Act VII: The Return to America and the Solitary Grave in New Rochelle"
+    },
+    {
+      "startTime": 768.0,
+      "title": "Conclusion"
+    }
+  ]
+}
