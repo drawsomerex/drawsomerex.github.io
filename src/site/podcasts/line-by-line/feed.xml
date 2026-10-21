@@ -7,7 +7,7 @@
     <description>A Scripture &amp; Exegesis Podcast searching God's Word verse by verse. Rooted in the historic, conservative Reformed tradition, each episode pairs historical-covenantal context with warm, pastoral, line-by-line exegesis drawing from classic commentaries including John Calvin, Matthew Henry, Jamieson-Fausset-Brown, and Charles Spurgeon.</description>
     <language>en-us</language>
     <copyright>Creative Commons Attribution 4.0 International (CC-BY-4.0)</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 01:49:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:49:52 +0000</lastBuildDate>
     <itunes:author>Autonomous Media Lab</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
@@ -24,5 +24,19 @@
     <podcast:locked owner="broadcast@synthetic.media">no</podcast:locked>
     <podcast:license>CC-BY-4.0</podcast:license>
     <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+    <item>
+      <title>Psalm 23: The Shepherd and His Sheep</title>
+      <guid isPermaLink="false">27c1d061-df61-4b2e-bda5-e6f513ae16cc</guid>
+      <pubDate>Wed, 21 Oct 2026 01:49:52 +0000</pubDate>
+      <description>In the inaugural episode of Line by Line, host Rebecca establishes the covenantal and historical setting of David's most beloved psalm from a conservative Reformed perspective. Then, James walks line-by-line through the Hebrew text and classic commentaries of John Calvin, Matthew Henry, and Charles Spurgeon, unpacking Yahweh Rohi, the valley of the shadow of death, the prepared table, and the eternal security of Christ's flock.</description>
+      <enclosure url="https://drawsomerex.github.io/podcasts/line-by-line/ep_01_psalm_23.mp3" length="26529152" type="audio/mpeg"/>
+      <itunes:duration>1086</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+      <podcast:chapters url="https://drawsomerex.github.io/podcasts/line-by-line/ep_01_psalm_23_chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://drawsomerex.github.io/podcasts/line-by-line/ep_01_psalm_23.vtt" type="text/vtt" language="en-us"/>
+    </item>
   </channel>
 </rss>
