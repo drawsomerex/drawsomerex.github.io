@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 62.5,
+      "title": "Act I: Kidnapped Across the Atlantic"
+    },
+    {
+      "startTime": 182.9,
+      "title": "Act II: Mutiny in the Midnight Tempest"
+    },
+    {
+      "startTime": 284.2,
+      "title": "Act III: The Deceitful Navigation and Capture off Long Island"
+    },
+    {
+      "startTime": 385.9,
+      "title": "Act IV: The New Haven Jail and the Language of Liberty"
+    },
+    {
+      "startTime": 507.7,
+      "title": "Act V: The District Court Triumph and Van Buren's Treachery"
+    },
+    {
+      "startTime": 592.7,
+      "title": "Act VI: Old Man Eloquent Before the Supreme Court"
+    },
+    {
+      "startTime": 692.8,
+      "title": "Act VII: The Return to Africa and the Torch of Abolition"
+    },
+    {
+      "startTime": 803.9,
+      "title": "Conclusion"
+    }
+  ]
+}

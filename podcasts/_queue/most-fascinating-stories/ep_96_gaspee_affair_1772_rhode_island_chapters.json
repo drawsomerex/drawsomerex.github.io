@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 58.3,
+      "title": "Act I: Rhode Island and the Smugglers' Paradise"
+    },
+    {
+      "startTime": 172.7,
+      "title": "Act II: The Tyrant of Narragansett Bay"
+    },
+    {
+      "startTime": 288.9,
+      "title": "Act III: The Trap on Namquid Point"
+    },
+    {
+      "startTime": 388.9,
+      "title": "Act IV: The Call to Arms at Sabin Tavern"
+    },
+    {
+      "startTime": 476.0,
+      "title": "Act V: The Midnight Assault on the Mudflat"
+    },
+    {
+      "startTime": 580.8,
+      "title": "Act VI: The Inferno of the Gaspee"
+    },
+    {
+      "startTime": 669.4,
+      "title": "Act VII: The Royal Commission and the Seeds of Revolution"
+    },
+    {
+      "startTime": 792.0,
+      "title": "Conclusion"
+    }
+  ]
+}
