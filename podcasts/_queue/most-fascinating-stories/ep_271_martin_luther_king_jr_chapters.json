@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.7,
+      "title": "Act I: Sweet Auburn and the Crucible of Boston: 1929 to 1954"
+    },
+    {
+      "startTime": 165.9,
+      "title": "Act II: The Montgomery Bus Boycott and the Spark of Rosa Parks: 1955"
+    },
+    {
+      "startTime": 311.8,
+      "title": "Act III: The Philosophy of Nonviolence and the Southern Christian Leadership Conference"
+    },
+    {
+      "startTime": 425.4,
+      "title": "Act IV: The Children's Crusade and 'Letter from Birmingham Jail': 1963"
+    },
+    {
+      "startTime": 549.0,
+      "title": "Act V: August 28, 1963: 'I Have a Dream' at the Lincoln Memorial"
+    },
+    {
+      "startTime": 679.1,
+      "title": "Act VI: Selma, the Voting Rights Act, and the Nobel Peace Prize: 1964 to 1965"
+    },
+    {
+      "startTime": 790.4,
+      "title": "Act VII: The Mountaintop in Memphis and the Immortal Dream: April 1968"
+    },
+    {
+      "startTime": 927.8,
+      "title": "Conclusion"
+    }
+  ]
+}
