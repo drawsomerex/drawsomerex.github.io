@@ -136,7 +136,7 @@ def process_queue():
             if meta.get("audio_url"):
                 audio_enclosure_url = meta["audio_url"]
             elif show_slug == "most-fascinating-stories":
-                audio_enclosure_url = f"https://archive.org/download/most-fascinating-stories-podcast/{audio_name}"
+                audio_enclosure_url = f"https://pub-f97b46c0739c43598234830bfe564775.r2.dev/most-fascinating-stories/{audio_name}"
             elif show_slug == "line-by-line":
                 audio_enclosure_url = f"https://archive.org/download/line-by-line-podcast/{audio_name}"
             else:
