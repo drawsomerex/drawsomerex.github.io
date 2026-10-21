@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 25.4,
+      "title": "Act I: Sagres and the Dream of the Ocean Sea"
+    },
+    {
+      "startTime": 124.3,
+      "title": "Act II: The Caravel: The Vessel that Unlocked the Earth"
+    },
+    {
+      "startTime": 210.9,
+      "title": "Act III: Gil Eanes and the Conquest of the Green Sea of Darkness"
+    },
+    {
+      "startTime": 302.9,
+      "title": "Act IV: Bartolomeu Dias and the Cape of Good Hope: 1488"
+    },
+    {
+      "startTime": 406.8,
+      "title": "Act V: Vasco da Gama: The Voyage of Destiny: 1497\u20131498"
+    },
+    {
+      "startTime": 507.7,
+      "title": "Act VI: The Spice Empire: The Scramble for the Indian Ocean"
+    },
+    {
+      "startTime": 605.2,
+      "title": "Act VII: The Jer\u00f3nimos Monastery and the Legacy of the Discoveries"
+    },
+    {
+      "startTime": 694.8,
+      "title": "Conclusion"
+    }
+  ]
+}
