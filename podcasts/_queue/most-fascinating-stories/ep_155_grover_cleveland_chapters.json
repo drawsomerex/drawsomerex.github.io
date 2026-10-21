@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 36.4,
+      "title": "Act I: The Storm Breaks on Wall Street"
+    },
+    {
+      "startTime": 140.8,
+      "title": "Act II: The Bleeding Gold Reserve"
+    },
+    {
+      "startTime": 238.7,
+      "title": "Act III: The Battle to Repeal the Silver Act"
+    },
+    {
+      "startTime": 350.6,
+      "title": "Act IV: The Winter of Despair and Coxey's Army"
+    },
+    {
+      "startTime": 448.7,
+      "title": "Act V: The Midnight Rendezvous with J.P. Morgan"
+    },
+    {
+      "startTime": 557.4,
+      "title": "Act VI: The Syndicate That Saved the Gold"
+    },
+    {
+      "startTime": 652.9,
+      "title": "Act VII: The Bitter Isolation of an Honest Man"
+    },
+    {
+      "startTime": 745.5,
+      "title": "Conclusion"
+    }
+  ]
+}
