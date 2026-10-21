@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 51.6,
+      "title": "Act I: The Appalachian Wall"
+    },
+    {
+      "startTime": 155.3,
+      "title": "Act II: The Vision of the National Highway"
+    },
+    {
+      "startTime": 246.7,
+      "title": "Act III: The Goodwill Tour and the Era of Good Feelings"
+    },
+    {
+      "startTime": 344.8,
+      "title": "Act IV: Engineering a Mountain Highway: The McAdam Revolution"
+    },
+    {
+      "startTime": 437.5,
+      "title": "Act V: Life Along the Great Pike"
+    },
+    {
+      "startTime": 549.7,
+      "title": "Act VI: Monroe's Veto: The Constitutional Dilemma"
+    },
+    {
+      "startTime": 659.3,
+      "title": "Act VII: The Artery of a Continental Nation"
+    },
+    {
+      "startTime": 751.9,
+      "title": "Conclusion"
+    }
+  ]
+}
