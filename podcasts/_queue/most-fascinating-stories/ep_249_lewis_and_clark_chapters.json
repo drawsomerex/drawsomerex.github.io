@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 29.1,
+      "title": "Act I: Jefferson's Vision: The Secret Mission into the West: 1803"
+    },
+    {
+      "startTime": 143.9,
+      "title": "Act II: Ascending the Mighty Missouri: May to November 1804"
+    },
+    {
+      "startTime": 250.1,
+      "title": "Act III: Sacagawea and the Great Falls of Montana: Spring 1805"
+    },
+    {
+      "startTime": 352.6,
+      "title": "Act IV: The Continental Divide and the Lemhi Shoshone Miracle: August 1805"
+    },
+    {
+      "startTime": 452.3,
+      "title": "Act V: The Agony of the Bitterroot Mountains: September 1805"
+    },
+    {
+      "startTime": 545.8,
+      "title": "Act VI: 'Ocian in View! O! The Joy!': November 1805"
+    },
+    {
+      "startTime": 641.9,
+      "title": "Act VII: The Triumphant Return and the Opening of the West"
+    },
+    {
+      "startTime": 755.9,
+      "title": "Conclusion"
+    }
+  ]
+}
