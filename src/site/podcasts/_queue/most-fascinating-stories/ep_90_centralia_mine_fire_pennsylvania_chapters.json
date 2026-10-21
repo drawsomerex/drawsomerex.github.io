@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 52.5,
+      "title": "Act I: Anthracite and the Borough of Centralia"
+    },
+    {
+      "startTime": 182.3,
+      "title": "Act II: The Memorial Day Cleanup"
+    },
+    {
+      "startTime": 302.8,
+      "title": "Act III: The Poison in the Basements"
+    },
+    {
+      "startTime": 436.3,
+      "title": "Act IV: The Chasm in Todd Domboski's Backyard"
+    },
+    {
+      "startTime": 543.7,
+      "title": "Act V: The Town That Divided Itself"
+    },
+    {
+      "startTime": 652.6,
+      "title": "Act VI: The Revocation of a Zip Code"
+    },
+    {
+      "startTime": 752.6,
+      "title": "Act VII: The Legacy of the Burning Mountain"
+    },
+    {
+      "startTime": 854.5,
+      "title": "Conclusion"
+    }
+  ]
+}
