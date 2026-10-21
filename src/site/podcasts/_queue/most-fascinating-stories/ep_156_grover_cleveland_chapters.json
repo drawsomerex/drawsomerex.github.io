@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 36.5,
+      "title": "Act I: A Rough Patch in the Roof of the Mouth"
+    },
+    {
+      "startTime": 136.6,
+      "title": "Act II: The Ghost Ship in Long Island Sound"
+    },
+    {
+      "startTime": 236.7,
+      "title": "Act III: Ninety Minutes of Surgical Mastery"
+    },
+    {
+      "startTime": 344.5,
+      "title": "Act IV: E.J. Edwards and the 'Lying Reporter'"
+    },
+    {
+      "startTime": 450.8,
+      "title": "Act V: Eugene V. Debs and the Pullman Boycott"
+    },
+    {
+      "startTime": 546.4,
+      "title": "Act VI: The Mail Must Go Through: Bayonets in Chicago"
+    },
+    {
+      "startTime": 655.4,
+      "title": "Act VII: The Legacy of Iron Will"
+    },
+    {
+      "startTime": 751.7,
+      "title": "Conclusion"
+    }
+  ]
+}
