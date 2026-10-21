@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.5,
+      "title": "Act I: The Judicial Soul of Big Bill"
+    },
+    {
+      "startTime": 146.7,
+      "title": "Act II: Helen Taft and the White House Ambition"
+    },
+    {
+      "startTime": 257.4,
+      "title": "Act III: The Reluctant Candidate of 1908"
+    },
+    {
+      "startTime": 360.3,
+      "title": "Act IV: The Genuine Trust-Buster"
+    },
+    {
+      "startTime": 466.4,
+      "title": "Act V: The Legislative Accomplishments"
+    },
+    {
+      "startTime": 567.3,
+      "title": "Act VI: Dollar Diplomacy and Global Trade"
+    },
+    {
+      "startTime": 669.5,
+      "title": "Act VII: The President Who Found His True Home"
+    },
+    {
+      "startTime": 789.7,
+      "title": "Conclusion"
+    }
+  ]
+}
