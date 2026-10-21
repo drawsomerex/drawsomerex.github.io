@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 34.3,
+      "title": "Act I: Industrial Miracle and Casablanca: 1942\u20131943"
+    },
+    {
+      "startTime": 132.5,
+      "title": "Act II: The Big Three at Tehran: 1943"
+    },
+    {
+      "startTime": 227.2,
+      "title": "Act III: The D-Day Prayer: June 6, 1944"
+    },
+    {
+      "startTime": 323.8,
+      "title": "Act IV: The Dying Lion and the Fourth Term: 1944"
+    },
+    {
+      "startTime": 422.9,
+      "title": "Act V: The Yalta Summit on the Black Sea: 1945"
+    },
+    {
+      "startTime": 518.0,
+      "title": "Act VI: The Final Hours at Warm Springs: April 12, 1945"
+    },
+    {
+      "startTime": 612.3,
+      "title": "Act VII: The Funeral Train and the Immortal Legacy"
+    },
+    {
+      "startTime": 706.1,
+      "title": "Conclusion"
+    }
+  ]
+}
