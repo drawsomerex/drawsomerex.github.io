@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.1,
+      "title": "Act I: Bloodline of the Republic"
+    },
+    {
+      "startTime": 147.0,
+      "title": "Act II: The Iron General of Peachtree Creek"
+    },
+    {
+      "startTime": 244.4,
+      "title": "Act III: The 'Human Iceberg' and the White House"
+    },
+    {
+      "startTime": 342.3,
+      "title": "Act IV: 'Czar' Reed and the Billion-Dollar Congress"
+    },
+    {
+      "startTime": 452.8,
+      "title": "Act V: The Sherman Antitrust Act of 1890"
+    },
+    {
+      "startTime": 553.8,
+      "title": "Act VI: The Western Frontier and the Forest Reserve Act"
+    },
+    {
+      "startTime": 649.6,
+      "title": "Act VII: The McKinley Tariff and the Midterm Rout"
+    },
+    {
+      "startTime": 747.3,
+      "title": "Conclusion"
+    }
+  ]
+}
