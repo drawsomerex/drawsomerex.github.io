@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.2,
+      "title": "Act I: A Colony on the Edge of Darkness"
+    },
+    {
+      "startTime": 169.0,
+      "title": "Act II: The Afflicted Girls and the First Accusations"
+    },
+    {
+      "startTime": 273.0,
+      "title": "Act III: The Examination at the Meetinghouse"
+    },
+    {
+      "startTime": 376.7,
+      "title": "Act IV: Spectral Evidence and the Special Court"
+    },
+    {
+      "startTime": 480.8,
+      "title": "Act V: The Martyrdom of Rebecca Nurse and Giles Corey"
+    },
+    {
+      "startTime": 605.5,
+      "title": "Act VI: The Collapse of the Delusion"
+    },
+    {
+      "startTime": 699.9,
+      "title": "Act VII: The Legacy and the Burden of Memory"
+    },
+    {
+      "startTime": 804.1,
+      "title": "Conclusion"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.0,
+      "title": "Act I: The Outlaws of the New Hampshire Grants"
+    },
+    {
+      "startTime": 162.4,
+      "title": "Act II: The Desperate Need for Cannon"
+    },
+    {
+      "startTime": 261.3,
+      "title": "Act III: The Clash of Egos: Allen and Arnold"
+    },
+    {
+      "startTime": 347.7,
+      "title": "Act IV: The Midnight Crossing of Lake Champlain"
+    },
+    {
+      "startTime": 438.5,
+      "title": "Act V: 'In the Name of the Great Jehovah!'"
+    },
+    {
+      "startTime": 539.2,
+      "title": "Act VI: The Plunder and the Noble Train of Artillery"
+    },
+    {
+      "startTime": 642.6,
+      "title": "Act VII: The Legacy of Vermont's Founding Hero"
+    },
+    {
+      "startTime": 738.1,
+      "title": "Conclusion"
+    }
+  ]
+}
