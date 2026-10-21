@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.2,
+      "title": "Act I: The First Madness: The Autumn of 1788"
+    },
+    {
+      "startTime": 149.5,
+      "title": "Act II: The Regency Crisis and the Triumphant Recovery: 1789"
+    },
+    {
+      "startTime": 255.6,
+      "title": "Act III: The French Revolution and the Defense of Britain: 1793 to 1800"
+    },
+    {
+      "startTime": 365.9,
+      "title": "Act IV: Trafalgar and the Death of Pitt: 1805 to 1806"
+    },
+    {
+      "startTime": 471.2,
+      "title": "Act V: The Princess Amelia and the Final Descent: 1810"
+    },
+    {
+      "startTime": 568.4,
+      "title": "Act VI: The Ghost in the North Terrace: The Regency Years: 1811 to 1819"
+    },
+    {
+      "startTime": 676.1,
+      "title": "Act VII: The Passing of the Patriarch: Windsor: January 29, 1820"
+    },
+    {
+      "startTime": 777.3,
+      "title": "Conclusion"
+    }
+  ]
+}
