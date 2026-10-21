@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.4,
+      "title": "Act I: Orphan of the Theater: Boston and Richmond: 1809 to 1826"
+    },
+    {
+      "startTime": 143.8,
+      "title": "Act II: The Army, West Point, and the Break with Allan: 1827 to 1831"
+    },
+    {
+      "startTime": 250.4,
+      "title": "Act III: Baltimore, Southern Literary Messenger, and Virginia Clemm: 1831 to 1836"
+    },
+    {
+      "startTime": 346.1,
+      "title": "Act IV: The Invention of the Detective Story: C. Auguste Dupin: 1841"
+    },
+    {
+      "startTime": 432.3,
+      "title": "Act V: The Shadow of the Red Death: The Psychological Masterpieces: 1842 to 1844"
+    },
+    {
+      "startTime": 525.4,
+      "title": "Act VI: 'The Raven' and the Cottage at Fordham: 1845 to 1847"
+    },
+    {
+      "startTime": 625.7,
+      "title": "Act VII: The Mysterious End in Baltimore: October 1849"
+    },
+    {
+      "startTime": 752.9,
+      "title": "Conclusion"
+    }
+  ]
+}

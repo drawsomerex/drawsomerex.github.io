@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.4,
+      "title": "Act I: The Farm Boy of Springwells Township: 1863 to 1896"
+    },
+    {
+      "startTime": 136.3,
+      "title": "Act II: The Quadricycle in the Brick Shed: June 1896"
+    },
+    {
+      "startTime": 243.8,
+      "title": "Act III: Defeating the Selden Patent and the Vision of the Universal Car"
+    },
+    {
+      "startTime": 350.0,
+      "title": "Act IV: The Universal Car: The Model T of 1908"
+    },
+    {
+      "startTime": 454.4,
+      "title": "Act V: The Moving Assembly Line at Highland Park: 1913"
+    },
+    {
+      "startTime": 560.2,
+      "title": "Act VI: The Five-Dollar Day and the Birth of the Middle Class: 1914"
+    },
+    {
+      "startTime": 658.9,
+      "title": "Act VII: The Rouge, the Complex Legacy, and the Road Ahead"
+    },
+    {
+      "startTime": 770.3,
+      "title": "Conclusion"
+    }
+  ]
+}
