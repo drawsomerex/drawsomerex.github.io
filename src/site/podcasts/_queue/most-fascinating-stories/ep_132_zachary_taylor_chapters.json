@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 47.1,
+      "title": "Act I: Scorching Sun at the Washington Monument"
+    },
+    {
+      "startTime": 128.7,
+      "title": "Act II: The Agony in the White House"
+    },
+    {
+      "startTime": 268.4,
+      "title": "Act III: The Midnight Passing of a President"
+    },
+    {
+      "startTime": 345.1,
+      "title": "Act IV: The Political Reversal of 1850"
+    },
+    {
+      "startTime": 447.4,
+      "title": "Act V: The Poison Conspiracy"
+    },
+    {
+      "startTime": 586.3,
+      "title": "Act VI: The Exhumation of a President: June 1991"
+    },
+    {
+      "startTime": 678.6,
+      "title": "Act VII: The Scientific Verdict"
+    },
+    {
+      "startTime": 774.8,
+      "title": "Conclusion"
+    }
+  ]
+}
