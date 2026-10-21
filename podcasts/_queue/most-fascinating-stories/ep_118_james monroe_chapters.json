@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 50.2,
+      "title": "Act I: The Crumbling Empire of Spain"
+    },
+    {
+      "startTime": 166.8,
+      "title": "Act II: The Menace of the Holy Alliance"
+    },
+    {
+      "startTime": 270.3,
+      "title": "Act III: The British Proposal: Trap or Shield?"
+    },
+    {
+      "startTime": 386.9,
+      "title": "Act IV: John Quincy Adams and the Cockboat Principle"
+    },
+    {
+      "startTime": 496.9,
+      "title": "Act V: The Seventh Annual Message to Congress"
+    },
+    {
+      "startTime": 604.4,
+      "title": "Act VI: The Global Shockwave"
+    },
+    {
+      "startTime": 707.1,
+      "title": "Act VII: Two Centuries of Hemispheric Shield"
+    },
+    {
+      "startTime": 807.7,
+      "title": "Conclusion"
+    }
+  ]
+}
