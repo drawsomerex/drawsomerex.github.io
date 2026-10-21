@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.8,
+      "title": "Act I: The Grocer's Son from Yorba Linda"
+    },
+    {
+      "startTime": 150.0,
+      "title": "Act II: The Checkers Speech of 1952"
+    },
+    {
+      "startTime": 266.2,
+      "title": "Act III: The Kitchen Debate in Moscow: 1959"
+    },
+    {
+      "startTime": 371.4,
+      "title": "Act IV: The Comeback of the Century: 1968"
+    },
+    {
+      "startTime": 478.2,
+      "title": "Act V: The Secret Flight to Beijing: 1972"
+    },
+    {
+      "startTime": 568.9,
+      "title": "Act VI: The Week That Changed the World: February 1972"
+    },
+    {
+      "startTime": 662.5,
+      "title": "Act VII: The 1972 Landslide and the Domestic Legacy"
+    },
+    {
+      "startTime": 762.3,
+      "title": "Conclusion"
+    }
+  ]
+}
