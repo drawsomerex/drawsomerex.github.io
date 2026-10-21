@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.2,
+      "title": "Act I: From Republic to Empire: Crossing the Rubicon"
+    },
+    {
+      "startTime": 137.2,
+      "title": "Act II: The Ides of March and the Rise of Octavian"
+    },
+    {
+      "startTime": 232.8,
+      "title": "Act III: Caesar Augustus and the Pax Romana"
+    },
+    {
+      "startTime": 321.4,
+      "title": "Act IV: The Iron Highway of the Legions"
+    },
+    {
+      "startTime": 415.6,
+      "title": "Act V: Herod the Great: Master Builder and Client King"
+    },
+    {
+      "startTime": 504.2,
+      "title": "Act VI: The Rebuilding of the Second Temple"
+    },
+    {
+      "startTime": 590.9,
+      "title": "Act VII: The Census in Bethlehem: Two Kingdoms Collide"
+    },
+    {
+      "startTime": 686.2,
+      "title": "Conclusion"
+    }
+  ]
+}
