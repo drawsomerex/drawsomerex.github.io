@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.8,
+      "title": "Act I: The Book of Saxon Poetry and the Pilgrimage to Rome: 849 to 870"
+    },
+    {
+      "startTime": 146.1,
+      "title": "Act II: The Great Heathen Army and the Crown of Wessex: 871"
+    },
+    {
+      "startTime": 258.7,
+      "title": "Act III: The Twelfth Night Ambush and the Marsh of Athelney: January 878"
+    },
+    {
+      "startTime": 356.1,
+      "title": "Act IV: The Legend of the Burnt Cakes: Folklore in the Fens"
+    },
+    {
+      "startTime": 482.4,
+      "title": "Act V: The Battle of Edington and the Treaty of Wedmore: May 878"
+    },
+    {
+      "startTime": 593.3,
+      "title": "Act VI: The Burhs, the Longships, and the Common Law"
+    },
+    {
+      "startTime": 697.7,
+      "title": "Act VII: The Revival of Letters and the Legacy of the Great"
+    },
+    {
+      "startTime": 803.1,
+      "title": "Conclusion"
+    }
+  ]
+}

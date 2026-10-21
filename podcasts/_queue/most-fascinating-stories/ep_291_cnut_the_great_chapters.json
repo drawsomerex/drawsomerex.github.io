@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.4,
+      "title": "Act I: Sweyn Forkbeard and the Danegeld Terror: 995 to 1014"
+    },
+    {
+      "startTime": 149.4,
+      "title": "Act II: The Duel with Edmund Ironside and Assandun: 1015 to 1016"
+    },
+    {
+      "startTime": 261.8,
+      "title": "Act III: The Marriage with Emma of Normandy and Healing the Realm: 1017"
+    },
+    {
+      "startTime": 362.4,
+      "title": "Act IV: The Legend of the Waves: An Instructive Parable of Humility"
+    },
+    {
+      "startTime": 496.2,
+      "title": "Act V: The North Sea Empire: Denmark, Norway, and England: 1018 to 1028"
+    },
+    {
+      "startTime": 600.8,
+      "title": "Act VI: The Pilgrimage to Rome and the Alliance with the Emperor: 1027"
+    },
+    {
+      "startTime": 705.1,
+      "title": "Act VII: The Winchester Resting Place and the Fragile Empire: 1035 and Legacy"
+    },
+    {
+      "startTime": 797.9,
+      "title": "Conclusion"
+    }
+  ]
+}

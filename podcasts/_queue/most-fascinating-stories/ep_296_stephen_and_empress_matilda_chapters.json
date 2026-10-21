@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.2,
+      "title": "Act I: The Stolen Crown and the Usurpation of Stephen: December 1135"
+    },
+    {
+      "startTime": 138.1,
+      "title": "Act II: The Empress Strikes: Robert of Gloucester and the Invasion of 1139"
+    },
+    {
+      "startTime": 232.6,
+      "title": "Act III: The Battle of Lincoln and the Captive King: February 1141"
+    },
+    {
+      "startTime": 329.0,
+      "title": "Act IV: The Wrath of London and the Lady Driven Out: June 1141"
+    },
+    {
+      "startTime": 431.9,
+      "title": "Act V: The Rout of Winchester and the Exchange of Prisoners: September 1141"
+    },
+    {
+      "startTime": 524.4,
+      "title": "Act VI: The White Cloak of Oxford and Nineteen Winters of Blood: 1142 to 1152"
+    },
+    {
+      "startTime": 635.6,
+      "title": "Act VII: The Treaty of Wallingford and the Dawn of the Plantagenets: 1153 and Legacy"
+    },
+    {
+      "startTime": 745.8,
+      "title": "Conclusion"
+    }
+  ]
+}

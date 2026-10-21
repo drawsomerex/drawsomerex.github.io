@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 25.6,
+      "title": "Act I: The Bastard of Falaise: 1028 to 1047"
+    },
+    {
+      "startTime": 132.2,
+      "title": "Act II: The Oath of Harold and the Norman Armada: 1064 to 1066"
+    },
+    {
+      "startTime": 238.8,
+      "title": "Act III: The Landing at Pevensey and the March to Hastings: September 1066"
+    },
+    {
+      "startTime": 349.4,
+      "title": "Act IV: October 14, 1066: The Battle of Hastings"
+    },
+    {
+      "startTime": 467.5,
+      "title": "Act V: The Christmas Coronation and the Smoke of Westminster: 1066"
+    },
+    {
+      "startTime": 576.6,
+      "title": "Act VI: The Harrying of the North and the Stone Castles: 1069 to 1070"
+    },
+    {
+      "startTime": 687.6,
+      "title": "Act VII: The Domesday Book of 1086 and the Death of the Conqueror: 1087"
+    },
+    {
+      "startTime": 806.0,
+      "title": "Conclusion"
+    }
+  ]
+}

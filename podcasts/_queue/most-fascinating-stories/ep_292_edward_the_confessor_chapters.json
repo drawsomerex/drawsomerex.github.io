@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 27.6,
+      "title": "Act I: The Norman Exile and the Lost Prince: 1003 to 1041"
+    },
+    {
+      "startTime": 133.8,
+      "title": "Act II: The Crown Restored and the Shadow of Godwin: 1042 to 1051"
+    },
+    {
+      "startTime": 248.3,
+      "title": "Act III: The Crisis of Dover and the Exiles of 1051"
+    },
+    {
+      "startTime": 345.9,
+      "title": "Act IV: The Norman Promise and the Return of Godwin: 1051 to 1053"
+    },
+    {
+      "startTime": 449.0,
+      "title": "Act V: The Building of Westminster Abbey: 1052 to 1065"
+    },
+    {
+      "startTime": 552.1,
+      "title": "Act VI: The Rise of Harold Godwinson and the Consecration of 1065"
+    },
+    {
+      "startTime": 649.4,
+      "title": "Act VII: The Deathbed of January 5, 1066, and the Gathering Storm"
+    },
+    {
+      "startTime": 767.2,
+      "title": "Conclusion"
+    }
+  ]
+}

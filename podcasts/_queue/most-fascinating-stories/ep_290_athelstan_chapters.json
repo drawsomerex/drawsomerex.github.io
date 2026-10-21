@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 25.1,
+      "title": "Act I: The Golden Boy of Wessex and the Mercian Court: 894 to 924"
+    },
+    {
+      "startTime": 133.4,
+      "title": "Act II: The Crown of Kingston and the Fall of York: 924 to 927"
+    },
+    {
+      "startTime": 238.8,
+      "title": "Act III: The Summit of Eamont: Rex Anglorum: July 927"
+    },
+    {
+      "startTime": 341.6,
+      "title": "Act IV: The Royal Lawgiver and the Diplomatic Sovereign"
+    },
+    {
+      "startTime": 456.3,
+      "title": "Act V: The Gathering Storm: The Triple Coalition of 937"
+    },
+    {
+      "startTime": 562.9,
+      "title": "Act VI: The Epic of Brunanburh: The Blood-Drenched Day"
+    },
+    {
+      "startTime": 671.3,
+      "title": "Act VII: The Malmesbury Tomb and the Birth of a Nation: 939 and Legacy"
+    },
+    {
+      "startTime": 765.0,
+      "title": "Conclusion"
+    }
+  ]
+}
