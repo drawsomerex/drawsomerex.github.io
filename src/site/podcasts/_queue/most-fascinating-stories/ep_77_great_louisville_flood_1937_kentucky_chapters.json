@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.2,
+      "title": "Act I: Thirty Days of Freezing Rain"
+    },
+    {
+      "startTime": 162.9,
+      "title": "Act II: The Deluge Swallows the City"
+    },
+    {
+      "startTime": 263.3,
+      "title": "Act III: Darkness and the Canal City"
+    },
+    {
+      "startTime": 370.4,
+      "title": "Act IV: The Armada of Mercy"
+    },
+    {
+      "startTime": 467.7,
+      "title": "Act V: The Fire Upon the Water"
+    },
+    {
+      "startTime": 567.6,
+      "title": "Act VI: The World's Highest Standard of Living"
+    },
+    {
+      "startTime": 671.9,
+      "title": "Act VII: The Concrete Wall and Rebirth"
+    },
+    {
+      "startTime": 784.3,
+      "title": "Conclusion"
+    }
+  ]
+}
