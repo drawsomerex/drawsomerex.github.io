@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 25.1,
+      "title": "Act I: The 1848 Revolutions and the Ascendance of Young Franz Joseph"
+    },
+    {
+      "startTime": 130.2,
+      "title": "Act II: The Ringstrasse: Vienna's Golden Age of Architecture"
+    },
+    {
+      "startTime": 227.3,
+      "title": "Act III: Empress Elisabeth: The Tragic Beauty of Sisi"
+    },
+    {
+      "startTime": 328.9,
+      "title": "Act IV: The Austro-Hungarian Compromise of 1867: The Dual Monarchy"
+    },
+    {
+      "startTime": 429.9,
+      "title": "Act V: The Waltz King and the Intellectual Ferment of Vienna"
+    },
+    {
+      "startTime": 520.3,
+      "title": "Act VI: The Mayerling Tragedy: The Shattered Succession"
+    },
+    {
+      "startTime": 614.2,
+      "title": "Act VII: The Fatal Shot at Sarajevo and the Sunset of the Habsburgs"
+    },
+    {
+      "startTime": 717.2,
+      "title": "Conclusion"
+    }
+  ]
+}
