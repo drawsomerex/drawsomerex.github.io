@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 34.7,
+      "title": "Act I: The Sheriff of Erie County"
+    },
+    {
+      "startTime": 164.1,
+      "title": "Act II: The Meteoric Rise of 'Grover the Good'"
+    },
+    {
+      "startTime": 272.2,
+      "title": "Act III: The Scandal of Maria Halpin and 'Tell the Truth'"
+    },
+    {
+      "startTime": 378.0,
+      "title": "Act IV: Rum, Romanism, and Rebellion"
+    },
+    {
+      "startTime": 468.2,
+      "title": "Act V: The Great Veto Machine"
+    },
+    {
+      "startTime": 566.5,
+      "title": "Act VI: The Texas Seed Bill of 1887"
+    },
+    {
+      "startTime": 670.6,
+      "title": "Act VII: The Immovable Rock of the Executive"
+    },
+    {
+      "startTime": 752.8,
+      "title": "Conclusion"
+    }
+  ]
+}
