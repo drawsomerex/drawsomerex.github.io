@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 69.8,
+      "title": "Act I: The Crucible of the Florida Frontier"
+    },
+    {
+      "startTime": 195.2,
+      "title": "Act II: The Knife in the Treaty"
+    },
+    {
+      "startTime": 297.6,
+      "title": "Act III: The Dade Massacre and the Outbreak of War"
+    },
+    {
+      "startTime": 396.2,
+      "title": "Act IV: The Guerilla War in the Everglades"
+    },
+    {
+      "startTime": 501.1,
+      "title": "Act V: The Treachery of the White Flag"
+    },
+    {
+      "startTime": 600.7,
+      "title": "Act VI: Captivity and Martyrdom"
+    },
+    {
+      "startTime": 706.9,
+      "title": "Act VII: The Legacy of the Unconquered"
+    },
+    {
+      "startTime": 816.8,
+      "title": "Conclusion"
+    }
+  ]
+}

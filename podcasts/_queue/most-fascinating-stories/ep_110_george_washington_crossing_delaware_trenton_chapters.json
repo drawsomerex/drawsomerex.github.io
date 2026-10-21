@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 58.2,
+      "title": "Act I: The Darkest Hour of the Revolution"
+    },
+    {
+      "startTime": 177.2,
+      "title": "Act II: 'Victory or Death': The Audacious Plan"
+    },
+    {
+      "startTime": 281.1,
+      "title": "Act III: John Glover and the Marblehead Mariners"
+    },
+    {
+      "startTime": 385.4,
+      "title": "Act IV: The Nine-Mile Midnight March"
+    },
+    {
+      "startTime": 492.5,
+      "title": "Act V: The Dawn Attack on Trenton"
+    },
+    {
+      "startTime": 590.0,
+      "title": "Act VI: The Surrender of the Hessians"
+    },
+    {
+      "startTime": 690.5,
+      "title": "Act VII: The Resurrection of American Liberty"
+    },
+    {
+      "startTime": 789.3,
+      "title": "Conclusion"
+    }
+  ]
+}
