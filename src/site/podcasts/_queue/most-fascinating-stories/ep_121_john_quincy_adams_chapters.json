@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 42.9,
+      "title": "Act I: Blood on the High Seas"
+    },
+    {
+      "startTime": 158.4,
+      "title": "Act II: Deception and the Ghost Ship"
+    },
+    {
+      "startTime": 262.5,
+      "title": "Act III: The Unholy Alliance of Washington and Madrid"
+    },
+    {
+      "startTime": 354.6,
+      "title": "Act IV: The Abolitionist Committee and the Translation Miracle"
+    },
+    {
+      "startTime": 476.3,
+      "title": "Act V: The Summons to Old Man Eloquent"
+    },
+    {
+      "startTime": 588.8,
+      "title": "Act VI: The Supreme Court Oration"
+    },
+    {
+      "startTime": 700.7,
+      "title": "Act VII: The Verdict of Freedom"
+    },
+    {
+      "startTime": 804.2,
+      "title": "Conclusion"
+    }
+  ]
+}
