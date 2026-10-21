@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 24.6,
+      "title": "Act I: The Stolen Red Schwinn and the Rome Gold: 1942 to 1960"
+    },
+    {
+      "startTime": 137.8,
+      "title": "Act II: The Louisville Lip and Dethroning Sonny Liston: 1960 to 1964"
+    },
+    {
+      "startTime": 250.9,
+      "title": "Act III: Muhammad Ali and the Vietnam Crucible: 1964 to 1967"
+    },
+    {
+      "startTime": 368.8,
+      "title": "Act IV: The Wilderness Years and the Supreme Court Vindication: 1967 to 1971"
+    },
+    {
+      "startTime": 483.0,
+      "title": "Act V: The Fight of the Century and the Frazier Rivalry: 1971 to 1974"
+    },
+    {
+      "startTime": 584.9,
+      "title": "Act VI: The Rumble in the Jungle: Kinshasa 1974"
+    },
+    {
+      "startTime": 697.0,
+      "title": "Act VII: The Thrilla in Manila, Parkinson's, and the Eternal Champion"
+    },
+    {
+      "startTime": 813.3,
+      "title": "Conclusion"
+    }
+  ]
+}
