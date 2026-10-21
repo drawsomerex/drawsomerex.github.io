@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.8,
+      "title": "Act I: The Barefoot Boy from Abilene"
+    },
+    {
+      "startTime": 133.3,
+      "title": "Act II: The Apprenticeship of a Modern Soldier"
+    },
+    {
+      "startTime": 231.5,
+      "title": "Act III: The Meteoric Rise and Operation Torch: 1941\u20131942"
+    },
+    {
+      "startTime": 333.3,
+      "title": "Act IV: Supreme Commander of the Allied Coalition"
+    },
+    {
+      "startTime": 424.3,
+      "title": "Act V: The Great Gamble: June 5, 1944"
+    },
+    {
+      "startTime": 534.5,
+      "title": "Act VI: The Bloody Beaches and the Solitary Draft"
+    },
+    {
+      "startTime": 624.3,
+      "title": "Act VII: The Liberation of Europe and the Crusade in Europe"
+    },
+    {
+      "startTime": 723.4,
+      "title": "Conclusion"
+    }
+  ]
+}
