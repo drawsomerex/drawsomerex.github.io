@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.0,
+      "title": "Act I: 'The Moon, the Stars, and All the Planets'"
+    },
+    {
+      "startTime": 132.5,
+      "title": "Act II: The Haberdasher of Independence"
+    },
+    {
+      "startTime": 239.5,
+      "title": "Act III: The Revelation of the Atomic Secret"
+    },
+    {
+      "startTime": 328.2,
+      "title": "Act IV: The Potsdam Conference and the Trinity Test"
+    },
+    {
+      "startTime": 418.5,
+      "title": "Act V: The Agonizing Calculation of Operation Downfall"
+    },
+    {
+      "startTime": 512.8,
+      "title": "Act VI: Hiroshima, Nagasaki, and the Emperor's Surrender"
+    },
+    {
+      "startTime": 613.8,
+      "title": "Act VII: 'The Buck Stops Here' and the Verdict of History"
+    },
+    {
+      "startTime": 683.9,
+      "title": "Conclusion"
+    }
+  ]
+}

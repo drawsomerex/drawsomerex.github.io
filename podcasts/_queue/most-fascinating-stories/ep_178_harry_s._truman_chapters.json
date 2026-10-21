@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 33.4,
+      "title": "Act I: The Cold War and the Truman Doctrine: 1947\u20131948"
+    },
+    {
+      "startTime": 151.9,
+      "title": "Act II: Civil Rights and the Divided Democratic Party"
+    },
+    {
+      "startTime": 254.8,
+      "title": "Act III: The Whistle-Stop Campaign of 1948"
+    },
+    {
+      "startTime": 344.3,
+      "title": "Act IV: 'Dewey Defeats Truman': The Election Miracle"
+    },
+    {
+      "startTime": 433.7,
+      "title": "Act V: The Korean Invasion and the Inchon Miracle: 1950"
+    },
+    {
+      "startTime": 522.3,
+      "title": "Act VI: The Chinese Intervention and Firing MacArthur: 1951"
+    },
+    {
+      "startTime": 630.7,
+      "title": "Act VII: The Heritage of Give 'Em Hell Harry"
+    },
+    {
+      "startTime": 717.1,
+      "title": "Conclusion"
+    }
+  ]
+}
