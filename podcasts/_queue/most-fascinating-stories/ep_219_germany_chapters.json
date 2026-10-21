@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.9,
+      "title": "Act I: The Mad Junker: The Youth of Bismarck"
+    },
+    {
+      "startTime": 133.5,
+      "title": "Act II: 'Blood and Iron': The Speech of 1862"
+    },
+    {
+      "startTime": 238.4,
+      "title": "Act III: The Art of Realpolitik"
+    },
+    {
+      "startTime": 332.9,
+      "title": "Act IV: The Seven Weeks' War: Sadowa 1866"
+    },
+    {
+      "startTime": 441.4,
+      "title": "Act V: The Ems Dispatch and the Franco-Prussian War"
+    },
+    {
+      "startTime": 548.5,
+      "title": "Act VI: The Coronation at Versailles: January 18, 1871"
+    },
+    {
+      "startTime": 649.8,
+      "title": "Act VII: The Web of Alliances and the Dropping of the Pilot"
+    },
+    {
+      "startTime": 771.2,
+      "title": "Conclusion"
+    }
+  ]
+}

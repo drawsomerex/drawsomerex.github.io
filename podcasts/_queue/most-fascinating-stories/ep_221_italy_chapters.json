@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 31.5,
+      "title": "Act I: 'A Geographical Expression': Fractured Italy"
+    },
+    {
+      "startTime": 132.1,
+      "title": "Act II: The Prophet and the Politician: Mazzini and Cavour"
+    },
+    {
+      "startTime": 235.5,
+      "title": "Act III: The Hero of Two Worlds: Giuseppe Garibaldi"
+    },
+    {
+      "startTime": 334.4,
+      "title": "Act IV: The Expedition of the Thousand: Sicily 1860"
+    },
+    {
+      "startTime": 439.6,
+      "title": "Act V: The Capture of Palermo and the March on Naples"
+    },
+    {
+      "startTime": 540.8,
+      "title": "Act VI: The Meeting at Teano: The Gift of a Kingdom"
+    },
+    {
+      "startTime": 654.3,
+      "title": "Act VII: The Proclamation of Rome: Capital of Italy: 1870"
+    },
+    {
+      "startTime": 760.9,
+      "title": "Conclusion"
+    }
+  ]
+}

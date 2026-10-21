@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.7,
+      "title": "Act I: The Rebirth in Florence: The Cradle of the Renaissance"
+    },
+    {
+      "startTime": 129.6,
+      "title": "Act II: The Godfathers of the Renaissance: The Medici"
+    },
+    {
+      "startTime": 229.1,
+      "title": "Act III: The Universal Genius: Leonardo da Vinci"
+    },
+    {
+      "startTime": 327.5,
+      "title": "Act IV: The Mystery of the Mona Lisa and The Last Supper"
+    },
+    {
+      "startTime": 426.7,
+      "title": "Act V: The Titan of Carrara: Michelangelo Buonarroti"
+    },
+    {
+      "startTime": 528.8,
+      "title": "Act VI: The Giant of Florence: The David"
+    },
+    {
+      "startTime": 622.3,
+      "title": "Act VII: Four Years on the Scaffold: The Sistine Chapel"
+    },
+    {
+      "startTime": 728.2,
+      "title": "Conclusion"
+    }
+  ]
+}
