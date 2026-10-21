@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.9,
+      "title": "Act I: 'That Damned Cowboy'"
+    },
+    {
+      "startTime": 139.2,
+      "title": "Act II: The Great Trust-Busting Shockwave"
+    },
+    {
+      "startTime": 242.3,
+      "title": "Act III: The Anthracite Coal Crisis of 1902"
+    },
+    {
+      "startTime": 344.4,
+      "title": "Act IV: Breaking Precedent at the White House"
+    },
+    {
+      "startTime": 433.8,
+      "title": "Act V: The Secret Plan to Seize the Mines"
+    },
+    {
+      "startTime": 531.1,
+      "title": "Act VI: The Birth of the Square Deal"
+    },
+    {
+      "startTime": 615.6,
+      "title": "Act VII: The Verdict of the Supreme Court"
+    },
+    {
+      "startTime": 701.5,
+      "title": "Conclusion"
+    }
+  ]
+}
