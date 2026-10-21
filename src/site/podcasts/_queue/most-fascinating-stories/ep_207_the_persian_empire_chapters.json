@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 24.5,
+      "title": "Act I: The Opulent Feast of King Xerxes"
+    },
+    {
+      "startTime": 125.5,
+      "title": "Act II: Hadassah at the Citadel: The Secret Queen"
+    },
+    {
+      "startTime": 214.7,
+      "title": "Act III: Mordecai at the King's Gate"
+    },
+    {
+      "startTime": 303.5,
+      "title": "Act IV: The Casting of Purim and the Royal Decree"
+    },
+    {
+      "startTime": 395.1,
+      "title": "Act V: 'For Such a Time as This'"
+    },
+    {
+      "startTime": 479.0,
+      "title": "Act VI: The Scepter Extended and the Sleepless Night"
+    },
+    {
+      "startTime": 568.4,
+      "title": "Act VII: The Gallows of Haman and the Feast of Purim"
+    },
+    {
+      "startTime": 664.0,
+      "title": "Conclusion"
+    }
+  ]
+}
