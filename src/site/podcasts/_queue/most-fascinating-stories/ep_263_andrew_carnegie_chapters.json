@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 28.3,
+      "title": "Act I: The Weaver's Cottage in Dunfermline: 1835 to 1848"
+    },
+    {
+      "startTime": 130.4,
+      "title": "Act II: The Iron Highway of the Pennsylvania Railroad: 1853 to 1865"
+    },
+    {
+      "startTime": 231.2,
+      "title": "Act III: The Bessemer Converter and the Smoky City: 1872 to 1889"
+    },
+    {
+      "startTime": 334.8,
+      "title": "Act IV: The Tragedy of Homestead: July 1892"
+    },
+    {
+      "startTime": 432.0,
+      "title": "Act V: Selling to J.P. Morgan: The Creation of U.S. Steel: 1901"
+    },
+    {
+      "startTime": 540.4,
+      "title": "Act VI: The Gospel of Wealth: Three Thousand Libraries: 1901 to 1914"
+    },
+    {
+      "startTime": 637.5,
+      "title": "Act VII: The Peace Palace and the Dream of an End to War"
+    },
+    {
+      "startTime": 727.9,
+      "title": "Conclusion"
+    }
+  ]
+}
