@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.9,
+      "title": "Act I: The Spark of 66 AD: The Great Revolt"
+    },
+    {
+      "startTime": 121.6,
+      "title": "Act II: Vespasian and the Subjugation of Galilee"
+    },
+    {
+      "startTime": 209.6,
+      "title": "Act III: The Suffocating Siege of Jerusalem: 70 AD"
+    },
+    {
+      "startTime": 298.9,
+      "title": "Act IV: Famine, Crosses, and the Breached Walls"
+    },
+    {
+      "startTime": 377.2,
+      "title": "Act V: August 70 AD: The Burning of the Sanctuary"
+    },
+    {
+      "startTime": 476.7,
+      "title": "Act VI: The Last Stand on the Rock of Masada"
+    },
+    {
+      "startTime": 578.6,
+      "title": "Act VII: The Arch of Titus and the Stone Mountain"
+    },
+    {
+      "startTime": 670.6,
+      "title": "Conclusion"
+    }
+  ]
+}
