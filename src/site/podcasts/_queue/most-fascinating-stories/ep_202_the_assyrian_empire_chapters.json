@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30.3,
+      "title": "Act I: The Crucible of Ashur: A Warrior Culture"
+    },
+    {
+      "startTime": 134.7,
+      "title": "Act II: Tiglath-Pileser III and the First Professional Army"
+    },
+    {
+      "startTime": 233.0,
+      "title": "Act III: The Science of Siege Warfare and Terror"
+    },
+    {
+      "startTime": 330.1,
+      "title": "Act IV: The Northern Kingdom in the Crosshairs"
+    },
+    {
+      "startTime": 424.7,
+      "title": "Act V: The Fall of Samaria: 722 BC"
+    },
+    {
+      "startTime": 521.0,
+      "title": "Act VI: The Lost Ten Tribes and Mass Deportation"
+    },
+    {
+      "startTime": 614.2,
+      "title": "Act VII: The Inscription of the Caged Bird"
+    },
+    {
+      "startTime": 711.7,
+      "title": "Conclusion"
+    }
+  ]
+}
