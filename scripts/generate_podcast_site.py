@@ -147,6 +147,10 @@ def generate_site():
     feed_url = "https://drawsomerex.github.io/podcasts/most-fascinating-stories/feed.xml"
     cover_url = "cover.jpg"
 
+    guid_el = channel.find("podcast:guid", ns)
+    podcast_guid = guid_el.text if guid_el is not None else "9c5d0f36-0b65-4a0e-cba4-5f4062ef3303"
+    podcast_index_url = f"https://podcastindex.org/podcast/{podcast_guid}"
+
     items = channel.findall("item")
     episodes_data = []
 
@@ -813,7 +817,7 @@ def generate_site():
           <div class="hero-badge-row">
             <span class="badge">History Documentary</span>
             <span class="badge">Tuesdays & Thursdays • 10 AM CT</span>
-            <span class="badge">100% Free & Open</span>
+            <span class="badge">Podcast 2.0 Certified</span>
           </div>
           <h1 class="hero-title">{html.escape(show_title)}</h1>
           <p class="hero-subtitle">Hosted by Rebecca • Narrative Production by Autonomous Media Lab</p>
@@ -826,11 +830,9 @@ def generate_site():
             <button type="button" class="btn btn-secondary" onclick="copyFeedUrl()">
               📋 Copy RSS Link
             </button>
-            <a href="https://podcasts.apple.com" class="btn btn-secondary" target="_blank" rel="noopener">
-              Apple Podcasts
-            </a>
-            <a href="https://pocketcasts.com" class="btn btn-secondary" target="_blank" rel="noopener">
-              Pocket Casts
+            <a href="{podcast_index_url}" class="btn btn-secondary" target="_blank" rel="noopener">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14.5v-9l6 4.5-6 4.5z"/></svg>
+              Podcast Index 2.0
             </a>
           </div>
         </div>
@@ -857,7 +859,7 @@ def generate_site():
       <p><strong>Most Fascinating Stories</strong> is an autonomous history podcast published twice weekly on Tuesdays and Thursdays at 10:00 AM Central.</p>
       <p>Master audio hosted on Cloudflare R2 • Metadata & RSS statically distributed via GitHub Pages.</p>
       <p style="margin-top: 8px;">Content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution 4.0 International (CC-BY-4.0)</a>.</p>
-      <p style="margin-top: 4px;"><a href="{feed_url}">Raw RSS Feed XML</a> • <a href="https://github.com/drawsomerex/drawsomerex.github.io" target="_blank" rel="noopener">GitHub Repository</a></p>
+      <p style="margin-top: 4px;"><a href="{feed_url}">Raw RSS Feed XML</a> • <a href="{podcast_index_url}" target="_blank" rel="noopener">Podcast Index Listing</a> • <a href="https://github.com/drawsomerex/drawsomerex.github.io" target="_blank" rel="noopener">GitHub Repository</a></p>
     </footer>
   </main>
 
