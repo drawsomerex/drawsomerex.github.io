@@ -206,6 +206,15 @@ def process_queue():
                 f.write("\n".join(cleaned_lines) + "\n")
             print(f"Updated {feed_path} successfully!")
 
+            # Regenerate static website
+            if show_slug == "most-fascinating-stories":
+                try:
+                    sys.path.insert(0, os.path.dirname(__file__))
+                    from generate_podcast_site import generate_site
+                    generate_site()
+                except Exception as e:
+                    print(f"Notice: Could not regenerate static website: {e}")
+
     print(f"\nDone. Published {published_count} episode(s).")
     return published_any
 
