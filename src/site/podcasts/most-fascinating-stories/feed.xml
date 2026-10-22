@@ -25,7 +25,7 @@
     <podcast:license>CC-BY-4.0</podcast:license>
     <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
     <item>
-      <title>Episode 6: Caesar and the Pirates Who Underpriced Him</title>
+      <title>Episode 4: Caesar and the Pirates Who Underpriced Him</title>
       <guid isPermaLink="false">101bfbbd-58e2-43a7-ac85-d392cd058608</guid>
       <pubDate>Thu, 22 Oct 2026 15:00:00 +0000</pubDate>
       <description>In 75 BC, twenty-five-year-old Julius Caesar was captured in the Aegean Sea by Cilician pirates. Insulted by their modest twenty-talent ransom demand, Caesar demanded they more than double it to fifty talents, treated his captors as his personal servants, and promised to return and crucify every one of them—a promise he ruthlessly kept.
@@ -72,7 +72,7 @@ Caesar's capture at Pharmacusa reveals the unshakeable audacity that would defin
 </description>
       <enclosure url="https://pub-f97b46c0739c43598234830bfe564775.r2.dev/most-fascinating-stories/ep_06_caesar_pirates.mp3" length="14762548" type="audio/mpeg"/>
       <itunes:duration>611</itunes:duration>
-      <itunes:episode>6</itunes:episode>
+      <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>no</itunes:explicit>
       <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
