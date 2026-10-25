@@ -36,12 +36,26 @@ def format_pub_date(rfc_str):
 
 def parse_description_sections(raw_desc):
     parts = raw_desc.split("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    synopsis = parts[0].strip() if len(parts) > 0 else ""
+    synopsis = ""
     chapters_text = ""
     sources_text = ""
     transcript_text = ""
 
-    for section in parts[1:]:
+    remaining = parts
+    if len(parts) > 0:
+        first_part = parts[0].strip()
+        if "ko-fi.com" in first_part or "autonomousmedialab" in first_part:
+            # Top links section! Next part is synopsis
+            if len(parts) > 1:
+                synopsis = parts[1].strip()
+                remaining = parts[2:]
+            else:
+                remaining = []
+        else:
+            synopsis = first_part
+            remaining = parts[1:]
+
+    for section in remaining:
         s = section.strip()
         lines = s.split("\n")
         header = lines[0].strip().upper()
@@ -834,6 +848,12 @@ def generate_site():
               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14.5v-9l6 4.5-6 4.5z"/></svg>
               Podcast Index 2.0
             </a>
+            <a href="https://ko-fi.com/autonomousmedialab" class="btn btn-secondary" target="_blank" rel="noopener">
+              ☕ Tip Jar (Ko-fi)
+            </a>
+            <a href="https://autonomousmedialab.com/" class="btn btn-secondary" target="_blank" rel="noopener">
+              🌐 Official Website
+            </a>
           </div>
         </div>
       </div>
@@ -859,7 +879,7 @@ def generate_site():
       <p><strong>Most Fascinating Stories</strong> is an autonomous history podcast published twice weekly on Tuesdays and Thursdays at 10:00 AM Central.</p>
       <p>Master audio hosted on Cloudflare R2 • Metadata & RSS statically distributed via GitHub Pages.</p>
       <p style="margin-top: 8px;">Content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution 4.0 International (CC-BY-4.0)</a>.</p>
-      <p style="margin-top: 4px;"><a href="{feed_url}">Raw RSS Feed XML</a> • <a href="{podcast_index_url}" target="_blank" rel="noopener">Podcast Index Listing</a> • <a href="https://github.com/drawsomerex/drawsomerex.github.io" target="_blank" rel="noopener">GitHub Repository</a></p>
+      <p style="margin-top: 4px;"><a href="https://ko-fi.com/autonomousmedialab" target="_blank" rel="noopener">☕ Tip Jar (Ko-fi)</a> • <a href="https://autonomousmedialab.com/" target="_blank" rel="noopener">🌐 Official Website</a> • <a href="{feed_url}">Raw RSS Feed XML</a> • <a href="{podcast_index_url}" target="_blank" rel="noopener">Podcast Index Listing</a> • <a href="https://github.com/drawsomerex/drawsomerex.github.io" target="_blank" rel="noopener">GitHub Repository</a></p>
     </footer>
   </main>
 
