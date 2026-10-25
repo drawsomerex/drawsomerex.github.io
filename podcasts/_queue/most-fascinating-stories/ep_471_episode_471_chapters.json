@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 76.2,
+      "title": "Act I: The Gathering Storm: Context, Origins, and Rising Pressure"
+    },
+    {
+      "startTime": 197.2,
+      "title": "Act II: The Crucible: Protagonists, Principles, and Rising Stakes"
+    },
+    {
+      "startTime": 310.0,
+      "title": "Act III: The Point of No Return: The Die Is Cast"
+    },
+    {
+      "startTime": 409.1,
+      "title": "Act IV: The Climax: The Hour of Supreme Trial"
+    },
+    {
+      "startTime": 512.9,
+      "title": "Act V: The Sacrifices of Victory and the Cost of Survival"
+    },
+    {
+      "startTime": 597.4,
+      "title": "Act VI: The Verdict of History and the Living Heritage"
+    },
+    {
+      "startTime": 678.9,
+      "title": "Conclusion"
+    }
+  ]
+}
