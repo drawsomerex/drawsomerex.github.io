@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 56.4,
+      "title": "Act I: The Scourge of God at the Gates of Italy: 452 AD"
+    },
+    {
+      "startTime": 192.1,
+      "title": "Act II: The Panic of Emperors and the Cowardice of the Legions"
+    },
+    {
+      "startTime": 305.7,
+      "title": "Act III: The Bishop Who Stood in the Breach: Pope Leo I"
+    },
+    {
+      "startTime": 417.1,
+      "title": "Act IV: The Gathering at the Mincio River"
+    },
+    {
+      "startTime": 538.3,
+      "title": "Act V: The Moral Duel in the Barbarian Camp"
+    },
+    {
+      "startTime": 664.7,
+      "title": "Act VI: The Legend of the Two Apostles"
+    },
+    {
+      "startTime": 751.6,
+      "title": "Act VII: The Retreat and the Sunset of the Huns"
+    },
+    {
+      "startTime": 827.6,
+      "title": "Conclusion"
+    }
+  ]
+}

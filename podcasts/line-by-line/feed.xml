@@ -7,7 +7,7 @@
     <description>A Scripture &amp; Exegesis Podcast searching God's Word verse by verse. Rooted in the historic, conservative Reformed tradition, each episode pairs historical-covenantal context with warm, pastoral, line-by-line exegesis drawing from classic commentaries including John Calvin, Matthew Henry, Jamieson-Fausset-Brown, and Charles Spurgeon.</description>
     <language>en-us</language>
     <copyright>Creative Commons Attribution 4.0 International (CC-BY-4.0)</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 12:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:48:31 +0000</lastBuildDate>
     <image>
       <url>https://drawsomerex.github.io/podcasts/line-by-line/cover.jpg</url>
       <title>Line by Line</title>
@@ -29,6 +29,36 @@
     <podcast:locked owner="broadcast@synthetic.media">no</podcast:locked>
     <podcast:license>CC-BY-4.0</podcast:license>
     <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+    <item>
+      <title>Matthew 26:36-46: Jesus in the Garden of Gethsemane</title>
+      <guid isPermaLink="false">019b7ea5-4581-4e26-86a5-565fc45d362d</guid>
+      <pubDate>Sat, 24 Oct 2026 20:48:31 +0000</pubDate>
+      <description>In the fourth episode of Line by Line, host Rebecca establishes the covenantal and historical setting of our Lord's agony in Gethsemane from a conservative Reformed perspective, quoting the Berean Standard Bible. Then, George delivers a line-by-line exposition of Matthew 26:36-46, drawing from John Calvin, Matthew Henry, and Jamieson-Fausset-Brown to unpack the olive press, the cup of wrath, the sleeping disciples, and the Saviour's perfect submission to the Father's will, culminating in the comfort of Christ's finished work for His people.</description>
+      <enclosure url="https://archive.org/download/line-by-line-podcast/ep_04_matthew_26_36_46.mp3" length="17277535" type="audio/mpeg"/>
+      <itunes:duration>720</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://drawsomerex.github.io/podcasts/line-by-line/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+      <podcast:chapters url="https://drawsomerex.github.io/podcasts/line-by-line/ep_04_matthew_26_36_46_chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://drawsomerex.github.io/podcasts/line-by-line/ep_04_matthew_26_36_46.vtt" type="text/vtt" language="en-us"/>
+    </item>
+    <item>
+      <title>James 5:12: Let Your Yes Be Yes</title>
+      <guid isPermaLink="false">f84f6b72-48be-40ad-9f80-793f4861d7f0</guid>
+      <pubDate>Sat, 24 Oct 2026 20:19:06 +0000</pubDate>
+      <description>In the third episode of Line by Line, host Rebecca sets the historical and covenantal context of James's epistle to the twelve tribes scattered abroad, highlighting the call to patient endurance under trial. Then, George delivers a line-by-line exposition of James 5:12, drawing from John Calvin, Matthew Henry, and Jamieson-Fausset-Brown to expose the folly of evasive oaths, the sanctity of God's name, the Reformed distinction of lawful oaths, and the remedy of truthful speech, culminating in Christ the faithful and true Witness.</description>
+      <enclosure url="https://archive.org/download/line-by-line-podcast/ep_03_james_5_12.mp3" length="20375985" type="audio/mpeg"/>
+      <itunes:duration>849</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://drawsomerex.github.io/podcasts/line-by-line/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
+      <podcast:chapters url="https://drawsomerex.github.io/podcasts/line-by-line/ep_03_james_5_12_chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://drawsomerex.github.io/podcasts/line-by-line/ep_03_james_5_12.vtt" type="text/vtt" language="en-us"/>
+    </item>
     <item>
       <title>Psalm 1: The Two Ways and the Planted Tree</title>
       <guid isPermaLink="false">10bc77c8-22fd-4edc-881b-71a605c88e07</guid>
