@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 45.6,
+      "title": "Act I: The Thunderclap of Chalcedon: 451 AD"
+    },
+    {
+      "startTime": 156.1,
+      "title": "Act II: The Murder of the Last Legions: 454 to 455 AD"
+    },
+    {
+      "startTime": 244.8,
+      "title": "Act III: The Message to Carthage: An Empress's Revenge"
+    },
+    {
+      "startTime": 345.6,
+      "title": "Act IV: The Panic at the Tiber and the Murder of the Usurper"
+    },
+    {
+      "startTime": 421.7,
+      "title": "Act V: The Meeting at the Porta Portese"
+    },
+    {
+      "startTime": 529.0,
+      "title": "Act VI: Fourteen Days of Plunder: The Stripping of Rome"
+    },
+    {
+      "startTime": 634.1,
+      "title": "Act VII: The Shepherd Among the Smoldering Ruins"
+    },
+    {
+      "startTime": 724.0,
+      "title": "Conclusion"
+    }
+  ]
+}
