@@ -1,0 +1,41 @@
+name: Refresh Autonomous Media Lab after publishing
+
+on:
+  workflow_run:
+    workflows: [GitHub Pages, Scheduled Podcast Publisher]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: autonomous-media-lab-publication
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_repository.full_name == github.repository &&
+       github.event.workflow_run.event != 'pull_request')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+          persist-credentials: false
+          sparse-checkout: |
+            scripts/refresh_media_lab.py
+            tests/test_refresh_media_lab.py
+            src/site/podcasts/most-fascinating-stories/feed.xml
+          sparse-checkout-cone-mode: false
+      - name: Verify publication checks
+        run: python3 -m unittest discover -s tests -p test_refresh_media_lab.py -v
+      - name: Wait for public feed and refresh the lab
+        env:
+          AML_UPDATE_SECRET: ${{ secrets.AML_UPDATE_SECRET }}
+        run: python3 scripts/refresh_media_lab.py
