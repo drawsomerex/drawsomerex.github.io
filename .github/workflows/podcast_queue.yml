@@ -2,10 +2,10 @@ name: Scheduled Podcast Publisher
 
 on:
   schedule:
-    # 15:00 UTC corresponds to 10:00 AM US Central Time
-    - cron: '0 15 * * *'
-    # Hourly check to catch any scheduled drops
-    - cron: '0 * * * *'
+    # 15:02 UTC corresponds to 10:02 AM US Central Time (offset to avoid top-of-hour congestion)
+    - cron: '2 15 * * *'
+    # Regular 15-minute fallback checks
+    - cron: '2,17,32,47 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
         run: |
           python3 scripts/process_podcast_queue.py
 
-      - name: Commit & Push Changes
+      - name: Commit & Push Changes to Main
         if: env.EPISODES_PUBLISHED == 'true'
         run: |
           git config user.name "Autonomous Podcast Publisher"
@@ -33,3 +33,23 @@ jobs:
           git add src/site/podcasts/
           git commit -m "Publish scheduled podcast episodes"
           git push origin main
+
+      - name: Setup Node for Pages Build
+        if: env.EPISODES_PUBLISHED == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Build Static Site
+        if: env.EPISODES_PUBLISHED == 'true'
+        run: |
+          npm ci
+          npm run build --if-present
+
+      - name: Deploy to GitHub Pages
+        if: env.EPISODES_PUBLISHED == 'true'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
