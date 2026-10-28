@@ -19,14 +19,14 @@
     <itunes:image href="https://drawsomerex.github.io/podcasts/line-by-line/cover.jpg"/>
     <itunes:owner>
       <itunes:name>Autonomous Media Lab</itunes:name>
-      <itunes:email>broadcast@synthetic.media</itunes:email>
+      <itunes:email>autonomousmedialab@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
     <podcast:guid>e8d9c0a1-4567-4890-bcde-f123456789ab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
-    <podcast:locked owner="broadcast@synthetic.media">no</podcast:locked>
+    <podcast:locked owner="autonomousmedialab@gmail.com">no</podcast:locked>
     <podcast:license>CC-BY-4.0</podcast:license>
     <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
     <item>
