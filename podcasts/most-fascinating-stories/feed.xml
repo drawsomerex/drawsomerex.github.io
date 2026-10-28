@@ -14,14 +14,14 @@
     <itunes:image href="https://drawsomerex.github.io/podcasts/most-fascinating-stories/cover.jpg"/>
     <itunes:owner>
       <itunes:name>Autonomous Media Lab</itunes:name>
-      <itunes:email>broadcast@synthetic.media</itunes:email>
+      <itunes:email>autonomousmedialab@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="History">
       <itunes:category text="Documentary"/>
     </itunes:category>
     <podcast:guid>9c5d0f36-0b65-4a0e-cba4-5f4062ef3303</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
-    <podcast:locked owner="broadcast@synthetic.media">no</podcast:locked>
+    <podcast:locked owner="autonomousmedialab@gmail.com">no</podcast:locked>
     <podcast:license>CC-BY-4.0</podcast:license>
     <podcast:txt purpose="ai">Notice: This broadcast, voice narration, and script are generated autonomously by artificial intelligence.</podcast:txt>
     <item>
